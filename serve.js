@@ -18,8 +18,32 @@ const MIME = {
   '.ico':  'image/x-icon',
 };
 
-const server = http.createServer((req, res) => {
-  const urlPath  = req.url.split('?')[0]; // strip query string
+const server = http.createServer(async (req, res) => {
+  const urlPath = req.url.split('?')[0];
+
+  // Emulate Vercel's /api/scrape serverless function locally
+  if (urlPath === '/api/scrape') {
+    const handler = require('./api/scrape');
+    const mockRes = {
+      _status: 200,
+      _headers: {},
+      setHeader(k, v) { this._headers[k] = v; },
+      status(code)    { this._status = code; return this; },
+      json(data) {
+        res.writeHead(this._status, { 'Content-Type': 'application/json', ...this._headers });
+        res.end(JSON.stringify(data));
+      },
+    };
+    try {
+      await handler(req, mockRes);
+    } catch (err) {
+      res.writeHead(500, { 'Content-Type': 'application/json' });
+      res.end(JSON.stringify({ error: err.message }));
+    }
+    return;
+  }
+
+  // Static files
   const filePath = path.join(__dirname, urlPath === '/' ? 'index.html' : urlPath);
   const ext      = path.extname(filePath);
   const mime     = MIME[ext] || 'text/plain; charset=utf-8';
@@ -41,6 +65,6 @@ const server = http.createServer((req, res) => {
 server.listen(PORT, () => {
   console.log('\n🛒  Comparador de Precios - Servidor iniciado');
   console.log(`    http://localhost:${PORT}\n`);
-  console.log('    Para actualizar precios: node scraper.js');
+  console.log('    El scraper corre en tiempo real al abrir la página (~20-30s)\n');
   console.log('    Ctrl+C para detener\n');
 });
