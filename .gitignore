@@ -1,0 +1,5 @@
+node_modules/
+debug-*.png
+yarn.lock
+package-lock.json
+precios-tabla.txt

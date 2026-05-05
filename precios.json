@@ -1,0 +1,5100 @@
+{
+  "queso Tregar light": {
+    "DIA": [
+      {
+        "nombre": "Queso Untable Tregar Light 290 Gr.",
+        "marca": "TREGAR",
+        "precio": 3898,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Queso neufchatel Tregar light en pote 180 g.",
+        "marca": "Tregar",
+        "precio": 2889,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso untable Tregar cheddar light en pote 190 g.",
+        "marca": "Tregar",
+        "precio": 2889,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso crema Tregar light 190 g.",
+        "marca": "Tregar",
+        "precio": 2989,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso blanco Tregar light 290 g.",
+        "marca": "Tregar",
+        "precio": 3899,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Queso Crema Light x 0.190 Kg x 1 Un Tregar",
+        "marca": "TREGAR",
+        "precio": 3100,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Queso Por Salut Tregar Light Fraccionado  Paq 1 Kg",
+        "marca": "TREGAR",
+        "precio": 16960,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Queso Crema Light Tregar Pot 190 Grm",
+        "marca": "TREGAR",
+        "precio": 2990,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso Blanco Light Tregar 290g",
+        "marca": "TREGAR",
+        "precio": 3900,
+        "disponible": true,
+        "_score": 3
+      }
+    ]
+  },
+  "yogurt batido Ser PRO": {
+    "DIA": [
+      {
+        "nombre": "Yogur Batido Ser PRO+ Con Proteínas Sabor Natural 175 Gr.",
+        "marca": "SER",
+        "precio": 2965,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Yogur Batido Ser PRO+ Con Proteínas Sabor Frutos Rojos 175 Gr.",
+        "marca": "SER",
+        "precio": 2965,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Yogur batido Ser PRO+ con proteínas sabor natural 175 grs",
+        "marca": "Ser",
+        "precio": 2965,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Yogur batido Ser PRO+ con proteínas sabor frutos rojos 175 grs",
+        "marca": "Ser",
+        "precio": 2965,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": [
+      {
+        "nombre": "Yogur Batido SER Pro+ Con Proteínas Sabor Natural 175g",
+        "marca": "SER",
+        "precio": 2965,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Yogur Batido SER Pro+ Con Proteínas Sabor Frutos Rojos 175g",
+        "marca": "SER",
+        "precio": 2965,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "NINI": [
+      {
+        "nombre": "SER Yogur Batido PRO+ Natural 175g",
+        "marca": "SER",
+        "precio": 2848,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "SER Yogur Batido PRO+ Fruta Roja 175g",
+        "marca": "SER",
+        "precio": 2414,
+        "disponible": true,
+        "_score": 4
+      }
+    ]
+  },
+  "huevos": {
+    "DIA": [
+      {
+        "nombre": "Huevo de Pascuas Chocolate Milka 22 Gr.",
+        "marca": "MILKA",
+        "precio": 1200,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Grandes Blancos Don Ramón 6 Ud.",
+        "marca": "DON RAMON",
+        "precio": 2190,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevo Blanco Extragrande Opi 6 Ud.",
+        "marca": "OPI",
+        "precio": 2190,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Fideos Al Huevo Tirabuzón Don Vicente 500 Gr.",
+        "marca": "DON VICENTE",
+        "precio": 2419.5,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevo Color Grande 6 Ud.",
+        "marca": "SIN MARCA",
+        "precio": 2790,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevo Blanco Grande 12 Ud.",
+        "marca": "SIN MARCA",
+        "precio": 4190,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevo de pascua Shot 210 Gr.",
+        "marca": "SHOT",
+        "precio": 12500,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Huevos blancos Avicoper 6 u.",
+        "marca": "Avicoper",
+        "precio": 2150,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos color Avicoper 6 u.",
+        "marca": "Avicoper",
+        "precio": 2400,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos de pascuas sorpresa constucción",
+        "marca": "Genérico",
+        "precio": 2990,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos libres de jaula Huella Natural 6 uni",
+        "marca": "Huella Natural",
+        "precio": 3090,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos de pascuas para pintar",
+        "marca": "Genérico",
+        "precio": 4990,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevo blanco El Mercado carton 30 uni",
+        "marca": "Carrefour",
+        "precio": 6741,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Caja con 12 huevos de pascuas dinos",
+        "marca": "Genérico",
+        "precio": 8990,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos blancos Avicoper 30 u.",
+        "marca": "Avicoper",
+        "precio": 9100,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Organizador plástico para 17 huevos 30x10x10.4 cm",
+        "marca": "Genérico",
+        "precio": 16789,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Caja con 12 huevos de pascuas conejos",
+        "marca": "Genérico",
+        "precio": 16990,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Organizador ps 28 huevos 30x15x10.4 cm",
+        "marca": "Genérico",
+        "precio": 21490,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Huevos Blancos 6 U Maxima",
+        "marca": "MAXIMA",
+        "precio": 2430,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Blancos Carnave 6 U",
+        "marca": "CARNAVE",
+        "precio": 2450,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos De Color Carnave 6 U",
+        "marca": "CARNAVE",
+        "precio": 2700,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Color 6 Un Maxima",
+        "marca": "MAXIMA",
+        "precio": 2700,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Color Doña Lala X 6u Carton",
+        "marca": "DOÑA LALA",
+        "precio": 2700,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Blancos Carnave 6 U",
+        "marca": "CARNAVE",
+        "precio": 3000,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos De Color Libres De Jaula 6u Avicoper",
+        "marca": "AVICOPER",
+        "precio": 3050,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos De Color Carnave 6 U",
+        "marca": "CARNAVE",
+        "precio": 3800,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Blancos 12 Un Maxima",
+        "marca": "MAXIMA",
+        "precio": 4750,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Blancos Carnave 12 U",
+        "marca": "CARNAVE",
+        "precio": 5200,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Color 12 Un Maxima",
+        "marca": "MAXIMA",
+        "precio": 5410,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Color Carnave Cereal X Docena",
+        "marca": "CARNAVE",
+        "precio": 7550,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Blancos 30 Un Maxima",
+        "marca": "MAXIMA",
+        "precio": 8320,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Blancos Avicoper 30 U",
+        "marca": "AVICOPER",
+        "precio": 8600,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Organizador De Huevos 21 Unid Clear Fresh  Ou",
+        "marca": "OU",
+        "precio": 19599,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Huevos Blancos 6 Un Maxima",
+        "marca": "MAXIMA",
+        "precio": 2470,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Blancos Carnave 6 U",
+        "marca": "CARNAVE",
+        "precio": 2500,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Color 6 Un Maxima Mp",
+        "marca": "MAXIMA",
+        "precio": 2800,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Blancos 6 Un Cuisine & Co",
+        "marca": "Cuisine & CO",
+        "precio": 2890,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Color 6 Un Cuisine & Co",
+        "marca": "Cuisine & CO",
+        "precio": 3040,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos De Color Avicoper 6 U - 1 Paquete",
+        "marca": "AVICOPER",
+        "precio": 3300,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Blancos 12 Un Maxima",
+        "marca": "MAXIMA",
+        "precio": 4900,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos De Color Avicoper 10 U - 1 Paquete",
+        "marca": "AVICOPER",
+        "precio": 5250,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Blancos 12 Un Cuisine & Co",
+        "marca": "Cuisine & CO",
+        "precio": 5400,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Color 12 Un Cuisine & Co",
+        "marca": "Cuisine & CO",
+        "precio": 5450,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Color 12 Un Maxima",
+        "marca": "MAXIMA",
+        "precio": 5560,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos De Color Avicoper 12 U - 1 Paquete",
+        "marca": "AVICOPER",
+        "precio": 6200,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Blancos 30 Un Maxima",
+        "marca": "MAXIMA",
+        "precio": 8560,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Blancos Avicoper 30 U",
+        "marca": "AVICOPER",
+        "precio": 8600,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos Color 30 Un Maxima",
+        "marca": "MAXIMA",
+        "precio": 10260,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Huevo Color . Cja 6 Uni",
+        "marca": "AVICOLA BRANDSEN",
+        "precio": 1950,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevo Blanco Extra 6 Uni",
+        "marca": "AVICOLA BRANDSEN",
+        "precio": 1950,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevo Blanco Extra AVICOPER 10u",
+        "marca": "AVICOPER",
+        "precio": 3390,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevo Blanco Grand . Cja 12 Uni",
+        "marca": "AVICOPER",
+        "precio": 3490,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevo Color Gallinas A Campo Avicoper 6u",
+        "marca": "AVICOPER",
+        "precio": 3690,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevo Blanco Extra 12u",
+        "marca": "",
+        "precio": 3950,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevo Color . Cja 12 Uni",
+        "marca": "AVICOPER",
+        "precio": 3990,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevo Blanco . Coto Bli 12 Uni",
+        "marca": "COTO",
+        "precio": 4350,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevo Color Extra 12u",
+        "marca": "",
+        "precio": 4650,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevo Color . Coto Bli 12 Uni",
+        "marca": "COTO",
+        "precio": 4890,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevo blanco grande maple CYCLAMEN 30u",
+        "marca": "CYCLAMEN",
+        "precio": 7990,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Huevos De Color Maple X 30u.",
+        "marca": "AVICOPER",
+        "precio": 8990,
+        "disponible": true,
+        "_score": 1
+      }
+    ]
+  },
+  "mate cocido union": {
+    "DIA": [],
+    "CARREFOUR": [
+      {
+        "nombre": "Mate cocido Unión filtro diamantado x 25 uni",
+        "marca": "Unión",
+        "precio": 1365,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Mate cocido saquitos diamantados Unión x 100 uni",
+        "marca": "Unión",
+        "precio": 4709,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Mate Cocido Union 25 Saquitos",
+        "marca": "UNION",
+        "precio": 1450,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Mate Cocido Suave 150 Grs x 50 Un Union",
+        "marca": "UNION",
+        "precio": 2600,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Mate Cocido Suave 300 Grs x 100 Un Union",
+        "marca": "UNION",
+        "precio": 4950,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Mate Cocido Union 25 Saquitos",
+        "marca": "UNION",
+        "precio": 1450,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Mate Cocido Suave 150 Grs x 50 Un Union",
+        "marca": "UNION",
+        "precio": 2650,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Mate Cocido Union X25 Saq Cja 75 Grm",
+        "marca": "SUAVE",
+        "precio": 1364,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Mate Cocido X50 Saq Filtro Union Est 150 Grm",
+        "marca": "SUAVE UNION",
+        "precio": 2477,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Mate Cocido SUAVE UNION Suave Caja 40 Saquitos",
+        "marca": "SUAVE UNION",
+        "precio": 3400,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Mate Cocido X100 Saq Filtr Union 300 Grm",
+        "marca": "SUAVE UNION",
+        "precio": 4703,
+        "disponible": true,
+        "_score": 3
+      }
+    ]
+  },
+  "galletas de arroz dos hermanos": {
+    "DIA": [],
+    "CARREFOUR": [
+      {
+        "nombre": "Galletas de arroz Dos Hermanos dulce 120 g.",
+        "marca": "Dos Hermanos",
+        "precio": 1071.75,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Galletas de arroz Dos Hermanos slim dulce 100 g.",
+        "marca": "Dos Hermanos",
+        "precio": 1350,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Galletas de arroz Dos Hermanos slim salada 100 g.",
+        "marca": "Dos Hermanos",
+        "precio": 1350,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Galletas de arroz Dos Hermanos slim sin sal 100 g.",
+        "marca": "Dos Hermanos",
+        "precio": 1350,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Galletas De Arroz Dos Hermanos Dulces 100gr",
+        "marca": "DOS HERMANOS",
+        "precio": 1400,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Galletas De Arroz Dos Hermanos Saladas 100gr",
+        "marca": "DOS HERMANOS",
+        "precio": 1400,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Galletas De Arroz Dos Hermanos Sin Sal 100gr",
+        "marca": "DOS HERMANOS",
+        "precio": 1400,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Galletas De Arroz Dos Hermanos Dulces 100gr",
+        "marca": "DOS HERMANOS",
+        "precio": 1450,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "COTO": []
+  },
+  "cereales sin azucar": {
+    "DIA": [],
+    "CARREFOUR": [
+      {
+        "nombre": "Nesfit Cereal Sin Azúcar 220 grs",
+        "marca": "Nesfit",
+        "precio": 5100,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": [
+      {
+        "nombre": "NESFIT Cereal Sin Azúcar X 220gr",
+        "marca": "NESFIT",
+        "precio": 5180,
+        "disponible": true,
+        "_score": 3
+      }
+    ]
+  },
+  "miel organica": {
+    "DIA": [],
+    "CARREFOUR": [
+      {
+        "nombre": "Miel Carrefour Bio orgánica 300 g.",
+        "marca": "Carrefour",
+        "precio": 5778.5,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Miel orgánica líquida Aleluya sin tacc 250 grs",
+        "marca": "Aleluya",
+        "precio": 7115,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de mostaza con miel orgánica Pampagourmet en botella 170 g.",
+        "marca": "Pampagourmet",
+        "precio": 8685,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Miel cremosa orgánica Montecitos 500 g.",
+        "marca": "Montecitos",
+        "precio": 9850,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Miel orgánica líquida Aleluya sin tacc 500 grs",
+        "marca": "Aleluya",
+        "precio": 10650,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Miel Orgánica 500 Grs Montecitos",
+        "marca": "MONTECITOS",
+        "precio": 9850,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Miel Cremosa Orgánica 500 Grs Dicomere",
+        "marca": "DICOMERE",
+        "precio": 13100,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Miel Orgánica 500 Grs Montecitos",
+        "marca": "MONTECITOS",
+        "precio": 10150,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Miel Cremosa Orgánica 500 Grs Dicomere",
+        "marca": "DICOMERE",
+        "precio": 13500,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Miel Orgánica Premi Los Amarill Fra 330 Grm",
+        "marca": "LOS AMARILLO",
+        "precio": 3999,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Miel Orgánica De Yunga Premium LOS AMARILLOS 470 Grm",
+        "marca": "LOS AMARILLOS",
+        "precio": 4999,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Te Orgánico Rosa Mosqueta Y Miel Orgánicas Wallys Tea 30g",
+        "marca": "WALLYS TEA",
+        "precio": 5659,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Miel Orgánica Premi Yunga Andin Fra 330 Grm",
+        "marca": "YUNGA ANDINA",
+        "precio": 5699,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Miel Orgánica Premi Yunga Andin Fra 470 Grm",
+        "marca": "YUNGA ANDINA",
+        "precio": 5999,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Miel Liquida Orgánica Aleluya 250g",
+        "marca": "ALELUYA",
+        "precio": 7115,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Miel Orgánica Nectar De Los Dioses Fra 500 Grm",
+        "marca": "NECTAR DE LOS DIOSES",
+        "precio": 7415,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Miel Liquida Orgánica Aleluya 500g",
+        "marca": "ALELUYA",
+        "precio": 10650,
+        "disponible": true,
+        "_score": 2
+      }
+    ]
+  },
+  "ketchup Natura": {
+    "DIA": [
+      {
+        "nombre": "Ketchup Natura 250 Gr.",
+        "marca": "NATURA",
+        "precio": 1050,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Ketchup Natura 500 Gr.",
+        "marca": "NATURA",
+        "precio": 3420,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Ketchup Natura 250 cc.",
+        "marca": "Natura",
+        "precio": 1700,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Ketchup Natura 500 cc.",
+        "marca": "Natura",
+        "precio": 3400,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Ketchup 250 Grs Natura",
+        "marca": "NATURA",
+        "precio": 1850,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Ketchup 500 Grs Natura",
+        "marca": "NATURA",
+        "precio": 3700,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Ketchup 250 Grs Natura",
+        "marca": "NATURA",
+        "precio": 1900,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Ketchup 500 Grs Natura",
+        "marca": "NATURA",
+        "precio": 3750,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Ketchup NATURA Pouch 250 Gr",
+        "marca": "NATURA",
+        "precio": 1742,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Ketchup NATURA Pouch 500 Gr",
+        "marca": "NATURA",
+        "precio": 3422,
+        "disponible": true,
+        "_score": 2
+      }
+    ]
+  },
+  "mayonesa": {
+    "DIA": [
+      {
+        "nombre": "Mayonesa DIA 220 Ml.",
+        "marca": "DIA",
+        "precio": 970,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Cañuelas 250 Gr.",
+        "marca": "CAÑUELAS",
+        "precio": 1335,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Cañuelas 500 Gr.",
+        "marca": "CAÑUELAS",
+        "precio": 1530,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Natura 250 Ml.",
+        "marca": "NATURA",
+        "precio": 1550,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa DIA 500 Ml.",
+        "marca": "DIA",
+        "precio": 1785,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Pouch Danica 500 Gr.",
+        "marca": "DANICA",
+        "precio": 1959,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Vegana Hellmanns 250 Gr.",
+        "marca": "HELLMANNS",
+        "precio": 2027,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Heinz 350 Gr.",
+        "marca": "HEINZ",
+        "precio": 2628,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa De Ajo Hellmans 250 Gr.",
+        "marca": "HELLMANNS",
+        "precio": 2679,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Original Livian 500 Gr.",
+        "marca": "LIVIAN",
+        "precio": 2710,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Equilibrio Livian 500 Gr.",
+        "marca": "LIVIAN",
+        "precio": 2710,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Natura 500 Ml.",
+        "marca": "NATURA",
+        "precio": 3040,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Dia 846 Gr.",
+        "marca": "DIA",
+        "precio": 3130,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Light Heinz 350 Gr.",
+        "marca": "HEINZ",
+        "precio": 3301,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Natura 1 Lt.",
+        "marca": "NATURA",
+        "precio": 5968,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Mayonesa Dánica dp 250 cc.",
+        "marca": "Dánica",
+        "precio": 1089,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Cañuelas 250 cc.",
+        "marca": "Cañuelas",
+        "precio": 1329,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Natura 237 g.",
+        "marca": "Natura",
+        "precio": 1549,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa liviana Hellmanns doypack 237 g.",
+        "marca": "Hellmanns",
+        "precio": 1599,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa  d´ Fiesta 500 cc.",
+        "marca": "Fiesta",
+        "precio": 1839,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Dánica dp 500 g.",
+        "marca": "Dánica",
+        "precio": 1959,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa liviana Hellmanns dp 475 g",
+        "marca": "Hellmanns",
+        "precio": 2100,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Cañuelas 500 cc.",
+        "marca": "Cañuelas",
+        "precio": 2169,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Hellmanns ajo doypack 250 g.",
+        "marca": "Hellmanns",
+        "precio": 2459.25,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Natura 475 g.",
+        "marca": "Natura",
+        "precio": 3039,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Hellmanns ajo squeeze 340 g.",
+        "marca": "Hellmanns",
+        "precio": 3471.75,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa d' Fiesta 1 kg.",
+        "marca": "Fiesta",
+        "precio": 3839,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Dánica 1 kg.",
+        "marca": "Dánica",
+        "precio": 4079,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa liviana Hellmanns doypack 950 g.",
+        "marca": "Hellmanns",
+        "precio": 5557,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Natura 950 g.",
+        "marca": "Natura",
+        "precio": 5959,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Mayonesa Original 100 Cc Livian",
+        "marca": "LIVIAN",
+        "precio": 700,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Aderezo Mayonesa Natura 237 Gr",
+        "marca": "NATURA",
+        "precio": 1700,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa 475 Grs D'Fiesta",
+        "marca": "D'FIESTA",
+        "precio": 1850,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Tradicional 500 Ml Danica",
+        "marca": "DANICA",
+        "precio": 2000,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Original 500 Cc Livian",
+        "marca": "LIVIAN",
+        "precio": 2500,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Equilibrio 500 Cc Livian",
+        "marca": "LIVIAN",
+        "precio": 2550,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa 350 Grs Heinz",
+        "marca": "HEINZ",
+        "precio": 2750,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Liviana 475 Grs Hellmann's",
+        "marca": "HELLMANN´S",
+        "precio": 2858,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Liviana 320 Grs Hellmann's",
+        "marca": "HELLMANN´S",
+        "precio": 2950,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Clásica 475 Grs Natura",
+        "marca": "NATURA",
+        "precio": 3054,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Light Heinz 350 Gr",
+        "marca": "HEINZ",
+        "precio": 3550,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Clásica 320 Grs Hellmann's",
+        "marca": "HELLMANN´S",
+        "precio": 3700,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa La Campagnola 1000 Gr",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 5250,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Aderezo Mayonesa Natura 950 Gr",
+        "marca": "NATURA",
+        "precio": 6250,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Clásica 340 Grs Arytza",
+        "marca": "ARYTZA",
+        "precio": 8900,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Aderezo Mayonesa Natura 237 Gr",
+        "marca": "NATURA",
+        "precio": 1700,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Clásica 237 Grs Hellmann's",
+        "marca": "HELLMANN´S",
+        "precio": 1700,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Liviana 237 Grs Hellmann's",
+        "marca": "HELLMANN´S",
+        "precio": 1750,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa 475 Grs D'Fiesta",
+        "marca": "D'FIESTA",
+        "precio": 1900,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Tradicional 500 Ml Danica",
+        "marca": "DANICA",
+        "precio": 2050,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Original 500 Cc Livian",
+        "marca": "LIVIAN",
+        "precio": 2550,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Equilibrio 500 Cc Livian",
+        "marca": "LIVIAN",
+        "precio": 2600,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa 350 Grs Heinz",
+        "marca": "HEINZ",
+        "precio": 2850,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Liviana 475 Grs Hellmann's",
+        "marca": "HELLMANN´S",
+        "precio": 2863,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Clásica 475 Grs Natura",
+        "marca": "NATURA",
+        "precio": 3069,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Light Heinz 350 Gr",
+        "marca": "HEINZ",
+        "precio": 3600,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Liviana 950 Grs Hellmann's",
+        "marca": "HELLMANN´S",
+        "precio": 6050,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Clásica 950 Grs Hellmann's",
+        "marca": "HELLMANN´S",
+        "precio": 6050,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Aderezo Mayonesa Natura 950 Gr",
+        "marca": "NATURA",
+        "precio": 6400,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Clásica 340 Grs Arytza",
+        "marca": "ARYTZA",
+        "precio": 9150,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Mayonesa NATURA Pouch 237 Gr",
+        "marca": "NATURA",
+        "precio": 1551,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Clásica Hellmanns 237gr",
+        "marca": "HELLMANNS",
+        "precio": 1598,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa CADA DIA Pouch 475 Gr",
+        "marca": "CADA DIA",
+        "precio": 1639,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Con Jugo De Limon Cañuelas 482g",
+        "marca": "CAÑUELAS",
+        "precio": 2337,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Original Heinz Doy 350 Grm",
+        "marca": "HEINZ",
+        "precio": 2614,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Liviana Hellmanns 475g",
+        "marca": "HELLMANNS",
+        "precio": 2890,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Clásica HELLMANNS 475gr",
+        "marca": "HELLMANNS",
+        "precio": 2890,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa NATURA Pouch 475 Gr",
+        "marca": "NATURA",
+        "precio": 3042,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa CADA DIA Liviana Pouch 950 Gr",
+        "marca": "CADA DIA",
+        "precio": 3178,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Liviana Hellmanns 320 Grm",
+        "marca": "HELLMANNS",
+        "precio": 3504,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa HELLMANNS Tipo Casera 445g",
+        "marca": "HELLMANNS",
+        "precio": 4502,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Liviana Hellmanns 950g",
+        "marca": "HELLMANNS",
+        "precio": 5558,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Mayonesa Clásica HELLMANNS 950g",
+        "marca": "HELLMANNS",
+        "precio": 5558,
+        "disponible": true,
+        "_score": 1
+      }
+    ]
+  },
+  "pan rallado": {
+    "DIA": [
+      {
+        "nombre": "Pan Rallado Exclusivo 400 Gr.",
+        "marca": "EXCLUSIVO",
+        "precio": 910,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Morixe 500 Gr.",
+        "marca": "MORIXE",
+        "precio": 1160,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Pureza Integral 350 Gr.",
+        "marca": "PUREZA",
+        "precio": 1170,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Dia 500 Gr.",
+        "marca": "DIA",
+        "precio": 1350,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Mamá Cocina Ajo y Perejil 500 Gr.",
+        "marca": "MAMA COCINA",
+        "precio": 1358.5,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Mamá Cocina 500 Gr.",
+        "marca": "MAMA COCINA",
+        "precio": 1670,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Fortificado Preferido 500 Gr.",
+        "marca": "PREFERIDO",
+        "precio": 1890,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Mamá Cocina 1 Kg.",
+        "marca": "MAMA COCINA",
+        "precio": 2060.5,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Sin Tacc Mama Cocina 350 Gr.",
+        "marca": "MAMA COCINA",
+        "precio": 2782,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Morixe 1 Kg.",
+        "marca": "MORIXE",
+        "precio": 2990,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Preferido 1 Kg.",
+        "marca": "PREFERIDO",
+        "precio": 3590,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Pan rallado Cañuelas 500 g.",
+        "marca": "Cañuelas",
+        "precio": 1429,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan rallado Morixe 500 g.",
+        "marca": "Morixe",
+        "precio": 1469,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan rallado Mamá Cocina fortificado 500 g.",
+        "marca": "Mamá Cocina",
+        "precio": 1560,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan rallado integral Pureza bolsa 350 g.",
+        "marca": "Pureza",
+        "precio": 1775,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan rallado Preferido fortificado 500 g.",
+        "marca": "Preferido",
+        "precio": 1889,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan rallado Favorita vitaminas 900 g.",
+        "marca": "Favorita",
+        "precio": 2219,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan rallado Preferido de ajo y perejil 500 g.",
+        "marca": "Preferido",
+        "precio": 2250,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan rallado Carrefour classic 1 kg.",
+        "marca": "Carrefour",
+        "precio": 2352,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Morixe 1 kg.",
+        "marca": "Morixe",
+        "precio": 2700,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan rallado Mamá Cocina fortificado 1 kg.",
+        "marca": "Mamá Cocina",
+        "precio": 3099,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan rallado Carrefour Classic provenzal 350 g. sin TACC",
+        "marca": "Carrefour",
+        "precio": 3412.5,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan rallado Carrefour 350 g. sin TACC",
+        "marca": "Carrefour",
+        "precio": 3487.5,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan rallado Preferido libre de gluten 350 ml",
+        "marca": "Preferido",
+        "precio": 4099,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan rallado sin gluten Mamá Cocina 350 grs",
+        "marca": "Mamá Cocina",
+        "precio": 4210,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Pan Rallado Cuisine & Co 400 G",
+        "marca": "JUMBO",
+        "precio": 1170,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Favorita Fte Vit&min X450g",
+        "marca": "FAVORITA",
+        "precio": 1300,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado 500 Grs Cañuelas",
+        "marca": "CAÑUELAS",
+        "precio": 1500,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado 500 Grs Morixe",
+        "marca": "MORIXE",
+        "precio": 1550,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Nutrivit 500 Grs Lucchetti",
+        "marca": "LUCCHETTI",
+        "precio": 1550,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado 500 Grs Mamá Cocina",
+        "marca": "MAMA COCINA",
+        "precio": 1700,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Fortificado Familiar 500 Grs Preferido",
+        "marca": "PREFERIDO",
+        "precio": 2050,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Cuisine & Co 850 G",
+        "marca": "JUMBO",
+        "precio": 2090,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Familiar 900 Grs Favorita",
+        "marca": "FAVORITA",
+        "precio": 2500,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Morixe 1 Kg",
+        "marca": "MORIXE",
+        "precio": 2850,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Nutrivit Familiar 1 Kg Lucchetti",
+        "marca": "LUCCHETTI",
+        "precio": 2900,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Familiar 1 Kg Preferido",
+        "marca": "PREFERIDO",
+        "precio": 3600,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado 350 Gr Smams",
+        "marca": "SMAMS",
+        "precio": 3750,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Rebozador Pan Rallado Horno Familiar 1 Kg Preferido",
+        "marca": "PREFERIDO",
+        "precio": 4300,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Libre De Glúten X 350 Gr Preferido",
+        "marca": "PREFERIDO",
+        "precio": 4350,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Pan Rallado Cuisine & Co 400 G",
+        "marca": "JUMBO",
+        "precio": 1200,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Favorita Fte Vit&min X450g",
+        "marca": "FAVORITA",
+        "precio": 1350,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado 500 Grs Cañuelas",
+        "marca": "CAÑUELAS",
+        "precio": 1550,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado 500 Grs Morixe",
+        "marca": "MORIXE",
+        "precio": 1550,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Nutrivit 500 Grs Lucchetti",
+        "marca": "LUCCHETTI",
+        "precio": 1550,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Integral con semillas 350 Grs Pureza",
+        "marca": "PUREZA",
+        "precio": 1950,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Fortificado Familiar 500 Grs Preferido",
+        "marca": "PREFERIDO",
+        "precio": 2050,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Cuisine & Co 850 G",
+        "marca": "JUMBO",
+        "precio": 2150,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Familiar 900 Grs Favorita",
+        "marca": "FAVORITA",
+        "precio": 2600,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Morixe 1 Kg",
+        "marca": "MORIXE",
+        "precio": 2950,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Nutrivit Familiar 1 Kg Lucchetti",
+        "marca": "LUCCHETTI",
+        "precio": 3000,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado (p)",
+        "marca": "PANADERIA PROPIA",
+        "precio": 3499,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Familiar 1 Kg Preferido",
+        "marca": "PREFERIDO",
+        "precio": 3600,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Rebozador Pan Rallado Horno Familiar 1 Kg Preferido",
+        "marca": "PREFERIDO",
+        "precio": 4300,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Libre De Glúten X 350 Gr Preferido",
+        "marca": "PREFERIDO",
+        "precio": 4450,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Pan Rallado MORIXE 500 Gr",
+        "marca": "MORIXE",
+        "precio": 1549.99,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado MAMA COCINA 500g",
+        "marca": "MAMA COCINA",
+        "precio": 1638,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Integral C/Semilla Pureza 350 Grm",
+        "marca": "PUREZA",
+        "precio": 1806,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Fortificado Preferido 500g",
+        "marca": "PREFERIDO",
+        "precio": 1890,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Con Ajo Y Perejil Mamá Cocina 500 Grm",
+        "marca": "MAMA COCINA",
+        "precio": 2089,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado MORIXE 1 Kg",
+        "marca": "MORIXE",
+        "precio": 2709,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Mama Cocina 1 Kg",
+        "marca": "MAMÁ COCINA",
+        "precio": 3150,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Fortificado Preferido 1kg",
+        "marca": "PREFERIDO",
+        "precio": 3590,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Pan Rallado Sin Gluten Mama Cocina 350g",
+        "marca": "MAMA COCINA",
+        "precio": 4287,
+        "disponible": true,
+        "_score": 2
+      }
+    ]
+  },
+  "salchicha paty": {
+    "DIA": [
+      {
+        "nombre": "Salchichas Clasicas X6 Ud Paty Viena 230 Gr.",
+        "marca": "PATYVIENA",
+        "precio": 1575,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "CARREFOUR": [],
+    "JUMBO": [
+      {
+        "nombre": "Salchichas Viena Clasicas x 12 Un 460 Grs Paty",
+        "marca": "PATY",
+        "precio": 5400,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Salchichas Viena Clasicas x 12 Un 460 Grs Paty",
+        "marca": "PATY",
+        "precio": 5400,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "COTO": []
+  },
+  "queso port salut La serenisima": {
+    "DIA": [
+      {
+        "nombre": "Queso Por Salut Sin Lactosa La Serenisima x Kg.",
+        "marca": "LA SERENISIMA",
+        "precio": 17642,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Queso Por Salut Light La Serenisima 500 Gr.",
+        "marca": "LA SERENISIMA",
+        "precio": 21152,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Queso port salut La Serenísima sin lactosa x kg.",
+        "marca": "La Serenísima",
+        "precio": 17640,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Queso port salut La Serenísima sin sal fraccionado x kg",
+        "marca": "La Serenísima",
+        "precio": 21169,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Queso port salut light La Serenísima sin lactosa x kg.",
+        "marca": "La Serenísima",
+        "precio": 21169,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Queso Port Salut x 1 Kg La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 18620,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Queso Port Salut Sin Sal X Kg La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 22880,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Queso Port Salut x 1 Kg La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 18620,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Queso Port Salut Sin Sal X Kg La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 22880,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Queso Port Salut La Serenísima X Kg",
+        "marca": "LA SERENISIMA",
+        "precio": 18345,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Queso Port Salut La Serenísima - X Kg",
+        "marca": "LA SERENISIMA",
+        "precio": 22015,
+        "disponible": true,
+        "_score": 4
+      }
+    ]
+  },
+  "queso parmesano la serenisima": {
+    "DIA": [],
+    "CARREFOUR": [
+      {
+        "nombre": "Queso parmesano rallado La serenÍsima 80 g.",
+        "marca": "La Serenísima",
+        "precio": 3839,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso parmesano La serenísima fraccionado x kg.",
+        "marca": "La Serenísima",
+        "precio": 47395,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Queso Parmesano Rallado 80 Gr x 1 Un La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 4150,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "DISCO": [],
+    "COTO": [
+      {
+        "nombre": "Queso Parmesano Rallado LA SERENISIMA 80g",
+        "marca": "LA SERENISIMA",
+        "precio": 3839,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso Parmesano Selección Fraccionado LA SERENISIMA X 1kg",
+        "marca": "LA SERENISIMA",
+        "precio": 47395,
+        "disponible": true,
+        "_score": 3
+      }
+    ]
+  },
+  "jamon cocido bajo en sodio paladini": {
+    "DIA": [
+      {
+        "nombre": "Jamón Cocido Paladini Feteado bajo sodio 150 Gr.",
+        "marca": "PALADINI",
+        "precio": 4390,
+        "disponible": true,
+        "_score": 5
+      }
+    ],
+    "CARREFOUR": [],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": [],
+    "NINI": [
+      {
+        "nombre": "Paladini Jamón Reducido Sodio 150g",
+        "marca": "PALADINI",
+        "precio": 3537,
+        "disponible": true,
+        "_score": 5
+      }
+    ]
+  },
+  "mozzarella La Serenisima": {
+    "DIA": [],
+    "CARREFOUR": [
+      {
+        "nombre": "Mozzarella La Serenísima 500 grs",
+        "marca": "La Serenísima",
+        "precio": 12575,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": [
+      {
+        "nombre": "Queso Mozzarella Sin Lactosa LA SERENISIMA 500g",
+        "marca": "LA SERENISIMA",
+        "precio": 12575,
+        "disponible": true,
+        "_score": 2
+      }
+    ]
+  },
+  "te verde Inti Zen": {
+    "DIA": [],
+    "CARREFOUR": [
+      {
+        "nombre": "Té verde en saquitos Inti Zen silencio andino 15 u.",
+        "marca": "Inti Zen",
+        "precio": 5050,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Té verde en saquitos Inti Zen verde chai spiced 15 u.",
+        "marca": "Inti Zen",
+        "precio": 5249,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Té Verde Inti Zen Matcha 15 Saquitos",
+        "marca": "INTI ZEN",
+        "precio": 5500,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Té Chai Sabor Té Verde x 15 Un Inti Zen",
+        "marca": "INTI ZEN",
+        "precio": 5500,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Té Verde Silencio Andino Sabor Manzanilla y Naranja x 15 Un Inti Zen",
+        "marca": "INTI ZEN",
+        "precio": 5500,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Té Verde Inti Zen Matcha 15 Saquitos",
+        "marca": "INTI ZEN",
+        "precio": 5650,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Té Chai Sabor Té Verde x 15 Un Inti Zen",
+        "marca": "INTI ZEN",
+        "precio": 5650,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Té Verde Silencio Andino Sabor Manzanilla y Naranja x 15 Un Inti Zen",
+        "marca": "INTI ZEN",
+        "precio": 5650,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Te Verde Chai 15 Saquitos INTI ZEN Caja 30 Grm",
+        "marca": "INTI ZEN",
+        "precio": 5350,
+        "disponible": true,
+        "_score": 4
+      }
+    ]
+  },
+  "azucar ledesma": {
+    "DIA": [
+      {
+        "nombre": "Azucar Ledesma Refinado Superior 1 Kg.",
+        "marca": "LEDESMA",
+        "precio": 1498,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Azúcar Ledesma Light 500 Gr.",
+        "marca": "LEDESMA",
+        "precio": 2496,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Azúcar Rubia Mascabo Ledesma 800 Gr.",
+        "marca": "LEDESMA",
+        "precio": 2509,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Azúcar Ledesma molida superior bolsa 1 kg.",
+        "marca": "Ledesma",
+        "precio": 1499,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Azúcar Ledesma light 500 g.",
+        "marca": "Ledesma",
+        "precio": 2495,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Azúcar mascabo Ledesma 800 g.",
+        "marca": "Ledesma",
+        "precio": 2509,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Azúcar Molida 1 Kg Ledesma",
+        "marca": "LEDESMA",
+        "precio": 1502,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Azucar Light 500 Grs Ledesma",
+        "marca": "LEDESMA",
+        "precio": 2650,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Azucar Mascabo 800 Grs Ledesma",
+        "marca": "LEDESMA",
+        "precio": 2700,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Azúcar Molida 1 Kg Ledesma",
+        "marca": "LEDESMA",
+        "precio": 1508,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Azucar Light 500 Grs Ledesma",
+        "marca": "LEDESMA",
+        "precio": 2700,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Azúcar Superior Real LEDESMA 1kg",
+        "marca": "LEDESMA",
+        "precio": 1499,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Azúcar LEDESMA Light 500 Gr",
+        "marca": "LEDESMA",
+        "precio": 2496,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Azúcar Rubio Mascabo LEDESMA 800g",
+        "marca": "LEDESMA",
+        "precio": 2509,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "NINI": [
+      {
+        "nombre": "Azúcar Mascabo Ledesma 600g",
+        "marca": "LEDESMA",
+        "precio": 1767,
+        "disponible": true,
+        "_score": 2
+      }
+    ]
+  },
+  "yerba pipore": {
+    "DIA": [],
+    "CARREFOUR": [],
+    "JUMBO": [
+      {
+        "nombre": "Yerba Mate Tradicional con Palo 500 Grs Piporé",
+        "marca": "PIPORÉ",
+        "precio": 2400,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Yerba Mate con Palo Suave Clásica 500 Grs Piporé",
+        "marca": "PIPORÉ",
+        "precio": 2400,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Yerba Mate Sabor Hierbas Serranas 500 Grs Piporé",
+        "marca": "PIPORÉ",
+        "precio": 2500,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Yerba Mate Despalada 500 Grs Piporé",
+        "marca": "PIPORÉ",
+        "precio": 3700,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Yerba Mate con Palo Tradicional 1 Kg Piporé",
+        "marca": "PIPORÉ",
+        "precio": 4750,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Yerba Mate Tradicional con Palo 500 Grs Piporé",
+        "marca": "PIPORÉ",
+        "precio": 2450,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Yerba Mate con Palo Suave Clásica 500 Grs Piporé",
+        "marca": "PIPORÉ",
+        "precio": 2450,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Yerba Mate Con Palo Pipore 500g",
+        "marca": "PIPORE",
+        "precio": 2229,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Yerba Mate Suave PIPORE 500g",
+        "marca": "PIPORE",
+        "precio": 2229,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Yerba Mate Sublime Pipore 500 Grm",
+        "marca": "PIPORE",
+        "precio": 2399,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Yerba Mate Con Palo PIPORE 1kg",
+        "marca": "PIPORE",
+        "precio": 4399,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Yerba Mate Suave PIPORE 1kg",
+        "marca": "PIPORE",
+        "precio": 4399,
+        "disponible": true,
+        "_score": 2
+      }
+    ]
+  },
+  "caldo de verdura balance knorr": {
+    "DIA": [
+      {
+        "nombre": "Caldo Verdura Con Vegetales Balance Knorr 12 Ud.",
+        "marca": "KNORR",
+        "precio": 3210,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Caldo Knorr de verdura Balance 12 uni",
+        "marca": "Knorr",
+        "precio": 3209,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Caldo Sabor Verduras Balance x 12 Un 114 Grs Knorr",
+        "marca": "KNORR",
+        "precio": 3400,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Caldo Sabor Verduras Balance x 12 Un 114 Grs Knorr",
+        "marca": "KNORR",
+        "precio": 3500,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Caldo Deshidratado De Verdura Balance Knorr 114g",
+        "marca": "KNORR",
+        "precio": 3210,
+        "disponible": true,
+        "_score": 4
+      }
+    ]
+  },
+  "arroz integral dos hermanos": {
+    "DIA": [],
+    "CARREFOUR": [
+      {
+        "nombre": "Arroz integral non gmo Dos Hermanos 1 kg.",
+        "marca": "Dos Hermanos",
+        "precio": 1900,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Arroz Integral Dos Hermanos Non Gmo X1 Kg",
+        "marca": "DOS HERMANOS",
+        "precio": 2050,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Arroz Integral Dos Hermanos Non Gmo X1 Kg",
+        "marca": "DOS HERMANOS",
+        "precio": 2050,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Arroz Integral Dos Hermanos Paq 1 Kgm",
+        "marca": "DOS HERMANOS",
+        "precio": 1900,
+        "disponible": true,
+        "_score": 4
+      }
+    ]
+  },
+  "atun": {
+    "DIA": [
+      {
+        "nombre": "Atún Desmenuzado Al Natural Dia 170 Gr.",
+        "marca": "DIA",
+        "precio": 1290,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún Desmenuzado en Aceite Dia 170 Gr.",
+        "marca": "DIA",
+        "precio": 1290,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Alimento Humedo Para Gatos Sabor Atun Felix 85 Gr.",
+        "marca": "FELIX",
+        "precio": 1450,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Alimento Goulash Fancy Feast Atún 85 Gr.",
+        "marca": "EL PRADO",
+        "precio": 2250,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomitos de Atún en Aceite Dia 170 Gr.",
+        "marca": "DIA",
+        "precio": 3150,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomitos de Atún al Natural Dia 170 Gr.",
+        "marca": "DIA",
+        "precio": 3150,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomitos de Atún en Aceite Dia 354 Gr.",
+        "marca": "DIA",
+        "precio": 4160,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomitos de Atún Al Natural DIA 354 Gr.",
+        "marca": "DIA",
+        "precio": 4160,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomos De Atun Al Natural Swift 170 Gr.",
+        "marca": "SWIFT",
+        "precio": 4199,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomos De Atun En Aceite Swift 170 Gr.",
+        "marca": "SWIFT",
+        "precio": 4199,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomitos de Atún Al Natural Dia x 3 Ud.",
+        "marca": "DIA",
+        "precio": 5551,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomitos de Atún en Aceite Dia x 3 Ud.",
+        "marca": "DIA",
+        "precio": 5551,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún al Natural La Campagnola 170 Gr.",
+        "marca": "CAMPAGNOLA",
+        "precio": 5810,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún en Aceite La Campagnola 170 Gr.",
+        "marca": "CAMPAGNOLA",
+        "precio": 5813,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Atún desmenuzado en aceite Bulnez 170 grs",
+        "marca": "Bulnez",
+        "precio": 1290,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Paté de atún Carrefour Classic 80 grs",
+        "marca": "Carrefour",
+        "precio": 1487.2,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún en trozos en aceite Bulnez en lata 170 g.",
+        "marca": "Bulnez",
+        "precio": 2690,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomito de atún al natural Carrefour Classic 170 grs",
+        "marca": "Carrefour",
+        "precio": 2898,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomito de atún en aceite Carrefour Classic 170 grs",
+        "marca": "Carrefour",
+        "precio": 2898,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún trozado al natural Gomes Da Costa 170 grs",
+        "marca": "Gomes Da Costa",
+        "precio": 3589,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún en trozos en aceite Gomes Da Costa 170 grs",
+        "marca": "Gomes Da Costa",
+        "precio": 3589,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Alimento húmedo para gato Whiskas 340 g. atún",
+        "marca": "Whiskas",
+        "precio": 3999,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomito de atún al natural Gomes Da Costa 170 grs",
+        "marca": "Gomes Da Costa",
+        "precio": 4050,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomito de atún en aceite Gomes Da Costa 170 grs",
+        "marca": "Gomes Da Costa",
+        "precio": 4050,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomito de atún en aceite Carrefour Classic 354 grs",
+        "marca": "Carrefour",
+        "precio": 4828.5,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomito de atún al natural Carrefour Classic 354 grs",
+        "marca": "Carrefour",
+        "precio": 4828.5,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomito de atún al natural La Campagnola 170 grs",
+        "marca": "La Campagnola",
+        "precio": 5809,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún en aceite La campagnola lomitos 170 g.",
+        "marca": "La Campagnola",
+        "precio": 5809,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún en aceite de oliva Carrefour Selection 111 grs",
+        "marca": "Carrefour",
+        "precio": 6128.7,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Pouch Gato Atun Sardina Petsclass 85 Gr",
+        "marca": "PET' S CLASS",
+        "precio": 1250,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún Desmenuzado Al Natural 120 Grs Maxima",
+        "marca": "MAXIMA IMPO",
+        "precio": 1493,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún Desmenuzado Al Natural 120 Grs Maxima",
+        "marca": "MAXIMA IMPO",
+        "precio": 1493,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún Desmenuzado En Aceite Y Agua 120 Grs Maxima",
+        "marca": "MAXIMA IMPO",
+        "precio": 1493,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Alimento Húmedo Para Gato Felix Atún 85 Gr",
+        "marca": "FELIX",
+        "precio": 1550,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Empanada De Atún Al Horno 1 Un",
+        "marca": "ELABORACION PROPIA",
+        "precio": 2550,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Aceitunas Fragata Rellenas Con Atún 85 Gr",
+        "marca": "FRAGATA",
+        "precio": 4400,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomo De Atun En Aceite Vegetal Cuisine & Co",
+        "marca": "CUISINE & CO PREMIUM",
+        "precio": 4670,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomo De Atun Al Natural 120 Grs Cuisine & Co",
+        "marca": "CUISINE & CO PREMIUM",
+        "precio": 4670,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomo De Atun Al Natural 120 Gr Cuisine & Co",
+        "marca": "CUISINE & CO PREMIUM",
+        "precio": 4900,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomo de Atún al Natural 170 Grs La Campagnola",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 5634,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomo de Atún en Aceite 170 Grs La Campagnola",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 5634,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún Lomo en Aceite Sabor Ahumado 170 Grs La Campagnola",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 6200,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Ens Atun Verde La Campagnola 24x285gr",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 6650,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atun En Rodajas",
+        "marca": "PESCADERIA PROPIA",
+        "precio": 57990,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Pouch Gato Atun Sardina Petsclass 85 Gr",
+        "marca": "PET' S CLASS",
+        "precio": 1300,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Alimento Húmedo Para Gato Felix Atún 85 Gr",
+        "marca": "FELIX",
+        "precio": 1550,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún Desmenuzado Al Natural 120 Grs Maxima",
+        "marca": "MAXIMA IMPO",
+        "precio": 1553,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún Desmenuzado Al Natural 120 Grs Maxima",
+        "marca": "MAXIMA IMPO",
+        "precio": 1553,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún Desmenuzado En Aceite Y Agua 120 Grs Maxima",
+        "marca": "MAXIMA IMPO",
+        "precio": 1553,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Alimento Fancy Feast Goulash Atún 85gr",
+        "marca": "PURINA",
+        "precio": 2450,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Aceitunas Fragata Rellenas Con Atún 85 Gr",
+        "marca": "FRAGATA",
+        "precio": 4600,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomo De Atun En Aceite Vegetal Cuisine & Co",
+        "marca": "CUISINE & CO PREMIUM",
+        "precio": 4810,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomo De Atun Al Natural 120 Grs Cuisine & Co",
+        "marca": "CUISINE & CO PREMIUM",
+        "precio": 4810,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomitos de Atún en Aceite y Agua 170 Grs Cuisine & Co Premium",
+        "marca": "CUISINE & CO PREMIUM",
+        "precio": 4810,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomo De Atun Al Natural 120 Gr Cuisine & Co",
+        "marca": "CUISINE & CO PREMIUM",
+        "precio": 5040,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomo de Atún al Natural 170 Grs La Campagnola",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 5641,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomo de Atún en Aceite 170 Grs La Campagnola",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 5641,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún Lomo en Aceite Sabor Ahumado 170 Grs La Campagnola",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 6250,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Atun En Aceite CIUDAD DEL LAGO Desmenuzado Lata 170 Gr",
+        "marca": "CIUDAD DEL LAGO",
+        "precio": 1549,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atun En Aceite CIUDAD DEL LAGO En Trozos Lata 170 Gr",
+        "marca": "CIUDAD DEL LAGO",
+        "precio": 2879,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún En Trozos Al Natural Con Caldo Vegetal Ciudad Del Lago 170g",
+        "marca": "CIUDAD DEL LAGO",
+        "precio": 2879,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomitos De Atún Al Natural CIUDAD DEL LAGO 170g",
+        "marca": "CIUDAD DEL LAGO",
+        "precio": 3149,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún Al Natural Lomitos Con Caldo Vegetal COTO 165g",
+        "marca": "COTO",
+        "precio": 3479,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomitos De Atún En Aceite Y Agua Con Caldo Vegetal COTO 165g",
+        "marca": "COTO",
+        "precio": 3479,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atún aleta amarilla natural COTO 170g",
+        "marca": "COTO",
+        "precio": 3699,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atun Al Natural GOMES DA COSTA Lomo Lata 170 Gr",
+        "marca": "GOMES DA COSTA",
+        "precio": 4050,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomo De Atún Al Natural La Campagnola 170 Grm",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 5813,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Lomo De Atún En Aceite La Campagnola 170 Grm",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 5813,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atun Al Natural La Campagnola Lat 300 Grm",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 9082,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Atun En Aceite La Campagnola Lat 300 Grm",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 9082,
+        "disponible": true,
+        "_score": 1
+      }
+    ]
+  },
+  "arvejas": {
+    "DIA": [
+      {
+        "nombre": "Arvejas Secas Remojadas Dia 300 Gr.",
+        "marca": "DIA",
+        "precio": 675,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Secas Remojadas Sin Sal Dia 300 Gr.",
+        "marca": "DIA",
+        "precio": 746,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Inalpa secas remojadas 300 Gr.",
+        "marca": "INALPA",
+        "precio": 790,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Secas Remojadas Dia 340 Gr.",
+        "marca": "DIA",
+        "precio": 820,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Secas Remojadas Marolio 340 Gr.",
+        "marca": "MAROLIO",
+        "precio": 899,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Secas La Campagnola 300 Gr.",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 1408,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Partidas Dia 500 Gr.",
+        "marca": "DIA",
+        "precio": 2006,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Sopa Instantánea Arvejas Chile Pimentón Knorr 65 Gr.",
+        "marca": "KNORR",
+        "precio": 2570,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Arvejas secas remojadas Bulnez en lata 300 g.",
+        "marca": "Bulnez",
+        "precio": 609,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas secas remojadas Carrefour classic sin sal 300 g.",
+        "marca": "Carrefour",
+        "precio": 670.68,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas secas remojadas Carrefour Classic 340 grs",
+        "marca": "Carrefour",
+        "precio": 743.07,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas secas remojadas Inalpa lata 300 g.",
+        "marca": "Inalpa",
+        "precio": 749,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas secas Carrefour Classic en bolsa 400 g.",
+        "marca": "Carrefour",
+        "precio": 827.08,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas partidas Carrefour Classic en bolsa 400 grs",
+        "marca": "Carrefour",
+        "precio": 827.08,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas y zanahoria Carrefour Classic 300 grs",
+        "marca": "Carrefour",
+        "precio": 987,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas secas remojadas Arcor 300 g.",
+        "marca": "Arcor",
+        "precio": 1219,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas partidas Mister Food 500 g.",
+        "marca": "Mister Food",
+        "precio": 1350,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas secas remojadas La Campagnola 300 g.",
+        "marca": "La Campagnola",
+        "precio": 1350,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Choclo y arvejas Carrefour Classic dp 240 grs",
+        "marca": "Carrefour",
+        "precio": 1551,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas secas partidas 500 g.",
+        "marca": "Genérico",
+        "precio": 1645,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas congeladas Lucchetti en bolsa 300 g.",
+        "marca": "Lucchetti",
+        "precio": 3349,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Green life 350 g.",
+        "marca": "Green Life",
+        "precio": 3359.25,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas congeladas Granja del sol 300 g.",
+        "marca": "Granja Del Sol",
+        "precio": 3625,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Arvejas Secas Remojadas 300 Grs Inalpa",
+        "marca": "INALPA",
+        "precio": 830,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas 300 Grs Cuisine y Co",
+        "marca": "Cuisine & CO",
+        "precio": 1120,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas sin sal agregada 300 Grs Cuisine & Co",
+        "marca": "Cuisine & CO",
+        "precio": 1140,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Snacks de Arvejas Sabor al Dijón 45 Grs Green Crops",
+        "marca": "GREEN CROPS",
+        "precio": 1350,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Granel A Granel 500 Gr",
+        "marca": "VERDULERIA PROPIA",
+        "precio": 1499,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Partidas 400 Grs Cuisine y Co",
+        "marca": "Cuisine & CO",
+        "precio": 1550,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Secas Partidas 400 Grs Egran",
+        "marca": "EGRAN",
+        "precio": 1650,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Snacks Horneados Sabor Arvejas al Dijón 95 Grs Green Crops",
+        "marca": "GREEN CROPS",
+        "precio": 2750,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas 300 Grs Lucchetti",
+        "marca": "LUCCHETTI",
+        "precio": 3550,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Verdes 300 Grs Granja del Sol",
+        "marca": "GRANJA DEL SOL",
+        "precio": 3850,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Congeladas 350 Grs Green Life",
+        "marca": "GREEN LIFE",
+        "precio": 4650,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Medallones de Arvejas y Zapallitos 300 Grs x 8 Un Casa Vegana",
+        "marca": "CASA VEGANA",
+        "precio": 4800,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Medallones de Sabor Arvejas y Brócoli 380 Grs x 4 Un Green Life",
+        "marca": "GREEN LIFE",
+        "precio": 5700,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Medallones de Verduras Sabor Espinaca y Arvejas 460 Grs x 4 Un Burganas",
+        "marca": "BURGANAS",
+        "precio": 6950,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Medallón De Arvejas X 2 Un Vegabundancia",
+        "marca": "Vegabundancia",
+        "precio": 9550,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Arvejas Secas Remojadas 300 Grs Inalpa",
+        "marca": "INALPA",
+        "precio": 817,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas 300 Grs Cuisine y Co",
+        "marca": "Cuisine & CO",
+        "precio": 1150,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas sin sal agregada 300 Grs Cuisine & Co",
+        "marca": "Cuisine & CO",
+        "precio": 1170,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas 340 Grs Cuisine & Co",
+        "marca": "Cuisine & CO",
+        "precio": 1190,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Seca Arcor X300gr",
+        "marca": "ARCOR",
+        "precio": 1217,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Granel A Granel 500 Gr",
+        "marca": "VERDULERIA PROPIA",
+        "precio": 1499,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Partidas 400 Grs Cuisine y Co",
+        "marca": "Cuisine & CO",
+        "precio": 1590,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Secas Partidas 400 Grs Egran",
+        "marca": "EGRAN",
+        "precio": 1700,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Snacks Horneados Sabor Arvejas al Dijón 95 Grs Green Crops",
+        "marca": "GREEN CROPS",
+        "precio": 2800,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas 300 Grs Lucchetti",
+        "marca": "LUCCHETTI",
+        "precio": 3650,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Verdes 300 Grs Granja del Sol",
+        "marca": "GRANJA DEL SOL",
+        "precio": 3950,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Congeladas 350 Grs Green Life",
+        "marca": "GREEN LIFE",
+        "precio": 4900,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Medallones de Sabor Arvejas y Brócoli 380 Grs x 4 Un Green Life",
+        "marca": "GREEN LIFE",
+        "precio": 5850,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Medallones de Verduras Sabor Espinaca y Arvejas 460 Grs x 4 Un Burganas",
+        "marca": "BURGANAS",
+        "precio": 7050,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Arvejas Secas Inalpa Lat 300 Grm",
+        "marca": "INALPA",
+        "precio": 749,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas . Vigente Ttb 340 Grm",
+        "marca": "VIGENTE",
+        "precio": 769,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Remojadas Valle De Oro 350g",
+        "marca": "VALLE DE ORO",
+        "precio": 769,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Secas Remojadas Sabores Del Valle 340g",
+        "marca": "SABORES DEL VALLE",
+        "precio": 799,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Secas Remojadas DOÑA PUPA 340g",
+        "marca": "DOÑA PUPA",
+        "precio": 814,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas CIUDAD DEL LAGO 300g",
+        "marca": "CIUDAD DEL LAGO",
+        "precio": 849,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Bajo En Sodio DOÑA PUPA 340g",
+        "marca": "DOÑA PUPA",
+        "precio": 895,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arveja Seca/Rem INCA Lat 350 Gr",
+        "marca": "INCA",
+        "precio": 899,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Coto 350g",
+        "marca": "COTO",
+        "precio": 995,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Secas Remojadas Coto 300 Grm",
+        "marca": "COTO",
+        "precio": 999,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Secas Arcor 300 Grm",
+        "marca": "ARCOR",
+        "precio": 1260,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas La Campagnola 300 Grm",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 1350,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Congeladas Lucchetti 300g",
+        "marca": "LUCCHETTI",
+        "precio": 3349,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Coto 300g",
+        "marca": "COTO",
+        "precio": 3499,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Arvejas Congeladas Granja Del Sol 300g",
+        "marca": "GRANJA DEL SOL",
+        "precio": 3625,
+        "disponible": true,
+        "_score": 1
+      }
+    ]
+  },
+  "garbanzos": {
+    "DIA": [
+      {
+        "nombre": "Garbanzos secos remojados DIA 300 Gr.",
+        "marca": "DIA",
+        "precio": 1076,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Dia 400 Gr.",
+        "marca": "DIA",
+        "precio": 1981,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Falafels Casa Vegana Toques Orientales de Garbanzos 420 Gr.",
+        "marca": "CASA VEGANA",
+        "precio": 7500,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Garbanzos secos remojados Carrefour classic en lata 300 g.",
+        "marca": "Carrefour",
+        "precio": 777,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Inalpa secos remojados lata 300 g.",
+        "marca": "Inalpa",
+        "precio": 929,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos secos remojados Carrefour Classic 340 grs",
+        "marca": "Carrefour",
+        "precio": 929.66,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Inalpa Vida secos remojados sin sal 300 g.",
+        "marca": "Inalpa",
+        "precio": 1080,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos secos Arcor lata 300 g.",
+        "marca": "Arcor",
+        "precio": 1385,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Tostadas veggie Molinos Ala arroz garbanzos y maíz 100 grs",
+        "marca": "Molinos Ala",
+        "precio": 1589,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos La campagnola secos remojados 300 g.",
+        "marca": "La Campagnola",
+        "precio": 1595,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Mister Food en bolsa 400 g.",
+        "marca": "Mister Food",
+        "precio": 1750,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Egran 400 g.",
+        "marca": "Egran",
+        "precio": 1890,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos 500 g",
+        "marca": "Genérico",
+        "precio": 2450,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos x kg.",
+        "marca": "Genérico",
+        "precio": 3990,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Milanseas de garbanzos Viaveg 2 uni",
+        "marca": "Viaveg",
+        "precio": 4635,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Hummus de garbanzo Pampagourmet en frasco 180 g.",
+        "marca": "Pampagourmet",
+        "precio": 5250,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Garbanzos 300 Grs Arcor",
+        "marca": "ARCOR",
+        "precio": 1500,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos 300 Grs La Campagnola",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 1600,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos 400 Grs Cuisine & Co",
+        "marca": "Cuisine & CO",
+        "precio": 1790,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos 400 Grs Egran",
+        "marca": "EGRAN",
+        "precio": 1950,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Tostados Sabor Queso 75 Grs Fit Beans",
+        "marca": "FIT BEANS",
+        "precio": 1950,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Tostados Sabor Sal Marina 75 Grs Fit Beans",
+        "marca": "FIT BEANS",
+        "precio": 1950,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Tostados Sabor Jamón Ahumado 75 Grs Fit Beans",
+        "marca": "FIT BEANS",
+        "precio": 1950,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos 500 Gr Granel",
+        "marca": "VERDULERIA PROPIA",
+        "precio": 1999,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Papas Fritas Garbanzos Tubo 140 Grs Cuisine & Co",
+        "marca": "CUISINE & CO PREMIUM",
+        "precio": 5600,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Medallones de Verduras sabor Calabaza y Garbanzos 440 Grs x 4 Un Granja del Sol",
+        "marca": "GRANJA DEL SOL",
+        "precio": 7650,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Garbanzos 300 Grs Arcor",
+        "marca": "ARCOR",
+        "precio": 1550,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos 400 Grs Cuisine & Co",
+        "marca": "Cuisine & CO",
+        "precio": 1840,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos 400 Grs Egran",
+        "marca": "EGRAN",
+        "precio": 2000,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Tostados Sabor Queso 75 Grs Fit Beans",
+        "marca": "FIT BEANS",
+        "precio": 2000,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Tostados Sabor Jamón Ahumado 75 Grs Fit Beans",
+        "marca": "FIT BEANS",
+        "precio": 2000,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Tostados Sabor Sal Marina 75 Grs Fit Beans",
+        "marca": "FIT BEANS",
+        "precio": 2000,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Premezcla Falafel de Garbanzos 200 Grs Molé",
+        "marca": "Molé",
+        "precio": 4350,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Papas Fritas Garbanzos Tubo 140 Grs Cuisine & Co",
+        "marca": "CUISINE & CO PREMIUM",
+        "precio": 5810,
+        "disponible": true,
+        "_score": 1
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Garbanzos Secos Inalpa 300 Grm",
+        "marca": "INALPA",
+        "precio": 929,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Secos Remojados Ciudad Del Lago 300 Grm",
+        "marca": "CIUDAD DEL LAGO",
+        "precio": 1049,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Secos Remojados Sabores Dfel Valle 340g",
+        "marca": "SABORES DEL VALLE",
+        "precio": 1099,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Secos Remojados Doña Pupa 340 Grm",
+        "marca": "DOÑA PUPA",
+        "precio": 1140,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Secos Remojados Inca Lat 350 Grm",
+        "marca": "INCA",
+        "precio": 1282.57,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Coto 350g",
+        "marca": "COTO",
+        "precio": 1299,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Secos Remojados Arcor 300 Grm",
+        "marca": "ARCOR",
+        "precio": 1385,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Harina De Garbanzo Sturla 250gr",
+        "marca": "STURLA",
+        "precio": 1399,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Secos Remojados La Campagnola 300 Grm",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 1595,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Harina De Garbanzo Natural Pop 450g",
+        "marca": "NATURAL POP",
+        "precio": 1889,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Medallones Veggies Garbanzos Y Calabaza Artico 200g",
+        "marca": "ARTICO",
+        "precio": 2235,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzo Cosecha Criolla 500g",
+        "marca": "COSECHA CRIOLLA",
+        "precio": 2399.99,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Harina De Garbanzo Dicomere 450g",
+        "marca": "DICOMERE",
+        "precio": 3699,
+        "disponible": true,
+        "_score": 1
+      },
+      {
+        "nombre": "Garbanzos Daucy 400g",
+        "marca": "DAUCY",
+        "precio": 3737,
+        "disponible": true,
+        "_score": 1
+      }
+    ]
+  },
+  "salsa de tomate": {
+    "DIA": [
+      {
+        "nombre": "Salsa de Tomate Filetto DIA Doypack 340 Gr.",
+        "marca": "DIA",
+        "precio": 900,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Puré de Tomate Salsati 520 Gr.",
+        "marca": "SALSATI",
+        "precio": 1419,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa Tomate Napolitana La Campagnola 350 Gr.",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 3926,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa Tomate Oliva La Campagnola 350 Gr.",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 3926,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Salsa de tomate Cica pomarola  340 g.",
+        "marca": "Cica",
+        "precio": 1265,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de tomate Cica pizza 340 g.",
+        "marca": "Cica",
+        "precio": 1265,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Puré de tomate Salsati 520 g.",
+        "marca": "BC",
+        "precio": 1265,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de tomate Cica tuco 340 g.",
+        "marca": "Cica",
+        "precio": 1289,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Focaccia con salsa de tomate 250 g.",
+        "marca": "Genérico",
+        "precio": 1890,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de tomate para nachos Pampagourmet 315 grs",
+        "marca": "Pampagourmet",
+        "precio": 11173,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de tomate Mutti passata botella 700 g.",
+        "marca": "Mutti",
+        "precio": 12895,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de tomate y cebolla Mutti en botella 560 g.",
+        "marca": "Mutti",
+        "precio": 13769,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Pulpa de Tomate Listas 520 Grs Salsati",
+        "marca": "SALSATI",
+        "precio": 1200,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de Tomate Pomarola 340 Grs Knorr",
+        "marca": "KNORR",
+        "precio": 1450,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de Tomate Filetto 340 Grs La Campagnola",
+        "marca": "SALSATI",
+        "precio": 1450,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Puré de Tomate Listas 520 Grs Salsati",
+        "marca": "SALSATI",
+        "precio": 1450,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de Tomate Pomodoro sabor Zapallo 340 Grs Knorr",
+        "marca": "KNORR",
+        "precio": 1550,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de Tomate Sabor Filetto 340 Grs Knorr",
+        "marca": "KNORR",
+        "precio": 1800,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Tomate Cubetiado Salsati Con Pure 400 Gr",
+        "marca": "SALSATI",
+        "precio": 2050,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Condimento Al Tuco para Salsas de Tomate con Carne 55 Grs Indo Deli",
+        "marca": "INDO DELI",
+        "precio": 7050,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de Tomate Sabor Arrabbiata 340 Grs La Molisana",
+        "marca": "LA MOLISANA",
+        "precio": 8150,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de Tomate con Cebolla 330 Grs Pampa Gourmet",
+        "marca": "Pampa Gourmet",
+        "precio": 8300,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de Tomate Sabor Albahaca y Ajo 330 Grs Pampa Gourmet",
+        "marca": "Pampa Gourmet",
+        "precio": 8300,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa Picante Suave Sabor Tomate 425 Grs Herdez",
+        "marca": "HERDEZ",
+        "precio": 13950,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de Tomate sabor Albahaca 690 Grs La Molisana",
+        "marca": "LA MOLISANA",
+        "precio": 14050,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Pulpa de Tomate Listas 520 Grs Salsati",
+        "marca": "SALSATI",
+        "precio": 1250,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Puré de Tomate Listas 520 Grs Salsati",
+        "marca": "SALSATI",
+        "precio": 1450,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de Tomate Pomarola 340 Grs Knorr",
+        "marca": "KNORR",
+        "precio": 1500,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de Tomate Pomodoro sabor Zapallo 340 Grs Knorr",
+        "marca": "KNORR",
+        "precio": 1600,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de Tomate Sabor Filetto 340 Grs Knorr",
+        "marca": "KNORR",
+        "precio": 1800,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Tomate Perita Salsati Con Pure Sin Gluten 400 G",
+        "marca": "LA CAMPAGNOLA",
+        "precio": 1850,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Tomate Cubetiado Salsati Con Pure 400 Gr",
+        "marca": "SALSATI",
+        "precio": 2050,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Prepizza Mendia con Salsa de Tomate 600 Grs x 2 Un",
+        "marca": "MENDIA",
+        "precio": 3850,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de Tomate sabor Albahaca 690 Grs La Molisana",
+        "marca": "LA MOLISANA",
+        "precio": 5600,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de Tomate Sabor Albahaca 340 Grs La Molisana",
+        "marca": "LA MOLISANA",
+        "precio": 8400,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de Tomate Sabor Arrabbiata 340 Grs La Molisana",
+        "marca": "LA MOLISANA",
+        "precio": 8400,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa de Tomate Sabor Albahaca y Ajo 330 Grs Pampa Gourmet",
+        "marca": "Pampa Gourmet",
+        "precio": 8550,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Salsa Picante Suave Sabor Tomate 425 Grs Herdez",
+        "marca": "HERDEZ",
+        "precio": 14350,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "COTO": []
+  },
+  "queso reggianito la serenisima": {
+    "DIA": [
+      {
+        "nombre": "Queso Reggianito Rallado La Serenisima 35 Gr.",
+        "marca": "LA SERENISIMA",
+        "precio": 1726,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso Reggianito rallado La Serenisima 70 Gr.",
+        "marca": "LA SERENISIMA",
+        "precio": 3360,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso Reggianito rallado La Serenisima 130 Gr.",
+        "marca": "LA SERENISIMA",
+        "precio": 6027,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso Reggianito La Serenisima x Kg.",
+        "marca": "LA SERENISIMA",
+        "precio": 37582,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Queso rallado reggianito La Serenísima sobre 35 g.",
+        "marca": "La Serenísima",
+        "precio": 1590,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso rallado La Serenísima reggianito flow pack 70 g.",
+        "marca": "La Serenísima",
+        "precio": 3360,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso rallado reggianito La Serenísima bolsa 130 g.",
+        "marca": "La Serenísima",
+        "precio": 6029,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso rallado La Serenísima reggianito flow pack 175 g.",
+        "marca": "La Serenísima",
+        "precio": 7655,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso La Serenísima reggianito sin lactosa x kg.",
+        "marca": "Genérico",
+        "precio": 39085,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Queso Reggianito Rallado 35 Grs x 1 Un La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 1900,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso Reggianito Rallado 70 Grs x 1 Un La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 3550,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso Reggianito Rallado 0.130 Kg x 1 Un La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 6250,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso Reggianito Rallado 0.175 Kg La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 7800,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso Reggianito x 1 Kg La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 39860,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Queso Reggianito Rallado 70 Grs x 1 Un La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 3550,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso Reggianito Rallado 0.130 Kg x 1 Un La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 6250,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso Reggianito Rallado 0.175 Kg La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 7800,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso Reggianito x 1 Kg La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 39860,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Queso Rallado Reggianito LA SERENISIMA 130g",
+        "marca": "LA SERENISIMA",
+        "precio": 6029,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso Rallado Reggianito LA SERENISIMA 175g",
+        "marca": "LA SERENISIMA",
+        "precio": 7655,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Queso Reggianito La Serenísima - Unidad Aprox. 310g",
+        "marca": "LA SERENISIMA",
+        "precio": 39085,
+        "disponible": true,
+        "_score": 3
+      }
+    ]
+  },
+  "leche proteina la serenisima": {
+    "DIA": [
+      {
+        "nombre": "Leche Protein La Serenisima 1 Lt.",
+        "marca": "LA SERENISIMA",
+        "precio": 2865,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Leche descremada La Serenísima UAT proteinas 1 l.",
+        "marca": "La Serenísima",
+        "precio": 2865,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": [
+      {
+        "nombre": "Leche Protein LA SERENISIMA 1L",
+        "marca": "LA SERENISIMA",
+        "precio": 2865,
+        "disponible": true,
+        "_score": 3
+      }
+    ]
+  },
+  "leche serenisima polvo": {
+    "DIA": [
+      {
+        "nombre": "Leche En Polvo La Serenisima Descremada 200 Gr.",
+        "marca": "LA SERENISIMA",
+        "precio": 3650,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Leche en polvo descremada fortificada La Serenísima 200 g.",
+        "marca": "La Serenísima",
+        "precio": 3510,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche en polvo entera La Serenísima bolsa 200 g.",
+        "marca": "La Serenísima",
+        "precio": 3510,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche en polvo La serenísima entera 400 g.",
+        "marca": "La Serenísima",
+        "precio": 6705,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche en polvo La serenísima descremada 400 g.",
+        "marca": "La Serenísima",
+        "precio": 7080,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche en polvo La serenísima zero lactosa 400 g.",
+        "marca": "La Serenísima",
+        "precio": 8590,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche en polvo La Serenísima zero lactosa 400 grs",
+        "marca": "La Serenísima",
+        "precio": 8590,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche en polvo entera La Serenísima 800 grs",
+        "marca": "La Serenísima",
+        "precio": 12760,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche en polvo liviana La Serenísima 800 grs",
+        "marca": "La Serenísima",
+        "precio": 12760,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Leche en Polvo Descremada 200 Grs La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 3700,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche en Polvo Clásica 400 Grs La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 7000,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche en Polvo Liviana 400 Grs La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 7350,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche En Polvo Zero Lactosa La Serenisima 400 Gr",
+        "marca": "LA SERENISIMA",
+        "precio": 8900,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche en Polvo Clásica 800 Grs La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 13200,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Leche en Polvo Descremada 200 Grs La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 3800,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche en Polvo Clásica 400 Grs La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 7150,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche en Polvo Liviana 400 Grs La Serenisima",
+        "marca": "LA SERENISIMA",
+        "precio": 7550,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche En Polvo Zero Lactosa La Serenisima 400 Gr",
+        "marca": "LA SERENISIMA",
+        "precio": 9150,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Leche En Polvo Zero Lactosa LA SERENISIMA 400g",
+        "marca": "LA SERENISIMA",
+        "precio": 8934,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche En Polvo Clásica La Serenisima 800g",
+        "marca": "LA SERENISIMA",
+        "precio": 13271,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Leche En Polvo Liviana La Serenisima 800g",
+        "marca": "LA SERENISIMA",
+        "precio": 13271,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "NINI": [
+      {
+        "nombre": "La Serenísima Leche Instantánea",
+        "marca": "LA SERENISIMA",
+        "precio": 2098,
+        "disponible": true,
+        "_score": 3
+      }
+    ]
+  },
+  "jarabe de caramelo": {
+    "DIA": [],
+    "CARREFOUR": [],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": []
+  },
+  "limon Silva": {
+    "DIA": [],
+    "CARREFOUR": [],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": [
+      {
+        "nombre": "Jugo De Limón Silva 500cmq",
+        "marca": "SILVA",
+        "precio": 1425,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Jugo De Limón Silva 930ml",
+        "marca": "SILVA",
+        "precio": 2020,
+        "disponible": true,
+        "_score": 2
+      }
+    ]
+  },
+  "limon bulnez": {
+    "DIA": [],
+    "CARREFOUR": [
+      {
+        "nombre": "Obleas de limón Bulnez 50 g.",
+        "marca": "Bulnez",
+        "precio": 419,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Polvorones Bulnez de limón 170 g.",
+        "marca": "Bulnez",
+        "precio": 990,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Jugo de limón Bulnez en botella 500 cc.",
+        "marca": "Bulnez",
+        "precio": 1890,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Premezcla de bizcochuelo limón Bulnez 480 g.",
+        "marca": "Bulnez",
+        "precio": 2090,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Jugo de limón Bulnez en botella 1000 cc.",
+        "marca": "Bulnez",
+        "precio": 3290,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": []
+  },
+  "ricotta tregar": {
+    "DIA": [],
+    "CARREFOUR": [
+      {
+        "nombre": "Ricotta Tregar magra bajo sodio en pote 290 g.",
+        "marca": "Tregar",
+        "precio": 3349,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Ricotta Tregar entera bajo sodio en pote 290 g.",
+        "marca": "Tregar",
+        "precio": 3349,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Ricotta Entera x 0.290 Kg x 1 Un Tregar",
+        "marca": "TREGAR",
+        "precio": 3500,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Ricotta Entera x 0.290 Kg x 1 Un Tregar",
+        "marca": "TREGAR",
+        "precio": 3550,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Ricotta Descremado Sin Sal Tregar 290g",
+        "marca": "TREGAR",
+        "precio": 3350,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Ricotta Entero Tregar 290g",
+        "marca": "TREGAR",
+        "precio": 3350,
+        "disponible": true,
+        "_score": 2
+      }
+    ]
+  },
+  "Caldo carne knorr": {
+    "DIA": [
+      {
+        "nombre": "Caldo de Carne Con Vegetales Knorr 12 Ud.",
+        "marca": "KNORR",
+        "precio": 2280,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Caldo de carne Knorr en cubos 12 uni",
+        "marca": "Knorr",
+        "precio": 2725,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Caldo Sabor Carne Deshidratado 114 Grs x 12 Un Knorr",
+        "marca": "KNORR",
+        "precio": 2810,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Caldo Sabor Carne Deshidratado 114 Grs x 12 Un Knorr",
+        "marca": "KNORR",
+        "precio": 2818,
+        "disponible": true,
+        "_score": 3
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Caldo Para Saborizar Carne Knorr 24g",
+        "marca": "KNORR",
+        "precio": 1672,
+        "disponible": true,
+        "_score": 3
+      },
+      {
+        "nombre": "Caldo Deshidratado Sabor Carne Knorr 114g",
+        "marca": "KNORR",
+        "precio": 2852,
+        "disponible": true,
+        "_score": 3
+      }
+    ]
+  },
+  "caldo pollo knorr": {
+    "DIA": [],
+    "CARREFOUR": [],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": []
+  },
+  "rapiditas integrales": {
+    "DIA": [
+      {
+        "nombre": "Tortillas Integrales Rapiditas 10 Ud.",
+        "marca": "BIMBO",
+        "precio": 2940,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Tortillas integrales Rapiditas 10 uni",
+        "marca": "Bimbo",
+        "precio": 2778.75,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Tortillas Integrales 10 Un 275 Grs Rapiditas",
+        "marca": "BIMBO",
+        "precio": 3950,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Tortillas Integrales 10 Un 275 Grs Rapiditas",
+        "marca": "BIMBO",
+        "precio": 3950,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Tortillas Integrales Rapiditas 10u",
+        "marca": "BIMBO",
+        "precio": 3706,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "NINI": [
+      {
+        "nombre": "Bimbo Rapiditas Integrales 275g",
+        "marca": "BIMBO",
+        "precio": 3644,
+        "disponible": true,
+        "_score": 2
+      }
+    ]
+  },
+  "queso en hebras italiano equilibrio la paulina": {
+    "DIA": [
+      {
+        "nombre": "Queso En Hebras Italiano Equilibrio La Paulina 125 Gr.",
+        "marca": "LA PAULINA",
+        "precio": 2232.56,
+        "disponible": true,
+        "_score": 5
+      },
+      {
+        "nombre": "Queso en Hebras Italiano La Paulina 125 Gr.",
+        "marca": "LA PAULINA",
+        "precio": 3033.75,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Queso En Hebras Italiano La Paulina 500 Gr.",
+        "marca": "LA PAULINA",
+        "precio": 7216.88,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "La Paulina queso en hebras italiano equilibrio 125 grs",
+        "marca": "La Paulina",
+        "precio": 3969,
+        "disponible": true,
+        "_score": 5
+      },
+      {
+        "nombre": "La Paulina queso en hebras italiano equilibrio 500 grs",
+        "marca": "La Paulina",
+        "precio": 12830,
+        "disponible": true,
+        "_score": 5
+      }
+    ],
+    "JUMBO": [
+      {
+        "nombre": "Queso en hebras 4 Quesos Equilibrio x 0.125 Kg La Paulina",
+        "marca": "LA PAULINA",
+        "precio": 4450,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "DISCO": [
+      {
+        "nombre": "Queso en hebras 4 Quesos Equilibrio x 0.125 Kg La Paulina",
+        "marca": "LA PAULINA",
+        "precio": 4450,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "COTO": [
+      {
+        "nombre": "Queso En Hebras Italiano Equilibrio La Paulina 125g",
+        "marca": "LA PAULINA",
+        "precio": 4049,
+        "disponible": true,
+        "_score": 5
+      },
+      {
+        "nombre": "Queso En Hebras Italiano Equilibrio La Paulina 500g",
+        "marca": "LA PAULINA",
+        "precio": 13085,
+        "disponible": true,
+        "_score": 5
+      },
+      {
+        "nombre": "Queso En Hebras Italiano La Paulina 125g",
+        "marca": "LA PAULINA",
+        "precio": 4049,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Queso En Hebras Italiano Light LA PAULINA Paq 400 Grm",
+        "marca": "LA PAULINA",
+        "precio": 7055,
+        "disponible": true,
+        "_score": 4
+      },
+      {
+        "nombre": "Queso En Hebras Italiano La Paulina 500g",
+        "marca": "LA PAULINA",
+        "precio": 13085,
+        "disponible": true,
+        "_score": 4
+      }
+    ]
+  },
+  "barra proteica integra arandanos": {
+    "DIA": [],
+    "CARREFOUR": [
+      {
+        "nombre": "Barra proteica Integra pasta de maní y arándanos 43 g.",
+        "marca": "Integra",
+        "precio": 2299,
+        "disponible": true,
+        "_score": 4
+      }
+    ],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": []
+  },
+  "fideos mostachole": {
+    "DIA": [
+      {
+        "nombre": "Fideos Mostacholes Dia 500 Gr.",
+        "marca": "DIA",
+        "precio": 2150,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "CARREFOUR": [
+      {
+        "nombre": "Fideos mostachole Don bernabeu 500 g.",
+        "marca": "Don Bernabeu",
+        "precio": 649,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos mostacholes rayados Favorita fortificado 500 g.",
+        "marca": "Favorita",
+        "precio": 965,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos mostacholes Terrabusi rayados 500 g.",
+        "marca": "Terrabusi",
+        "precio": 1109,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos mostacholes Terrabusi 3 vegetales 500 g.",
+        "marca": "Terrabusi",
+        "precio": 1350,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos mostacholes N52 Lucchetti rayado 500 g.",
+        "marca": "Lucchetti",
+        "precio": 1499,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos mostacholes N52 Matarazzo rayado 500 g.",
+        "marca": "Matarazzo",
+        "precio": 1849,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos mostacholes al huevo 500 g.",
+        "marca": "Genérico",
+        "precio": 3250,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos sin TACC mostacholes Blue Patna 500 g.",
+        "marca": "Blue Patna",
+        "precio": 5639,
+        "disponible": true,
+        "_score": 2
+      }
+    ],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": [
+      {
+        "nombre": "Fideos Guiseros Mostachol Aldente 500g",
+        "marca": "ALDENTE",
+        "precio": 900,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos Mostachol Rayado Mix De Vegetales Terrabusi 500g",
+        "marca": "TERRABUSI",
+        "precio": 1350,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos Guiseros Mostachol Rayado Bonavita 500g",
+        "marca": "BONAVITA",
+        "precio": 1400,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos Mostachol N51 Lucchetti 500g",
+        "marca": "LUCCHETTI",
+        "precio": 1500,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos Semolin Con Huevo Mostacholes Grimaldi 500g",
+        "marca": "GRIMALDI",
+        "precio": 1700,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos Mostachol N52 Matarazzo 500g",
+        "marca": "MATARAZZO",
+        "precio": 1850,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos Al Huevo Mostachol N°51 Lucchetti 500g",
+        "marca": "LUCCHETTI",
+        "precio": 2100,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos Mostacholes De Semolín Ciudad Del Lago 500g",
+        "marca": "CIUDAD DEL LAGO",
+        "precio": 2689,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos Guiseros Integral Mostacholes Avena Y Zanahoria Andiamo 350g",
+        "marca": "ANDIAMO",
+        "precio": 2700,
+        "disponible": true,
+        "_score": 2
+      },
+      {
+        "nombre": "Fideos Guiseros Mostachol Proteína Plus Matarazzo 400g",
+        "marca": "MATARAZZO",
+        "precio": 4200,
+        "disponible": true,
+        "_score": 2
+      }
+    ]
+  },
+  "avena quaker instantanea": {
+    "DIA": [],
+    "CARREFOUR": [],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": [],
+    "NINI": [
+      {
+        "nombre": "Quaker Avena Instantánea 500g",
+        "marca": "QUAKER",
+        "precio": 2717,
+        "disponible": true,
+        "_score": 3
+      }
+    ]
+  },
+  "harina leudante pureza": {
+    "DIA": [],
+    "CARREFOUR": [],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": [],
+    "NINI": [
+      {
+        "nombre": "Pureza Harina Leudante 1 Kg",
+        "marca": "PUREZA",
+        "precio": 1456,
+        "disponible": true,
+        "_score": 3
+      }
+    ]
+  },
+  "sal fina celusal": {
+    "DIA": [],
+    "CARREFOUR": [],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": [],
+    "NINI": [
+      {
+        "nombre": "Celusal Sal Fina 500g",
+        "marca": "CELUSAL",
+        "precio": 1207,
+        "disponible": true,
+        "_score": 3
+      }
+    ]
+  },
+  "aceite girasol natura": {
+    "DIA": [],
+    "CARREFOUR": [],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": [],
+    "NINI": [
+      {
+        "nombre": "Natura Aceite de Girasol 3 Lt",
+        "marca": "NATURA",
+        "precio": 10869,
+        "disponible": true,
+        "_score": 3
+      }
+    ]
+  },
+  "cofler cups mani": {
+    "DIA": [],
+    "CARREFOUR": [],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": [],
+    "NINI": [
+      {
+        "nombre": "Cofler Cups Maní 17g x 16un",
+        "marca": "COFLER",
+        "precio": 741,
+        "disponible": true,
+        "_score": 3
+      }
+    ]
+  },
+  "bizcochos calba": {
+    "DIA": [],
+    "CARREFOUR": [],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": [],
+    "NINI": [
+      {
+        "nombre": "Calba Bizcochos 80g",
+        "marca": "CALBA",
+        "precio": 485,
+        "disponible": true,
+        "_score": 3
+      }
+    ]
+  },
+  "jugo naranja citric": {
+    "DIA": [],
+    "CARREFOUR": [],
+    "JUMBO": [],
+    "DISCO": [],
+    "COTO": [],
+    "NINI": []
+  }
+}
