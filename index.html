@@ -431,9 +431,9 @@
     <span class="material-icons-round" style="font-size:17px;color:var(--green)">savings</span>
     <span class="best-buys-title">¿Dónde conviene comprar?</span>
     <span class="best-buys-subtitle" id="best-buys-count">—</span>
-    <span class="material-icons-round" id="best-buys-icon" style="color:var(--text-sub);font-size:17px">expand_less</span>
+    <span class="material-icons-round" id="best-buys-icon" style="color:var(--text-sub);font-size:17px">expand_more</span>
   </div>
-  <div class="best-buys-panel" id="best-buys-panel">
+  <div class="best-buys-panel" id="best-buys-panel" style="display:none">
     <div class="best-buys-grid" id="best-buys-grid"></div>
   </div>
 </div>
@@ -710,7 +710,7 @@ function computeBestBuysBySuper(data) {
   return result;
 }
 
-let bestBuysExpanded = true;
+let bestBuysExpanded = false;
 
 function renderBestBuys(data) {
   const bySuper = computeBestBuysBySuper(data);
