@@ -1,0 +1,1103 @@
+[
+ {
+  "productId": "14797",
+  "productName": "Atún al Natural La Campagnola 170 Gr.",
+  "brand": "CAMPAGNOLA",
+  "brandId": 546,
+  "linkText": "atun-al-natural-la-campagnola-170-gr-14797",
+  "productReference": "7790580131364",
+  "productReferenceCode": null,
+  "categoryId": "19",
+  "productTitle": "",
+  "releaseDate": "2026-06-11T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "567": "Todas las Ofertas",
+   "569": "Especial Verano",
+   "889": "Ofertas Almacen",
+   "1531": "rein",
+   "7730": "Alimentos y Bebidas s15",
+   "7742": "Conservas de pescado s15",
+   "9027": "La Campagnola s39",
+   "9033": "Alimentos y Bebidas s39",
+   "9211": "Ofertas Dia",
+   "9524": "Alimentos y Bebidas s48",
+   "9526": "Mas Destacados s48",
+   "9532": "Destacado Alimentos y Bebidas s48",
+   "9682": "Alimentos y bebidas s52",
+   "9693": "Mas destacados s52",
+   "9704": "Almacen s52",
+   "9711": "Especial Verano 2026",
+   "9721": "Alimentos y Bebidas s01",
+   "9724": "Mas Destacados s01",
+   "9733": "Almacen y bebidas s1",
+   "10060": "Mas Destacados s08",
+   "10062": "Alimentos y Bebidas s08",
+   "10063": "Destacado Alimentos y Bebidas s08",
+   "10238": "Especial Llena tu Alacena s12",
+   "10249": "Conservas s12",
+   "10259": "Productos seleccionados s12",
+   "10262": "Alimentos y bebidas s12",
+   "10265": "Mas Destacados s12",
+   "10266": "Alimentos y Bebidas s12",
+   "10269": "Cat 25 s12",
+   "10273": "Destacado Llena tu alacena s12",
+   "10410": "Alimentos y bebidas s16",
+   "10426": "Mas Destacados s16",
+   "10675": "Almacen Mayo",
+   "10684": "Mas Destacados s21",
+   "10686": "Alimentos y Bebidas s21",
+   "10698": "25% Categoria s21",
+   "10703": "Hasta 45% s21",
+   "10820": "Mundial 2026",
+   "10822": "Almacén s24",
+   "10841": "25% s24",
+   "10848": "Alimentos y Bebidas s24",
+   "11016": "Almacén s28",
+   "11023": "35% s28",
+   "11027": "Almacen y Frescos SD s28",
+   "11219": "Almacén s33",
+   "11234": "35% s33"
+  },
+  "searchableClusters": {},
+  "categories": [
+   "/Almacén/Conservas/Conservas de pescados/",
+   "/Almacén/Conservas/",
+   "/Almacén/"
+  ],
+  "categoriesIds": [
+   "/1/16/19/",
+   "/1/16/",
+   "/1/"
+  ],
+  "link": "https://diaonline.supermercadosdia.com.ar/atun-al-natural-la-campagnola-170-gr-14797/p",
+  "PrecioPorUnd": [
+   "34170.59"
+  ],
+  "UnidaddeMedida": [
+   "1 Kg"
+  ],
+  "IVA": [
+   "21"
+  ],
+  "InternalTax": [
+   "0"
+  ],
+  "FOOD": [
+   "PrecioPorUnd",
+   "UnidaddeMedida",
+   "IVA",
+   "InternalTax"
+  ],
+  "allSpecifications": [
+   "PrecioPorUnd",
+   "UnidaddeMedida",
+   "IVA",
+   "InternalTax"
+  ],
+  "items": [
+   {
+    "itemId": "14797",
+    "name": "Atún al Natural La Campagnola 170 Gr.",
+    "ean": "7790580131364",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "14797"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 5809,
+       "ListPrice": 5809,
+       "PriceWithoutDiscount": 5809,
+       "IsAvailable": true,
+       "AvailableQuantity": 193,
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "59894",
+  "productName": "Atún Desmenuzado Al Natural Dia 170 Gr.",
+  "brand": "DIA",
+  "brandId": 78,
+  "linkText": "atun-desmenuzado-al-natural-dia-170-gr-59894",
+  "productReference": "8480017598943",
+  "productReferenceCode": null,
+  "categoryId": "19",
+  "productTitle": "",
+  "releaseDate": "2019-08-23T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "564": "Productos DIA",
+   "567": "Todas las Ofertas",
+   "569": "Especial Verano",
+   "889": "Ofertas Almacen",
+   "1531": "rein",
+   "7234": "Facebook 2 s03",
+   "7235": "Productos a menos de $1000",
+   "7263": "Alimentos y Bebidas s03",
+   "7264": "Destacado Alimentos y Bebidas s03",
+   "7278": "Productos $990",
+   "7530": "Mas destacados s09",
+   "7531": "Destacado Mas destacados s09",
+   "7616": "Especial Almacen s12",
+   "7627": "Facebook 4 s12",
+   "7635": "Alimentos y Bebidas s12",
+   "7636": "Destacado Supermes de Ofertones s12",
+   "7730": "Alimentos y Bebidas s15",
+   "7731": "Destacado Alimentos y Bebidas s15",
+   "7735": "Facebook 1 s15",
+   "7742": "Conservas de pescado s15",
+   "8016": "Facebook 1 s21",
+   "8023": "Conservas s21",
+   "8027": "Especial Patrio s21",
+   "8043": "Alimentos y Bebidas s21",
+   "8049": "Destacado Alimentos y Bebidas s21",
+   "8053": "Mas Destacados s21",
+   "8173": "Facebook 3 s24",
+   "8202": "Atun desmenuzado Dia",
+   "8422": "Atun Desmenuzado Dia s28",
+   "8433": "Especial Patrio s28",
+   "8442": "Alimentos y Bebidas s28",
+   "8447": "Mas Destacados s28",
+   "8448": "Destacado Alimentos y Bebidas s28",
+   "8451": "Destacado Especial Patrio s28",
+   "8605": "Sin Tacc s30",
+   "8828": "Especial Llena Tu Alacena s35",
+   "8849": "Alimentos y Bebidas s35",
+   "8853": "Hasta 2x1 s35",
+   "8857": "Mas Destacados s35",
+   "8858": "Destacado Especial Llena tu Alacena s35",
+   "8864": "Facebook 2 s35",
+   "8868": "Destacado Hasta 2x1 s35",
+   "8873": "Instagram-S35-1",
+   "8880": "banners-promo36",
+   "9033": "Alimentos y Bebidas s39",
+   "9037": "Mas Destacados s39",
+   "9043": "Medios-directos2-s39",
+   "9045": "Medios-directos3-s39",
+   "9046": "Medios-directos4-s39",
+   "9211": "Ofertas Dia",
+   "9459": "Alimentos y Bebidas s47",
+   "9462": "Mas Destacados s47",
+   "9466": "Medios-directos1-s47",
+   "9467": "Medios-directos2-s47",
+   "9469": "Medios-directos3-s47",
+   "9471": "Medios-directos4-s47",
+   "9479": "Almacen DP s47",
+   "9569": "Alimentos y Bebidas s49",
+   "9572": "Mas Destacados s49",
+   "9581": "Destacado Mas Destacados s49",
+   "9599": "Almacen y bebidas s49",
+   "9603": "Medios-directos1-s49",
+   "9661": "Mas Destacados s51",
+   "9664": "Alimentos y bebidas S51",
+   "9755": "Almacen s02",
+   "9763": "Mas destacados s02",
+   "9764": "Alimentos y bebidas s02",
+   "9777": "Destacado Alimentos y Bebidas s02",
+   "9873": "Ofertas Extras s04",
+   "9971": "Especial Srockeate s06",
+   "9978": "Alimentos y bebidas s06",
+   "9980": "Mas destacados s06",
+   "9982": "Destacados  s06",
+   "10060": "Mas Destacados s08",
+   "10062": "Alimentos y Bebidas s08",
+   "10082": "Facebook 1 s08",
+   "10094": "Envío Express",
+   "10114": "Menos 1000",
+   "10287": "Mas Destacados S13",
+   "10288": "Destacado Mas Destacados S13",
+   "10289": "Alimentos y Bebidas S13",
+   "10300": "Facebook 1 s13",
+   "10436": "Mas Destacados s17",
+   "10437": "Destacado Mas Destacados s17",
+   "10438": "Alimentos y Bebidas s17",
+   "10463": "Facebook 2 s17",
+   "10675": "Almacen Mayo",
+   "10684": "Mas Destacados s21",
+   "10686": "Alimentos y Bebidas s21",
+   "10687": "Destacado Alimentos y Bebidas s21",
+   "10851": "35% fijo",
+   "10852": "Destacado 35% fijo",
+   "10918": "SD s26",
+   "10927": "alimentos y bebidas s26",
+   "10940": "Especial de la semana",
+   "10963": "Partido Argentina 2026",
+   "11136": "Llená tu Alacena s31",
+   "11142": "Pastas y Conservas s31",
+   "11156": "Alimentos y Bebidas s31",
+   "11159": "Atun Dia s31",
+   "11172": "Stockeate s32",
+   "11211": "Dia s32"
+  },
+  "searchableClusters": {
+   "564": "Productos DIA"
+  },
+  "categories": [
+   "/Almacén/Conservas/Conservas de pescados/",
+   "/Almacén/Conservas/",
+   "/Almacén/"
+  ],
+  "categoriesIds": [
+   "/1/16/19/",
+   "/1/16/",
+   "/1/"
+  ],
+  "link": "https://diaonline.supermercadosdia.com.ar/atun-desmenuzado-al-natural-dia-170-gr-59894/p",
+  "PrecioPorUnd": [
+   "8764.71"
+  ],
+  "UnidaddeMedida": [
+   "1 Kg"
+  ],
+  "Otros": [
+   "Sin Tacc"
+  ],
+  "IVA": [
+   "21"
+  ],
+  "FOOD": [
+   "PrecioPorUnd",
+   "UnidaddeMedida",
+   "Otros",
+   "IVA"
+  ],
+  "allSpecifications": [
+   "PrecioPorUnd",
+   "UnidaddeMedida",
+   "Otros",
+   "IVA"
+  ],
+  "items": [
+   {
+    "itemId": "59894",
+    "name": "Atún Desmenuzado Al Natural Dia 170 Gr.",
+    "ean": "8480017598943",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "59894"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 1490,
+       "ListPrice": 1490,
+       "PriceWithoutDiscount": 1490,
+       "IsAvailable": true,
+       "AvailableQuantity": 1389,
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "55817",
+  "productName": "Atún Desmenuzado en Aceite Dia 170 Gr.",
+  "brand": "DIA",
+  "brandId": 78,
+  "linkText": "atun-desmenuzado-en-aceite-dia-170-gr-55817",
+  "productReference": "8480017558176",
+  "productReferenceCode": null,
+  "categoryId": "19",
+  "productTitle": "",
+  "releaseDate": "2019-08-23T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "564": "Productos DIA",
+   "567": "Todas las Ofertas",
+   "569": "Especial Verano",
+   "889": "Ofertas Almacen",
+   "1531": "rein",
+   "7234": "Facebook 2 s03",
+   "7235": "Productos a menos de $1000",
+   "7263": "Alimentos y Bebidas s03",
+   "7267": "Destacado Alimentos y Bebidas s03 2",
+   "7278": "Productos $990",
+   "7530": "Mas destacados s09",
+   "7616": "Especial Almacen s12",
+   "7627": "Facebook 4 s12",
+   "7635": "Alimentos y Bebidas s12",
+   "7637": "Destacado Especial Almacen s12",
+   "7730": "Alimentos y Bebidas s15",
+   "7735": "Facebook 1 s15",
+   "7742": "Conservas de pescado s15",
+   "8016": "Facebook 1 s21",
+   "8023": "Conservas s21",
+   "8027": "Especial Patrio s21",
+   "8043": "Alimentos y Bebidas s21",
+   "8053": "Mas Destacados s21",
+   "8173": "Facebook 3 s24",
+   "8202": "Atun desmenuzado Dia",
+   "8422": "Atun Desmenuzado Dia s28",
+   "8433": "Especial Patrio s28",
+   "8442": "Alimentos y Bebidas s28",
+   "8447": "Mas Destacados s28",
+   "8605": "Sin Tacc s30",
+   "8828": "Especial Llena Tu Alacena s35",
+   "8849": "Alimentos y Bebidas s35",
+   "8853": "Hasta 2x1 s35",
+   "8857": "Mas Destacados s35",
+   "8864": "Facebook 2 s35",
+   "8873": "Instagram-S35-1",
+   "8880": "banners-promo36",
+   "9033": "Alimentos y Bebidas s39",
+   "9037": "Mas Destacados s39",
+   "9039": "Facebook 2 s39",
+   "9043": "Medios-directos2-s39",
+   "9045": "Medios-directos3-s39",
+   "9046": "Medios-directos4-s39",
+   "9211": "Ofertas Dia",
+   "9459": "Alimentos y Bebidas s47",
+   "9462": "Mas Destacados s47",
+   "9465": "Destacado Alimentos y Bebidas s47",
+   "9466": "Medios-directos1-s47",
+   "9467": "Medios-directos2-s47",
+   "9469": "Medios-directos3-s47",
+   "9471": "Medios-directos4-s47",
+   "9479": "Almacen DP s47",
+   "9569": "Alimentos y Bebidas s49",
+   "9572": "Mas Destacados s49",
+   "9599": "Almacen y bebidas s49",
+   "9603": "Medios-directos1-s49",
+   "9661": "Mas Destacados s51",
+   "9664": "Alimentos y bebidas S51",
+   "9755": "Almacen s02",
+   "9763": "Mas destacados s02",
+   "9764": "Alimentos y bebidas s02",
+   "9873": "Ofertas Extras s04",
+   "9971": "Especial Srockeate s06",
+   "9978": "Alimentos y bebidas s06",
+   "9980": "Mas destacados s06",
+   "9982": "Destacados  s06",
+   "10060": "Mas Destacados s08",
+   "10061": "Destacado Mas Destacados s08",
+   "10062": "Alimentos y Bebidas s08",
+   "10082": "Facebook 1 s08",
+   "10094": "Envío Express",
+   "10114": "Menos 1000",
+   "10287": "Mas Destacados S13",
+   "10289": "Alimentos y Bebidas S13",
+   "10300": "Facebook 1 s13",
+   "10436": "Mas Destacados s17",
+   "10438": "Alimentos y Bebidas s17",
+   "10463": "Facebook 2 s17",
+   "10675": "Almacen Mayo",
+   "10684": "Mas Destacados s21",
+   "10685": "Destacado Mas Destacados s21",
+   "10686": "Alimentos y Bebidas s21",
+   "10851": "35% fijo",
+   "10918": "SD s26",
+   "10927": "alimentos y bebidas s26",
+   "10940": "Especial de la semana",
+   "10963": "Partido Argentina 2026",
+   "11136": "Llená tu Alacena s31",
+   "11142": "Pastas y Conservas s31",
+   "11156": "Alimentos y Bebidas s31",
+   "11159": "Atun Dia s31",
+   "11172": "Stockeate s32",
+   "11201": "Alimentos y bebidas s32",
+   "11211": "Dia s32"
+  },
+  "searchableClusters": {
+   "564": "Productos DIA"
+  },
+  "categories": [
+   "/Almacén/Conservas/Conservas de pescados/",
+   "/Almacén/Conservas/",
+   "/Almacén/"
+  ],
+  "categoriesIds": [
+   "/1/16/19/",
+   "/1/16/",
+   "/1/"
+  ],
+  "link": "https://diaonline.supermercadosdia.com.ar/atun-desmenuzado-en-aceite-dia-170-gr-55817/p",
+  "PrecioPorUnd": [
+   "8764.71"
+  ],
+  "UnidaddeMedida": [
+   "1 Kg"
+  ],
+  "Otros": [
+   "Sin Tacc"
+  ],
+  "IVA": [
+   "21"
+  ],
+  "InternalTax": [
+   "0"
+  ],
+  "FOOD": [
+   "PrecioPorUnd",
+   "UnidaddeMedida",
+   "Otros",
+   "IVA",
+   "InternalTax"
+  ],
+  "allSpecifications": [
+   "PrecioPorUnd",
+   "UnidaddeMedida",
+   "Otros",
+   "IVA",
+   "InternalTax"
+  ],
+  "items": [
+   {
+    "itemId": "55817",
+    "name": "Atún Desmenuzado en Aceite Dia 170 Gr.",
+    "ean": "8480017558176",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "55817"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 1490,
+       "ListPrice": 1490,
+       "PriceWithoutDiscount": 1490,
+       "IsAvailable": true,
+       "AvailableQuantity": 1647,
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "14796",
+  "productName": "Atún en Aceite La Campagnola 170 Gr.",
+  "brand": "CAMPAGNOLA",
+  "brandId": 546,
+  "linkText": "atun-en-aceite-la-campagnola-170-gr-14796",
+  "productReference": "7790580131357",
+  "productReferenceCode": null,
+  "categoryId": "19",
+  "productTitle": "",
+  "releaseDate": "2026-06-11T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "567": "Todas las Ofertas",
+   "569": "Especial Verano",
+   "889": "Ofertas Almacen",
+   "1531": "rein",
+   "7730": "Alimentos y Bebidas s15",
+   "7742": "Conservas de pescado s15",
+   "9027": "La Campagnola s39",
+   "9033": "Alimentos y Bebidas s39",
+   "9211": "Ofertas Dia",
+   "9524": "Alimentos y Bebidas s48",
+   "9682": "Alimentos y bebidas s52",
+   "9704": "Almacen s52",
+   "9711": "Especial Verano 2026",
+   "9721": "Alimentos y Bebidas s01",
+   "9724": "Mas Destacados s01",
+   "9733": "Almacen y bebidas s1",
+   "10060": "Mas Destacados s08",
+   "10062": "Alimentos y Bebidas s08",
+   "10238": "Especial Llena tu Alacena s12",
+   "10249": "Conservas s12",
+   "10259": "Productos seleccionados s12",
+   "10262": "Alimentos y bebidas s12",
+   "10265": "Mas Destacados s12",
+   "10266": "Alimentos y Bebidas s12",
+   "10269": "Cat 25 s12",
+   "10410": "Alimentos y bebidas s16",
+   "10675": "Almacen Mayo",
+   "10684": "Mas Destacados s21",
+   "10686": "Alimentos y Bebidas s21",
+   "10698": "25% Categoria s21",
+   "10703": "Hasta 45% s21",
+   "10820": "Mundial 2026",
+   "10822": "Almacén s24",
+   "10841": "25% s24",
+   "10848": "Alimentos y Bebidas s24",
+   "11016": "Almacén s28",
+   "11023": "35% s28",
+   "11024": "Dia Patrio",
+   "11027": "Almacen y Frescos SD s28",
+   "11219": "Almacén s33",
+   "11234": "35% s33"
+  },
+  "searchableClusters": {},
+  "categories": [
+   "/Almacén/Conservas/Conservas de pescados/",
+   "/Almacén/Conservas/",
+   "/Almacén/"
+  ],
+  "categoriesIds": [
+   "/1/16/19/",
+   "/1/16/",
+   "/1/"
+  ],
+  "link": "https://diaonline.supermercadosdia.com.ar/atun-en-aceite-la-campagnola-170-gr-14796/p",
+  "PrecioPorUnd": [
+   "34170.59"
+  ],
+  "UnidaddeMedida": [
+   "1 Kg"
+  ],
+  "IVA": [
+   "21"
+  ],
+  "InternalTax": [
+   "0"
+  ],
+  "FOOD": [
+   "PrecioPorUnd",
+   "UnidaddeMedida",
+   "IVA",
+   "InternalTax"
+  ],
+  "allSpecifications": [
+   "PrecioPorUnd",
+   "UnidaddeMedida",
+   "IVA",
+   "InternalTax"
+  ],
+  "items": [
+   {
+    "itemId": "14796",
+    "name": "Atún en Aceite La Campagnola 170 Gr.",
+    "ean": "7790580131357",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "14796"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 5809,
+       "ListPrice": 5809,
+       "PriceWithoutDiscount": 5809,
+       "IsAvailable": true,
+       "AvailableQuantity": 150,
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "55813",
+  "productName": "Lomitos de Atún en Aceite Dia 170 Gr.",
+  "brand": "DIA",
+  "brandId": 78,
+  "linkText": "lomitos-de-atun-en-aceite-dia-170-gr-55813",
+  "productReference": "8480017558138",
+  "productReferenceCode": null,
+  "categoryId": "19",
+  "productTitle": "Lomitos de Atún en A",
+  "releaseDate": "2019-08-23T00:00:00Z",
+  "clusterHighlights": {
+   "572": "Ahorrames"
+  },
+  "productClusters": {
+   "564": "Productos DIA",
+   "567": "Todas las Ofertas",
+   "569": "Especial Verano",
+   "572": "Ahorrames",
+   "686": "Destacados Frutos Secos y Conservas",
+   "889": "Ofertas Almacen",
+   "1363": "Blackweek DIA",
+   "1440": "HS 3x2",
+   "1531": "rein",
+   "2841": "Almacen y Bebidas DP",
+   "3058": "Almacen y Bebidas DP",
+   "7191": "Facebook 1 s02",
+   "7210": "Alimentos y Bebidas s02",
+   "7399": "Carnaval de Precios s06",
+   "7411": "Facebook 2 s06",
+   "7414": "Alimentos y Bebidas s06",
+   "7532": "Alimentos y Bebidas s09",
+   "7556": "Facebook 1 s10",
+   "7688": "Facebook 3 s14",
+   "7689": "Facebook 4 s14",
+   "7691": "Alimentos y Bebidas s14",
+   "7747": "Facebook 1 s16",
+   "7757": "Facebook 3 s16",
+   "7766": "Conservas de Pescado s16",
+   "7767": "Especial Pascuas s16",
+   "7773": "Alimentos y Bebidas s16",
+   "7986": "Facebook 1 s20",
+   "8115": "Especial Stockeate s23",
+   "8117": "Almacen s23",
+   "8121": "Atun Dia s23",
+   "8128": "Facebook 1 s23",
+   "8134": "Destacado Stockeate s23",
+   "8135": "Alimentos y Bebidas s23",
+   "8140": "Mas Destacados s23",
+   "8141": "Destacado Alimentos y Bebidas s23",
+   "8307": "Facebook 1 s26",
+   "8310": "Alimentos y Bebidas s26",
+   "8332": "Mas Destacados s26",
+   "8377": "Especial Marca Dia s26",
+   "8605": "Sin Tacc s30",
+   "8804": "Facebook 1 s34",
+   "8807": "Alimentos y Bebidas s34",
+   "8813": "Mas Destacados s34",
+   "8816": "Destacado Mas Destacados s34",
+   "8897": "Lomitos de Atun Dia s36",
+   "8899": "Alimentos y Bebidas s36",
+   "8903": "Hasta 2x1 s36",
+   "8907": "Mas Destacados s36",
+   "8916": "Destacado Mas Destacados s36",
+   "8981": "Atun Dia S38",
+   "8991": "Facebook 2 s38",
+   "8992": "Alimentos y Bebidas s38",
+   "8996": "Mas Destacados s38",
+   "9010": "Medios-directos3-s38",
+   "9011": "Medios-directos4-s38",
+   "9263": "Almacen s44",
+   "9291": "Alimentos y Bebidas s44",
+   "9292": "Medios-directos1-s44",
+   "9299": "Mas Destacados s44",
+   "9524": "Alimentos y Bebidas s48",
+   "9526": "Mas Destacados s48",
+   "9661": "Mas Destacados s51",
+   "9664": "Alimentos y bebidas S51",
+   "9671": "Destacado s51",
+   "9672": "Facebook 1 s51",
+   "9682": "Alimentos y bebidas s52",
+   "9693": "Mas destacados s52",
+   "9701": "Facebook 2 s52",
+   "9704": "Almacen s52",
+   "9840": "Facebook 2 s03",
+   "9843": "Alimentos y Bebidas s03",
+   "9844": "Destacados s03",
+   "9929": "Alimentos y Bebidas s05",
+   "9930": "Mas Destacados s05",
+   "9935": "Facebook 1 s05",
+   "10009": "Carnaval s07",
+   "10018": "SD Almacen s07",
+   "10023": "Facebook 1 s07",
+   "10025": "Almacen y bebidas s07",
+   "10028": "Almacen s07",
+   "10038": "Mas Destacados s07",
+   "10094": "Envío Express",
+   "10147": "Vuelta al cole",
+   "10154": "Mas Destacados s10",
+   "10155": "Alimentos y Bebidas s10",
+   "10167": "Facebook 2 s10",
+   "10309": "Stockeate s14",
+   "10314": "Pastas Frescas s14",
+   "10325": "Facebook 1 s14",
+   "10328": "Alimentos y Bebidas s14",
+   "10334": "Mas Destacados s14",
+   "10340": "Destacado Alimentos y Bebidas s14",
+   "10403": "Facebook 2 s16",
+   "10410": "Alimentos y bebidas s16",
+   "10426": "Mas Destacados s16",
+   "10545": "Alimentos y Bebidas s19",
+   "10547": "Mas Destacados s19",
+   "10568": "Facebook 1 s19",
+   "10572": "Folleto s19",
+   "10646": "Facebook 2 s20",
+   "10764": "Especial Stockeate s23",
+   "10773": "Almacén s23",
+   "10788": "Alimentos y Bebidas s23",
+   "10801": "Mas Destacados",
+   "10909": "Facebook 1 s26",
+   "10918": "SD s26",
+   "10927": "alimentos y bebidas s26",
+   "10963": "Partido Argentina 2026",
+   "11016": "Almacén s28",
+   "11024": "Dia Patrio",
+   "11031": "Promo 28 - Tapa",
+   "11034": "Facebook 1 s28",
+   "11096": "Especial Festival de Precios s30",
+   "11097": "Almacen s30",
+   "11122": "Facebook 1 s30",
+   "11130": "Alimentos y Bebidas s30",
+   "11136": "Llená tu Alacena s31",
+   "11142": "Pastas y Conservas s31",
+   "11156": "Alimentos y Bebidas s31",
+   "11159": "Atun Dia s31",
+   "11219": "Almacén s33",
+   "11222": "Facebook 1 s33",
+   "11263": "Almacen s35",
+   "11279": "SP35 1",
+   "11294": "Dia s36",
+   "11330": "Alimentos y bebidas s36",
+   "11335": "Almacen s37"
+  },
+  "searchableClusters": {
+   "564": "Productos DIA",
+   "572": "Ahorrames"
+  },
+  "categories": [
+   "/Almacén/Conservas/Conservas de pescados/",
+   "/Almacén/Conservas/",
+   "/Almacén/"
+  ],
+  "categoriesIds": [
+   "/1/16/19/",
+   "/1/16/",
+   "/1/"
+  ],
+  "link": "https://diaonline.supermercadosdia.com.ar/lomitos-de-atun-en-aceite-dia-170-gr-55813/p",
+  "PrecioPorUnd": [
+   "20529.41"
+  ],
+  "UnidaddeMedida": [
+   "1 Kg"
+  ],
+  "Otros": [
+   "Sin Tacc"
+  ],
+  "IVA": [
+   "21"
+  ],
+  "FOOD": [
+   "PrecioPorUnd",
+   "UnidaddeMedida",
+   "Otros",
+   "IVA"
+  ],
+  "allSpecifications": [
+   "PrecioPorUnd",
+   "UnidaddeMedida",
+   "Otros",
+   "IVA"
+  ],
+  "items": [
+   {
+    "itemId": "55813",
+    "name": "Lomitos de Atún en Aceite Dia 170 Gr.",
+    "ean": "8480017558138",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "55813"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 2610,
+       "ListPrice": 3490,
+       "PriceWithoutDiscount": 2610,
+       "IsAvailable": true,
+       "AvailableQuantity": 1698,
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ],
+  "skuSpecifications": [
+   {
+    "field": {
+     "id": 40,
+     "name": "Límite Unidad máxima",
+     "isActive": true,
+     "position": 1,
+     "type": "Combo"
+    },
+    "values": [
+     {
+      "id": "160",
+      "name": "4",
+      "position": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "55812",
+  "productName": "Lomitos de Atún al Natural Dia 170 Gr.",
+  "brand": "DIA",
+  "brandId": 78,
+  "linkText": "lomitos-de-atun-al-natural-dia-170-gr-55812",
+  "productReference": "8480017558121",
+  "productReferenceCode": null,
+  "categoryId": "19",
+  "productTitle": "Lomitos de Atún al n",
+  "releaseDate": "2019-08-23T00:00:00Z",
+  "clusterHighlights": {
+   "572": "Ahorrames"
+  },
+  "productClusters": {
+   "564": "Productos DIA",
+   "567": "Todas las Ofertas",
+   "569": "Especial Verano",
+   "572": "Ahorrames",
+   "686": "Destacados Frutos Secos y Conservas",
+   "889": "Ofertas Almacen",
+   "1363": "Blackweek DIA",
+   "1440": "HS 3x2",
+   "1531": "rein",
+   "1561": "Ofertas Seleccionadas",
+   "1903": "Cybermonday Top 20",
+   "2577": "Almacen y Bebidas D11",
+   "2579": "Destacados DIA S11",
+   "2841": "Almacen y Bebidas DP",
+   "2843": "Alm y Bebidas DP",
+   "2994": "Destacado Festival DIA",
+   "3058": "Almacen y Bebidas DP",
+   "7191": "Facebook 1 s02",
+   "7210": "Alimentos y Bebidas s02",
+   "7217": "Destacado Alimentos y Bebidas s02 2",
+   "7399": "Carnaval de Precios s06",
+   "7411": "Facebook 2 s06",
+   "7414": "Alimentos y Bebidas s06",
+   "7415": "Destacado Alimentos y Bebidas s06",
+   "7532": "Alimentos y Bebidas s09",
+   "7556": "Facebook 1 s10",
+   "7688": "Facebook 3 s14",
+   "7689": "Facebook 4 s14",
+   "7691": "Alimentos y Bebidas s14",
+   "7692": "Destacado Alimentos y Bebidas s14",
+   "7747": "Facebook 1 s16",
+   "7757": "Facebook 3 s16",
+   "7766": "Conservas de Pescado s16",
+   "7767": "Especial Pascuas s16",
+   "7773": "Alimentos y Bebidas s16",
+   "7778": "Destacado Especial Pascuas s16",
+   "7986": "Facebook 1 s20",
+   "8115": "Especial Stockeate s23",
+   "8117": "Almacen s23",
+   "8121": "Atun Dia s23",
+   "8128": "Facebook 1 s23",
+   "8135": "Alimentos y Bebidas s23",
+   "8140": "Mas Destacados s23",
+   "8143": "Destacado Mas Destacados s23",
+   "8307": "Facebook 1 s26",
+   "8310": "Alimentos y Bebidas s26",
+   "8332": "Mas Destacados s26",
+   "8377": "Especial Marca Dia s26",
+   "8605": "Sin Tacc s30",
+   "8804": "Facebook 1 s34",
+   "8807": "Alimentos y Bebidas s34",
+   "8813": "Mas Destacados s34",
+   "8897": "Lomitos de Atun Dia s36",
+   "8899": "Alimentos y Bebidas s36",
+   "8903": "Hasta 2x1 s36",
+   "8907": "Mas Destacados s36",
+   "8909": "Destacado Alimentos y Bebidas s36",
+   "8981": "Atun Dia S38",
+   "8991": "Facebook 2 s38",
+   "8992": "Alimentos y Bebidas s38",
+   "8996": "Mas Destacados s38",
+   "9010": "Medios-directos3-s38",
+   "9011": "Medios-directos4-s38",
+   "9263": "Almacen s44",
+   "9291": "Alimentos y Bebidas s44",
+   "9292": "Medios-directos1-s44",
+   "9299": "Mas Destacados s44",
+   "9301": "Destacado Alimentos y Bebidas s44",
+   "9524": "Alimentos y Bebidas s48",
+   "9526": "Mas Destacados s48",
+   "9531": "Destacado Mas Destacados s48",
+   "9661": "Mas Destacados s51",
+   "9664": "Alimentos y bebidas S51",
+   "9669": "Alimentos y bebidas Destacados S51",
+   "9672": "Facebook 1 s51",
+   "9682": "Alimentos y bebidas s52",
+   "9693": "Mas destacados s52",
+   "9694": "Alimentos y bebidas destacados s52",
+   "9701": "Facebook 2 s52",
+   "9704": "Almacen s52",
+   "9840": "Facebook 2 s03",
+   "9843": "Alimentos y Bebidas s03",
+   "9844": "Destacados s03",
+   "9849": "Mas destacados s03",
+   "9929": "Alimentos y Bebidas s05",
+   "9930": "Mas Destacados s05",
+   "9934": "Destacado Mas Destacados s05",
+   "9935": "Facebook 1 s05",
+   "10009": "Carnaval s07",
+   "10018": "SD Almacen s07",
+   "10023": "Facebook 1 s07",
+   "10025": "Almacen y bebidas s07",
+   "10028": "Almacen s07",
+   "10038": "Mas Destacados s07",
+   "10039": "Destacados s07",
+   "10044": "Destacados Alimentos y bebidas s07",
+   "10094": "Envío Express",
+   "10147": "Vuelta al cole",
+   "10154": "Mas Destacados s10",
+   "10155": "Alimentos y Bebidas s10",
+   "10161": "Destacado Alimentos y Bebidas s10",
+   "10167": "Facebook 2 s10",
+   "10309": "Stockeate s14",
+   "10314": "Pastas Frescas s14",
+   "10325": "Facebook 1 s14",
+   "10328": "Alimentos y Bebidas s14",
+   "10334": "Mas Destacados s14",
+   "10403": "Facebook 2 s16",
+   "10410": "Alimentos y bebidas s16",
+   "10426": "Mas Destacados s16",
+   "10427": "Destacado Mas Destacados s16",
+   "10545": "Alimentos y Bebidas s19",
+   "10547": "Mas Destacados s19",
+   "10548": "Destacado Mas Destacados s19",
+   "10568": "Facebook 1 s19",
+   "10572": "Folleto s19",
+   "10646": "Facebook 2 s20",
+   "10764": "Especial Stockeate s23",
+   "10773": "Almacén s23",
+   "10788": "Alimentos y Bebidas s23",
+   "10801": "Mas Destacados",
+   "10805": "Destacado Mas Destacados",
+   "10909": "Facebook 1 s26",
+   "10918": "SD s26",
+   "10927": "alimentos y bebidas s26",
+   "10963": "Partido Argentina 2026",
+   "11016": "Almacén s28",
+   "11024": "Dia Patrio",
+   "11031": "Promo 28 - Tapa",
+   "11034": "Facebook 1 s28",
+   "11096": "Especial Festival de Precios s30",
+   "11097": "Almacen s30",
+   "11122": "Facebook 1 s30",
+   "11130": "Alimentos y Bebidas s30",
+   "11136": "Llená tu Alacena s31",
+   "11142": "Pastas y Conservas s31",
+   "11156": "Alimentos y Bebidas s31",
+   "11159": "Atun Dia s31",
+   "11219": "Almacén s33",
+   "11222": "Facebook 1 s33",
+   "11263": "Almacen s35",
+   "11279": "SP35 1",
+   "11294": "Dia s36",
+   "11330": "Alimentos y bebidas s36",
+   "11335": "Almacen s37"
+  },
+  "searchableClusters": {
+   "564": "Productos DIA",
+   "572": "Ahorrames"
+  },
+  "categories": [
+   "/Almacén/Conservas/Conservas de pescados/",
+   "/Almacén/Conservas/",
+   "/Almacén/"
+  ],
+  "categoriesIds": [
+   "/1/16/19/",
+   "/1/16/",
+   "/1/"
+  ],
+  "link": "https://diaonline.supermercadosdia.com.ar/lomitos-de-atun-al-natural-dia-170-gr-55812/p",
+  "PrecioPorUnd": [
+   "20529.41"
+  ],
+  "UnidaddeMedida": [
+   "1 Kg"
+  ],
+  "Otros": [
+   "Sin Tacc"
+  ],
+  "IVA": [
+   "21"
+  ],
+  "InternalTax": [
+   "0"
+  ],
+  "FOOD": [
+   "PrecioPorUnd",
+   "UnidaddeMedida",
+   "Otros",
+   "IVA",
+   "InternalTax"
+  ],
+  "allSpecifications": [
+   "PrecioPorUnd",
+   "UnidaddeMedida",
+   "Otros",
+   "IVA",
+   "InternalTax"
+  ],
+  "items": [
+   {
+    "itemId": "55812",
+    "name": "Lomitos de Atún al Natural Dia 170 Gr.",
+    "ean": "8480017558121",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "55812"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 2610,
+       "ListPrice": 3490,
+       "PriceWithoutDiscount": 2610,
+       "IsAvailable": true,
+       "AvailableQuantity": 1182,
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ],
+  "skuSpecifications": [
+   {
+    "field": {
+     "id": 40,
+     "name": "Límite Unidad máxima",
+     "isActive": true,
+     "position": 1,
+     "type": "Combo"
+    },
+    "values": [
+     {
+      "id": "160",
+      "name": "4",
+      "position": 4
+     }
+    ]
+   }
+  ]
+ }
+]

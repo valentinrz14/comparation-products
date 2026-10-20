@@ -1,0 +1,547 @@
+{
+ "response": {
+  "results": [
+   {
+    "value": "Yogur Griego natural sin endulzar Yogurísimo 300g",
+    "data": {
+     "id": "prod00612391",
+     "url": "_/R-00612391-00612391-200",
+     "price": [
+      {
+       "id": "pl220_00612391",
+       "store": "220",
+       "listPrice": 4915,
+       "priceList": "priceList220",
+       "saleImage1": "oferta.png",
+       "saleImage2": null,
+       "saleImage3": null,
+       "formatPrice": 16383.33,
+       "priceWithoutTax": 4061.98
+      }
+     ],
+     "sku_id": "sku00612391",
+     "sku_plu": 612391,
+     "sale_type": [
+      "2da Unid 70% DTO!! ",
+      "Todas las Ofertas"
+     ],
+     "discounts": [
+      {
+       "id": "37486378",
+       "comments": "No acumulable con otras promos",
+       "takingText": "Llevando 2",
+       "discountText": "70% 2da",
+       "regularPrice": null,
+       "discountImage": null,
+       "discountPrice": "$3194.75",
+       "regularPriceText": "Precio Contado: $4915"
+      }
+     ],
+     "product_brand": "YOGURISIMO",
+     "product_format": "Kilo",
+     "product_is_noa": 0,
+     "sku_description": "Yogur Griego natural sin endulzar Yogurísimo 300g",
+     "sku_display_name": "Yogur Griego natural sin endulzar Yogurísimo 300g",
+     "product_main_ean": 7791337010017,
+     "product_weighable": 0,
+     "product_list_price": 4915,
+     "store_availability": [
+      "056",
+      "063"
+     ],
+     "product_quantity_step": 0,
+     "product_format_quantity": 1,
+     "product_unit_of_measure": "UNI",
+     "product_large_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/large/00612300/00612391.jpg",
+     "product_minimum_quantity": 0,
+     "product_medium_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/medium/00612300/00612391.jpg",
+     "discounts_payment_methods": [
+      {
+       "id": "80829029",
+       "comentarios": "",
+       "precioCuota": "$3194.75",
+       "cantidadCuotas": "1",
+       "imagenDescuento": "/content/images/cdigi/ofertas/pagando-con-todas-tarjetas.png"
+      }
+     ],
+     "groups": [
+      {
+       "group_id": "catv00001295",
+       "display_name": "Lácteos",
+       "path": "/categoria/catv00001255",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001255",
+         "display_name": "Frescos"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00003251",
+       "display_name": "Yogures",
+       "path": "/categoria/catv00001255/catv00001295",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001255",
+         "display_name": "Frescos"
+        },
+        {
+         "id": "catv00001295",
+         "display_name": "Lácteos"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00003283",
+       "display_name": "Yogur Entero",
+       "path": "/categoria/catv00001255/catv00001295/catv00003251",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001255",
+         "display_name": "Frescos"
+        },
+        {
+         "id": "catv00001295",
+         "display_name": "Lácteos"
+        },
+        {
+         "id": "catv00003251",
+         "display_name": "Yogures"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00001255",
+       "display_name": "Frescos",
+       "path": "/categoria",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        }
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "value": "Yogur Griego sabor vainilla Yogurísimo 140g",
+    "data": {
+     "id": "prod00612394",
+     "url": "_/R-00612394-00612394-200",
+     "price": [
+      {
+       "id": "pl188_00612394",
+       "store": "188",
+       "listPrice": 2185,
+       "priceList": "priceList188",
+       "saleImage1": "oferta.png",
+       "saleImage2": null,
+       "saleImage3": null,
+       "formatPrice": 15607.14,
+       "priceWithoutTax": 1805.79
+      }
+     ],
+     "sku_id": "sku00612394",
+     "sku_plu": 612394,
+     "sale_type": [
+      "2da Unid 70% DTO!! ",
+      "Todas las Ofertas"
+     ],
+     "discounts": [
+      {
+       "id": "37485207",
+       "comments": "No acumulable con otras promos",
+       "takingText": "Llevando 2",
+       "discountText": "70% 2da",
+       "regularPrice": null,
+       "discountImage": null,
+       "discountPrice": "$1420.25",
+       "regularPriceText": "Precio Contado: $2185"
+      }
+     ],
+     "product_brand": "YOGURISIMO",
+     "product_is_noa": 0,
+     "product_format": "Kilo",
+     "sku_description": "Yogur Griego sabor vainilla Yogurísimo 140g",
+     "product_main_ean": 7791337009950,
+     "sku_display_name": "Yogur Griego sabor vainilla Yogurísimo 140g",
+     "product_weighable": 0,
+     "product_list_price": 2185,
+     "store_availability": [
+      "056",
+      "063"
+     ],
+     "product_quantity_step": 0,
+     "product_large_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/large/00612300/00612394.jpg",
+     "product_format_quantity": 1,
+     "product_unit_of_measure": "UNI",
+     "product_medium_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/medium/00612300/00612394.jpg",
+     "product_minimum_quantity": 0,
+     "discounts_payment_methods": [
+      {
+       "id": "80827862",
+       "comentarios": "",
+       "precioCuota": "$1420.25",
+       "cantidadCuotas": "1",
+       "imagenDescuento": "/content/images/cdigi/ofertas/pagando-con-todas-tarjetas.png"
+      }
+     ],
+     "groups": [
+      {
+       "group_id": "catv00001255",
+       "display_name": "Frescos",
+       "path": "/categoria",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00003251",
+       "display_name": "Yogures",
+       "path": "/categoria/catv00001255/catv00001295",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001255",
+         "display_name": "Frescos"
+        },
+        {
+         "id": "catv00001295",
+         "display_name": "Lácteos"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00001295",
+       "display_name": "Lácteos",
+       "path": "/categoria/catv00001255",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001255",
+         "display_name": "Frescos"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00003283",
+       "display_name": "Yogur Entero",
+       "path": "/categoria/catv00001255/catv00001295/catv00003251",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001255",
+         "display_name": "Frescos"
+        },
+        {
+         "id": "catv00001295",
+         "display_name": "Lácteos"
+        },
+        {
+         "id": "catv00003251",
+         "display_name": "Yogures"
+        }
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "value": "Yogur Griego natural sin endulzar Yogurísimo 190g",
+    "data": {
+     "id": "prod00612393",
+     "url": "_/R-00612393-00612393-200",
+     "price": [
+      {
+       "id": "pl188_00612393",
+       "store": "188",
+       "listPrice": 3265,
+       "priceList": "priceList188",
+       "saleImage1": "oferta.png",
+       "saleImage2": null,
+       "saleImage3": null,
+       "formatPrice": 17184.21,
+       "priceWithoutTax": 2698.35
+      }
+     ],
+     "sku_id": "sku00612393",
+     "sku_plu": 612393,
+     "discounts": [
+      {
+       "id": "37474976",
+       "comments": "No acumulable con otras promos",
+       "takingText": "Llevando 2",
+       "discountText": "70% 2da",
+       "regularPrice": null,
+       "discountImage": null,
+       "discountPrice": "$2122.25",
+       "regularPriceText": "Precio Contado: $3265"
+      }
+     ],
+     "sale_type": [
+      "2da Unid 70% DTO!! ",
+      "Todas las Ofertas"
+     ],
+     "product_brand": "YOGURISIMO",
+     "product_format": "Kilo",
+     "product_is_noa": 0,
+     "sku_description": "Yogur Griego natural sin endulzar Yogurísimo 190g",
+     "sku_display_name": "Yogur Griego natural sin endulzar Yogurísimo 190g",
+     "product_main_ean": 7791337009998,
+     "product_weighable": 0,
+     "store_availability": [
+      "056",
+      "063"
+     ],
+     "product_list_price": 3265,
+     "product_quantity_step": 0,
+     "product_large_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/large/00612300/00612393.jpg",
+     "product_format_quantity": 1,
+     "product_unit_of_measure": "UNI",
+     "product_medium_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/medium/00612300/00612393.jpg",
+     "product_minimum_quantity": 0,
+     "discounts_payment_methods": [
+      {
+       "id": "80811188",
+       "comentarios": "",
+       "precioCuota": "$2122.25",
+       "cantidadCuotas": "1",
+       "imagenDescuento": "/content/images/cdigi/ofertas/pagando-con-todas-tarjetas.png"
+      }
+     ],
+     "groups": [
+      {
+       "group_id": "catv00001255",
+       "display_name": "Frescos",
+       "path": "/categoria",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00001295",
+       "display_name": "Lácteos",
+       "path": "/categoria/catv00001255",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001255",
+         "display_name": "Frescos"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00003283",
+       "display_name": "Yogur Entero",
+       "path": "/categoria/catv00001255/catv00001295/catv00003251",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001255",
+         "display_name": "Frescos"
+        },
+        {
+         "id": "catv00001295",
+         "display_name": "Lácteos"
+        },
+        {
+         "id": "catv00003251",
+         "display_name": "Yogures"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00003251",
+       "display_name": "Yogures",
+       "path": "/categoria/catv00001255/catv00001295",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001255",
+         "display_name": "Frescos"
+        },
+        {
+         "id": "catv00001295",
+         "display_name": "Lácteos"
+        }
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "value": "Yogur batido Ser PRO+ con proteínas sabor natural 175g",
+    "data": {
+     "id": "prod00604493",
+     "url": "_/R-00604493-00604493-200",
+     "price": [
+      {
+       "id": "pl209_00604493",
+       "store": "209",
+       "listPrice": 3395,
+       "priceList": "priceList209",
+       "saleImage1": "oferta.png",
+       "saleImage2": null,
+       "saleImage3": null,
+       "formatPrice": 19400,
+       "priceWithoutTax": 2805.79
+      }
+     ],
+     "sku_id": "sku00604493",
+     "sku_plu": 604493,
+     "discounts": [
+      {
+       "id": "37470767",
+       "comments": "No acumulable con otras promos",
+       "takingText": "Llevando 2",
+       "discountText": "50% 2da",
+       "regularPrice": null,
+       "discountImage": null,
+       "discountPrice": "$2546.25",
+       "regularPriceText": "Precio Contado: $3395"
+      }
+     ],
+     "sale_type": [
+      "2da Unid 50% DTO!!",
+      "Todas las Ofertas"
+     ],
+     "product_brand": "SER",
+     "product_format": "Kilo",
+     "product_is_noa": 0,
+     "sku_description": "Yogur batido Ser PRO+ con proteínas sabor natural 175g",
+     "sku_display_name": "Yogur batido Ser PRO+ con proteínas sabor natural 175g",
+     "product_main_ean": 7791337009660,
+     "product_weighable": 0,
+     "store_availability": [
+      "056",
+      "063"
+     ],
+     "product_list_price": 3395,
+     "product_quantity_step": 0,
+     "product_unit_of_measure": "UNI",
+     "product_format_quantity": 1,
+     "product_large_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/large/00604400/00604493.jpg",
+     "product_minimum_quantity": 0,
+     "product_medium_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/medium/00604400/00604493.jpg",
+     "discounts_payment_methods": [
+      {
+       "id": "80807016",
+       "comentarios": "",
+       "precioCuota": "$2546.25",
+       "cantidadCuotas": "1",
+       "imagenDescuento": "/content/images/cdigi/ofertas/pagando-con-todas-tarjetas.png"
+      }
+     ],
+     "groups": [
+      {
+       "group_id": "catv00003251",
+       "display_name": "Yogures",
+       "path": "/categoria/catv00001255/catv00001295",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001255",
+         "display_name": "Frescos"
+        },
+        {
+         "id": "catv00001295",
+         "display_name": "Lácteos"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00003284",
+       "display_name": "Yogur Descremado",
+       "path": "/categoria/catv00001255/catv00001295/catv00003251",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001255",
+         "display_name": "Frescos"
+        },
+        {
+         "id": "catv00001295",
+         "display_name": "Lácteos"
+        },
+        {
+         "id": "catv00003251",
+         "display_name": "Yogures"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00001295",
+       "display_name": "Lácteos",
+       "path": "/categoria/catv00001255",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001255",
+         "display_name": "Frescos"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00001255",
+       "display_name": "Frescos",
+       "path": "/categoria",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        }
+       ]
+      }
+     ]
+    }
+   }
+  ],
+  "total_num_results": 900
+ }
+}

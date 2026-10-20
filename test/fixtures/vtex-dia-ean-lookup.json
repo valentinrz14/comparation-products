@@ -1,0 +1,108 @@
+[
+ {
+  "productId": "308237",
+  "productName": "Ketchup Natura 500 Gr.",
+  "brand": "NATURA",
+  "brandId": 282,
+  "linkText": "ketchup-natura-500-gr-308237",
+  "productReference": "7791866000664",
+  "productReferenceCode": null,
+  "categoryId": "9",
+  "productTitle": "",
+  "releaseDate": "2025-07-24T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "567": "Todas las Ofertas",
+   "889": "Ofertas Almacen",
+   "1531": "rein",
+   "8676": "Alimentos y Bebidas s32",
+   "8702": "Hasta 2x1 s32",
+   "8711": "2do al 70% s32",
+   "8712": "Almacen DP8",
+   "8719": "Aderezos DP8",
+   "8899": "Alimentos y Bebidas s36",
+   "8903": "Hasta 2x1 s36",
+   "8922": "Destacado Hasta 2x1 s36",
+   "9110": "Especial Stockeate s41",
+   "9121": "Aderezos s41",
+   "9129": "Alimentos y Bebidas s41",
+   "9132": "Mas Destacados s41",
+   "9711": "Especial Verano 2026",
+   "9721": "Alimentos y Bebidas s01",
+   "9733": "Almacen y bebidas s1",
+   "10196": "Especial San Patricio s11",
+   "10210": "Aderezos s11",
+   "10215": "Alimentos y Bebidas s11",
+   "10526": "Campeones de la Previa",
+   "10545": "Alimentos y Bebidas s19",
+   "10764": "Especial Stockeate s23",
+   "10773": "Almacén s23",
+   "10782": "35 off semana promo s23",
+   "10788": "Alimentos y Bebidas s23",
+   "10800": "Hasta 45% s23",
+   "10964": "Almacen s27",
+   "10983": "Partido 3 de Julio Argentina",
+   "10986": "Alimentos y bebidas s27",
+   "11263": "Almacen s35",
+   "11276": "35% S35"
+  },
+  "searchableClusters": {
+   "10526": "Campeones de la Previa"
+  },
+  "categories": [
+   "/Almacén/Aceites y Aderezos/Ketchup/",
+   "/Almacén/Aceites y Aderezos/",
+   "/Almacén/"
+  ],
+  "categoriesIds": [
+   "/1/2/9/",
+   "/1/2/",
+   "/1/"
+  ],
+  "link": "https://diaonline.supermercadosdia.com.ar/ketchup-natura-500-gr-308237/p",
+  "PrecioPorUnd": [
+   "6840.00"
+  ],
+  "UnidaddeMedida": [
+   "1 Kg"
+  ],
+  "FOOD": [
+   "PrecioPorUnd",
+   "UnidaddeMedida"
+  ],
+  "allSpecifications": [
+   "PrecioPorUnd",
+   "UnidaddeMedida"
+  ],
+  "items": [
+   {
+    "itemId": "308237",
+    "name": "Ketchup Natura 500 Gr.",
+    "ean": "7791866000664",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "308237"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 3420,
+       "ListPrice": 3420,
+       "PriceWithoutDiscount": 3420,
+       "IsAvailable": true,
+       "AvailableQuantity": 24,
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ }
+]
