@@ -1,0 +1,369 @@
+[
+ {
+  "productId": "29633",
+  "productName": "Aderezo Ketchup Natura 250 Gr",
+  "brand": "NATURA",
+  "brandId": 719,
+  "linkText": "aderezo-ketchup-natura-250-gr",
+  "productReference": "11520123001",
+  "productReferenceCode": "11520123001",
+  "categoryId": "140",
+  "productTitle": "Aderezo Ketchup Natura 250 Gr",
+  "releaseDate": "2026-08-05T00:00:00Z",
+  "clusterHighlights": {
+   "51108": "Hasta 2do al 70% en Almacén y Bebidas",
+   "63761": "JUMBO_rpatmpcheck70-jchecksar"
+  },
+  "productClusters": {
+   "12965": "ALL",
+   "51108": "Hasta 2do al 70% en Almacén y Bebidas",
+   "63690": "Hasta J100 en Almacén",
+   "63718": "Jumbo al 70",
+   "63761": "JUMBO_rpatmpcheck70-jchecksar",
+   "63774": "Hasta 40% en almacen",
+   "63811": "Hasta 3x2 en Almacén y Bebidas"
+  },
+  "searchableClusters": {
+   "51108": "Hasta 2do al 70% en Almacén y Bebidas",
+   "63690": "Hasta J100 en Almacén",
+   "63718": "Jumbo al 70",
+   "63761": "JUMBO_rpatmpcheck70-jchecksar",
+   "63774": "Hasta 40% en almacen",
+   "63811": "Hasta 3x2 en Almacén y Bebidas"
+  },
+  "categories": [
+   "/Almacén/Aderezos/Ketchup/",
+   "/Almacén/Aderezos/",
+   "/Almacén/"
+  ],
+  "categoriesIds": [
+   "/1/18/140/",
+   "/1/18/",
+   "/1/"
+  ],
+  "link": "https://www.jumbo.com.ar/aderezo-ketchup-natura-250-gr/p",
+  "ProductData": [
+   "{\"allow_notes\":true,\"allow_substitute\":true,\"cart_limit\":\"0\",\"brandName\":\"NATURA\",\"brandEcomId\":\"719\",\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"measurement_unit_un\":\"gr.\",\"unit_multiplier_un\":250,\"measurement_unit_selector\":false,\"url_canonical\":null,\"provider_code\":\"2008\"}"
+  ],
+  "SkuData": [
+   "{\"26795\":{\"ref_id\":\"11520123001\",\"cart_limit\":0,\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"url_canonical\":null,\"measurement_unit_un\":\"gr.\",\"unit_multiplier_un\":250,\"measurement_unit_selector\":false,\"release_data\":{\"is_new\":false},\"cart_type\":\"1\"}}"
+  ],
+  "Configuraciones": [
+   "ProductData",
+   "SkuData"
+  ],
+  "Tipo de Producto": [
+   "Ketchup"
+  ],
+  "País de Origen": [
+   "Argentina"
+  ],
+  "Contenido": [
+   "250 Grs"
+  ],
+  "Origen": [
+   "Nacional"
+  ],
+  "Sistema de Cierre": [
+   "Doy Pack"
+  ],
+  "Características Destacadas": [
+   "Tipo de Producto",
+   "País de Origen",
+   "Contenido",
+   "Origen",
+   "Sistema de Cierre"
+  ],
+  "allSpecifications": [
+   "ProductData",
+   "SkuData",
+   "Tipo de Producto",
+   "País de Origen",
+   "Contenido",
+   "Origen",
+   "Sistema de Cierre"
+  ],
+  "items": [
+   {
+    "itemId": "26795",
+    "name": "Aderezo Ketchup Natura 250 Gr",
+    "ean": "7791866000381",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "11520123001"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 1850,
+       "ListPrice": 152893,
+       "PriceWithoutDiscount": 1850,
+       "IsAvailable": true,
+       "AvailableQuantity": 99999,
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "38884",
+  "productName": "Ketchup 500 Grs Natura",
+  "brand": "NATURA",
+  "brandId": 719,
+  "linkText": "ketchup-natura-500-gr",
+  "productReference": "11520123002",
+  "productReferenceCode": "11520123002",
+  "categoryId": "140",
+  "productTitle": "Ketchup 500 Grs Natura",
+  "releaseDate": "2026-08-05T00:00:00Z",
+  "clusterHighlights": {
+   "51108": "Hasta 2do al 70% en Almacén y Bebidas",
+   "63761": "JUMBO_rpatmpcheck70-jchecksar"
+  },
+  "productClusters": {
+   "12965": "ALL",
+   "51108": "Hasta 2do al 70% en Almacén y Bebidas",
+   "55705": "Superofertas",
+   "61848": "25% + 3 CSI con Cencopay",
+   "62993": "Team Panchos",
+   "63687": "Hasta Jumbo al 100",
+   "63690": "Hasta J100 en Almacén",
+   "63715": "Jumbo al 100 | Almacén, Bebidas, Frescos y más",
+   "63718": "Jumbo al 70",
+   "63761": "JUMBO_rpatmpcheck70-jchecksar",
+   "63771": "GENERAL",
+   "63774": "Hasta 40% en almacen",
+   "63811": "Hasta 3x2 en Almacén y Bebidas"
+  },
+  "searchableClusters": {
+   "51108": "Hasta 2do al 70% en Almacén y Bebidas",
+   "55705": "Superofertas",
+   "61848": "25% + 3 CSI con Cencopay",
+   "62993": "Team Panchos",
+   "63687": "Hasta Jumbo al 100",
+   "63690": "Hasta J100 en Almacén",
+   "63715": "Jumbo al 100 | Almacén, Bebidas, Frescos y más",
+   "63718": "Jumbo al 70",
+   "63761": "JUMBO_rpatmpcheck70-jchecksar",
+   "63771": "GENERAL",
+   "63774": "Hasta 40% en almacen",
+   "63811": "Hasta 3x2 en Almacén y Bebidas"
+  },
+  "categories": [
+   "/Almacén/Aderezos/Ketchup/",
+   "/Almacén/Aderezos/",
+   "/Almacén/"
+  ],
+  "categoriesIds": [
+   "/1/18/140/",
+   "/1/18/",
+   "/1/"
+  ],
+  "link": "https://www.jumbo.com.ar/ketchup-natura-500-gr/p",
+  "ProductData": [
+   "{\"allow_notes\":true,\"allow_substitute\":true,\"cart_limit\":\"0\",\"brandName\":\"NATURA\",\"brandEcomId\":\"719\",\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"measurement_unit_un\":\"gr.\",\"unit_multiplier_un\":500,\"measurement_unit_selector\":false,\"url_canonical\":null,\"provider_code\":\"2008\"}"
+  ],
+  "SkuData": [
+   "{\"36047\":{\"ref_id\":\"11520123002\",\"cart_limit\":0,\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"url_canonical\":null,\"measurement_unit_un\":\"gr.\",\"unit_multiplier_un\":500,\"measurement_unit_selector\":false,\"release_data\":{\"is_new\":false},\"cart_type\":\"1\"}}"
+  ],
+  "Configuraciones": [
+   "ProductData",
+   "SkuData"
+  ],
+  "Tipo de Producto": [
+   "Ketchup"
+  ],
+  "País de Origen": [
+   "Argentina"
+  ],
+  "Contenido": [
+   "500 Grs"
+  ],
+  "Origen": [
+   "Nacional"
+  ],
+  "Sistema de Cierre": [
+   "Doy Pack"
+  ],
+  "Características Destacadas": [
+   "Tipo de Producto",
+   "País de Origen",
+   "Contenido",
+   "Origen",
+   "Sistema de Cierre"
+  ],
+  "allSpecifications": [
+   "ProductData",
+   "SkuData",
+   "Tipo de Producto",
+   "País de Origen",
+   "Contenido",
+   "Origen",
+   "Sistema de Cierre"
+  ],
+  "items": [
+   {
+    "itemId": "36047",
+    "name": "Ketchup 500 Grs Natura",
+    "ean": "7791866000664",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "11520123002"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 3650,
+       "ListPrice": 301653,
+       "PriceWithoutDiscount": 3650,
+       "IsAvailable": true,
+       "AvailableQuantity": 99999,
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "3089471",
+  "productName": "Salsa Natura Barbacoa 250gr",
+  "brand": "NATURA",
+  "brandId": 719,
+  "linkText": "salsa-natura-barbacoa-250gr-3",
+  "productReference": "11520223001",
+  "productReferenceCode": "11520223001",
+  "categoryId": "140",
+  "productTitle": "SALSA NATURA BARBACOA 250GR",
+  "releaseDate": "2026-08-25T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {},
+  "searchableClusters": {},
+  "categories": [
+   "/Almacén/Aderezos/Ketchup/",
+   "/Almacén/Aderezos/",
+   "/Almacén/"
+  ],
+  "categoriesIds": [
+   "/1/18/140/",
+   "/1/18/",
+   "/1/"
+  ],
+  "link": "https://www.jumbo.com.ar/salsa-natura-barbacoa-250gr-3/p",
+  "Tipo de Producto": [
+   "Salsas"
+  ],
+  "País de Origen": [
+   "Argentina"
+  ],
+  "Contenido": [
+   "250 Grs"
+  ],
+  "Contenido Neto": [
+   "250 Grs"
+  ],
+  "Contiene Azúcar": [
+   "Sí"
+  ],
+  "Envase": [
+   "Doy Pack"
+  ],
+  "Formato": [
+   "Envasado"
+  ],
+  "Origen": [
+   "Nacional"
+  ],
+  "Pack-Unitario": [
+   "Unitario"
+  ],
+  "Sistema de Cierre": [
+   "Doy Pack"
+  ],
+  "Variedad": [
+   "Barbacoa"
+  ],
+  "Características Destacadas": [
+   "Tipo de Producto",
+   "País de Origen",
+   "Contenido",
+   "Contenido Neto",
+   "Contiene Azúcar",
+   "Envase",
+   "Formato",
+   "Origen",
+   "Pack-Unitario",
+   "Sistema de Cierre",
+   "Variedad"
+  ],
+  "Elaboración": [
+   "Sin Gluten"
+  ],
+  "Información Nutricional": [
+   "Elaboración"
+  ],
+  "Filtros": [
+   "Envase"
+  ],
+  "allSpecifications": [
+   "Tipo de Producto",
+   "País de Origen",
+   "Contenido",
+   "Contenido Neto",
+   "Contiene Azúcar",
+   "Envase",
+   "Formato",
+   "Origen",
+   "Pack-Unitario",
+   "Sistema de Cierre",
+   "Variedad",
+   "Elaboración"
+  ],
+  "items": [
+   {
+    "itemId": "3090234",
+    "name": "Salsa Natura Barbacoa 250gr",
+    "ean": "7791866004471",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "11520223001"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 1900,
+       "ListPrice": 157025,
+       "PriceWithoutDiscount": 1900,
+       "IsAvailable": true,
+       "AvailableQuantity": 1,
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ }
+]

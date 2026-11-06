@@ -1,0 +1,1744 @@
+[
+ {
+  "productId": "30138",
+  "productName": "Gaseosa cola Coca Cola sabor original 2,25 lts",
+  "brand": "Coca Cola",
+  "brandId": 2000477,
+  "linkText": "gaseosa-cola-coca-cola-sabor-original-225-lts-30138",
+  "productReference": "30138",
+  "productReferenceCode": "30138",
+  "categoryId": "278",
+  "productTitle": "",
+  "releaseDate": "2020-10-26T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "858": "Food y Nonfood  Completo",
+   "1636": "Productos Destacados",
+   "2058": "Food Completo (Collaborative Ads)",
+   "2308": "Primer Pedido",
+   "7873": "Maratón de series y películas",
+   "8302": "Semana de la amistad",
+   "10242": "Los favoritos",
+   "14607": "Seleccionados de Bebidas - Alentá a la selección",
+   "20026": "AS FD 29 AL 03 -Hasta 2do70 / Hasta 2do80 con Tarjeta mi carrefour credito o prepaga",
+   "20147": "2do50 en productos seleccionados de gaseosas, cervezas, aguas, yerba, fideos y más",
+   "21327": "2do al 50%",
+   "21640": "2 do al 50 en productos seleccionados de Gaseosas, Arroz, Quesos,Aceite, Harinas y más",
+   "21922": "Los más vendidos",
+   "21987": "GENERICO",
+   "22071": "Hasta 35% off en productos seleccionados de Almacén",
+   "22308": "2 do al 50% / 2 do al 70% plus bsf en productos seleccionados de Gaseosas, Quesos, Mantecas, Panes,",
+   "22436": "Más vendidos de la semana",
+   "22556": "Hasta 2 do al 80% en productos seleccionados de productos de supermercado",
+   "22757": "2 do al 50% en la segunda unidad en productos seleccionados de Galletitas, Yerbas, Gaseosas y más",
+   "22818": "2DO AL 50% EN PRODUCTOS SELECCIONADOS DE Gaseosas, Galletitas, Arroz, Yerbas y más",
+   "22983": "Hasta 2do al 80% OFF",
+   "23159": "2 DO AL 50% EN PRODUCTOS SELECCIONADOS DE GASEOSAS, CERVEZAS, YERBAS, GALLETITAS, MERMELADAS, MANTEC",
+   "23247": "AS 26.11 - 2 do al 50% en productos seleccionados de Gaseosas, Yerbas, Yogures, Cervezas, Mantecas,",
+   "23258": "50% de descuento en la segunda unidad en marcas seleccionadas de Yerba, Gaseosas y Cervezas",
+   "23327": "App Cupon Bebidas, Gaseosas y Aguas 2x1",
+   "23347": "Hasta 2do al 80 en productos seleccionados de supermercado",
+   "23350": "2do al 50% en seleccionados de Cervezas, Gaseosas, Snacks, Yerbas y Premezclas",
+   "23360": "2 DO AL 80% / 2X1 PLUS BSF EN PRODUCTOS SELECCIONADOS DE NAVIDAD",
+   "23526": "Hasta 2 DO AL 80% en seleccionados de Gaseosas, Cervezas, Quesos Cremas, Yogures, Arroz, Fideos, Caf",
+   "23786": "Colección Campaña - Especial Verano",
+   "23803": "50% de descuento en la segunda unidad en marcas seleccionadas de Galletitas, Gaseosas y Cervezas",
+   "23868": "2do AL 50 % OFF EN SELECCIONADOS DE GASEOSAS, YERBAS, CERVEZAS, ARROZ, MANTECAS, PAPELES HIGIENICOS",
+   "24241": "2do al 50% / 70% BSF Gaseosas, Aguas, Bebidas isotónicas y más",
+   "24818": "2do al 50% en la unidad de marcas seleccionadas de Gaseosas, Fideos y Arroz",
+   "25021": "2do al 50% en marcas seleccionadas de Arroz, Gaseosas y Cervezas",
+   "25212": "2do al 50% Bebidas",
+   "25219": "2do al 50% en la segunda unidad en marcas seleccionadas de Gaseosas, Cervezas y Snacks",
+   "25279": "La previa de cada partido",
+   "25283": "Más Vendidos Entrega Inmediata",
+   "25331": "2do al 50% en seleccionados de Cervezas y Gaseosas",
+   "25488": "2do al 50% en marcas seleccionadas de Cervezas, Gaseosas y Papel Higiénico",
+   "25655": "2do al 50% en marcas seleccionadas de Gaseosas  y Cervezas",
+   "26322": "Más vendidos Entrega Inmediata"
+  },
+  "searchableClusters": {
+   "7873": "Maratón de series y películas",
+   "8302": "Semana de la amistad",
+   "10242": "Los favoritos",
+   "14607": "Seleccionados de Bebidas - Alentá a la selección"
+  },
+  "categories": [
+   "/Bebidas/Gaseosas/Gaseosas cola/",
+   "/Bebidas/Gaseosas/",
+   "/Bebidas/"
+  ],
+  "categoriesIds": [
+   "/255/277/278/",
+   "/255/277/",
+   "/255/"
+  ],
+  "link": "https://www.carrefour.com.ar/gaseosa-cola-coca-cola-sabor-original-225-lts-30138/p",
+  "Estado por Tienda": [
+   "0"
+  ],
+  "EC_Sección": [
+   "BEBIDAS"
+  ],
+  "EC_Familia": [
+   "GASEOSAS COLAS"
+  ],
+  "Código Marca": [
+   "P02094"
+  ],
+  "Cantidad máxima permitida para Compra Inmediata": [
+   "2"
+  ],
+  "Estado por Compañía": [
+   "S"
+  ],
+  "Precio Cuidado": [
+   "false"
+  ],
+  "Status 900": [
+   "SI"
+  ],
+  "EC_Código sumarizado": [
+   "1   0  00  00  00"
+  ],
+  "Fraccionable": [
+   "false"
+  ],
+  "Cantidad Maxima Permitida": [
+   "24"
+  ],
+  "EC_Categoría": [
+   "N"
+  ],
+  "Madre ó Relacionado": [
+   "S"
+  ],
+  "EC_Sector": [
+   "P.G.C."
+  ],
+  "Huella Natural": [
+   "false"
+  ],
+  "EC_Subfamilia": [
+   "GASEOSA COLA REG FAMILIAR"
+  ],
+  "Fecha ultima novedad": [
+   "2026 Aug 26 01:20:02"
+  ],
+  "EC_Grupo": [
+   "GASEOSAS"
+  ],
+  "Unidad de Necesidad": [
+   "GASEOSA COLA REG FAMILIAR"
+  ],
+  "Saludable": [
+   "false"
+  ],
+  "EAN": [
+   "7790895000997"
+  ],
+  "Envase Código": [
+   "25"
+  ],
+  "Envase Tipo": [
+   "PET"
+  ],
+  "Etiqueta por Balanza": [
+   "N"
+  ],
+  "Marca Gnx": [
+   "COCA COLA"
+  ],
+  "País código": [
+   "1"
+  ],
+  "Proveedor Razón Social": [
+   "COCA COLA FEMSA DE BS AS S.A."
+  ],
+  "Proveedor Código última compra": [
+   "856"
+  ],
+  "Cantidad Inicial de Compra": [
+   "1"
+  ],
+  "Fecha alta": [
+   "04071996"
+  ],
+  "País de origen": [
+   "Argentina"
+  ],
+  "Tipo de producto": [
+   "Gaseosa"
+  ],
+  "Precio x unidad": [
+   "($2,622.22 x 1 L.)"
+  ],
+  "Precio x Unidad": [
+   "Precio x unidad"
+  ],
+  "Gramaje leyenda Mostrar": [
+   "SI"
+  ],
+  "Gramaje leyenda de conversión": [
+   "1 L."
+  ],
+  "Gramaje descripción de medida": [
+   "CENT. CUB.- A 1 L."
+  ],
+  "Gramaje factor de conversión": [
+   "0.00100000"
+  ],
+  "Gramaje de unidad de consumo": [
+   "2250.00"
+  ],
+  "Gramaje de unidad de medida": [
+   "CM3"
+  ],
+  "Genesix Vtex": [
+   "Gramaje leyenda de conversión",
+   "Gramaje descripción de medida",
+   "Gramaje factor de conversión",
+   "Gramaje de unidad de consumo",
+   "Gramaje de unidad de medida"
+  ],
+  "Surtido Modalidad Venta": [
+   "Seller"
+  ],
+  "Mostrar calculador de cuotas": [
+   "No"
+  ],
+  "Mostrar calculador de envios": [
+   "No"
+  ],
+  "Mostrar especificaciones tecnicas": [
+   "Si"
+  ],
+  "Condiciones Venta": [
+   "Surtido Modalidad Venta",
+   "Mostrar calculador de cuotas",
+   "Mostrar calculador de envios",
+   "Mostrar especificaciones tecnicas"
+  ],
+  "pricePerUnit": [
+   "2622.22"
+  ],
+  "leyDeGondolas": [
+   "pricePerUnit"
+  ],
+  "IVA": [
+   "21"
+  ],
+  "III": [
+   "0"
+  ],
+  "IIN": [
+   "Si"
+  ],
+  "Impuestos": [
+   "IVA",
+   "III",
+   "IIN"
+  ],
+  "allSpecifications": [
+   "Estado por Tienda",
+   "EC_Sección",
+   "EC_Familia",
+   "Código Marca",
+   "Cantidad máxima permitida para Compra Inmediata",
+   "Estado por Compañía",
+   "Precio Cuidado",
+   "Status 900",
+   "EC_Código sumarizado",
+   "Fraccionable",
+   "Cantidad Maxima Permitida",
+   "EC_Categoría",
+   "Madre ó Relacionado",
+   "EC_Sector",
+   "Huella Natural",
+   "EC_Subfamilia",
+   "Fecha ultima novedad",
+   "EC_Grupo",
+   "Unidad de Necesidad",
+   "Saludable",
+   "EAN",
+   "Envase Código",
+   "Envase Tipo",
+   "Etiqueta por Balanza",
+   "Marca Gnx",
+   "País código",
+   "Proveedor Razón Social",
+   "Proveedor Código última compra",
+   "Cantidad Inicial de Compra",
+   "Fecha alta",
+   "País de origen",
+   "Tipo de producto",
+   "Precio x unidad",
+   "Gramaje leyenda Mostrar",
+   "Gramaje leyenda de conversión",
+   "Gramaje descripción de medida",
+   "Gramaje factor de conversión",
+   "Gramaje de unidad de consumo",
+   "Gramaje de unidad de medida",
+   "Surtido Modalidad Venta",
+   "Mostrar calculador de cuotas",
+   "Mostrar calculador de envios",
+   "Mostrar especificaciones tecnicas",
+   "pricePerUnit",
+   "IVA",
+   "III",
+   "IIN"
+  ],
+  "items": [
+   {
+    "itemId": "3807",
+    "name": "Gaseosa cola Coca Cola sabor original 2,25 lts",
+    "ean": "7790895000997",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "7790895000997"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 5900,
+       "ListPrice": 5900,
+       "PriceWithoutDiscount": 5900,
+       "IsAvailable": true,
+       "AvailableQuantity": 99999,
+       "Teasers": [
+        {
+         "<Name>k__BackingField": "Tarjeta Carrefour 15%",
+         "<GeneralValues>k__BackingField": {},
+         "<Conditions>k__BackingField": {
+          "<MinimumQuantity>k__BackingField": 0,
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "RestrictionsBins",
+            "<Value>k__BackingField": "507858,858110,858111,585274,538156,520225,539958,527061,898989"
+           }
+          ]
+         },
+         "<Effects>k__BackingField": {
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "PercentualDiscount",
+            "<Value>k__BackingField": "15"
+           }
+          ]
+         }
+        },
+        {
+         "<Name>k__BackingField": "Cuenta Digital Carrefour 15% Off Viernes",
+         "<GeneralValues>k__BackingField": {},
+         "<Conditions>k__BackingField": {
+          "<MinimumQuantity>k__BackingField": 0,
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "RestrictionsBins",
+            "<Value>k__BackingField": "223364"
+           },
+           {
+            "<Name>k__BackingField": "MinInstallmentCount",
+            "<Value>k__BackingField": "1"
+           },
+           {
+            "<Name>k__BackingField": "MaxInstallmentCount",
+            "<Value>k__BackingField": "1"
+           }
+          ]
+         },
+         "<Effects>k__BackingField": {
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "PercentualDiscount",
+            "<Value>k__BackingField": "15"
+           }
+          ]
+         }
+        },
+        {
+         "<Name>k__BackingField": "PROMO-2do al 50% Iguales-Reg-2-50-OFBebidas1 al 8.9",
+         "<GeneralValues>k__BackingField": {},
+         "<Conditions>k__BackingField": {
+          "<MinimumQuantity>k__BackingField": 2,
+          "<Parameters>k__BackingField": []
+         },
+         "<Effects>k__BackingField": {
+          "<Parameters>k__BackingField": []
+         }
+        }
+       ],
+       "PromotionTeasers": [
+        {
+         "Name": "Tarjeta Carrefour 15%",
+         "GeneralValues": {},
+         "Conditions": {
+          "MinimumQuantity": 0,
+          "Parameters": [
+           {
+            "Name": "RestrictionsBins",
+            "Value": "507858,858110,858111,585274,538156,520225,539958,527061,898989"
+           }
+          ]
+         },
+         "Effects": {
+          "Parameters": [
+           {
+            "Name": "PercentualDiscount",
+            "Value": "15"
+           }
+          ]
+         }
+        },
+        {
+         "Name": "Cuenta Digital Carrefour 15% Off Viernes",
+         "GeneralValues": {},
+         "Conditions": {
+          "MinimumQuantity": 0,
+          "Parameters": [
+           {
+            "Name": "RestrictionsBins",
+            "Value": "223364"
+           },
+           {
+            "Name": "MinInstallmentCount",
+            "Value": "1"
+           },
+           {
+            "Name": "MaxInstallmentCount",
+            "Value": "1"
+           }
+          ]
+         },
+         "Effects": {
+          "Parameters": [
+           {
+            "Name": "PercentualDiscount",
+            "Value": "15"
+           }
+          ]
+         }
+        },
+        {
+         "Name": "PROMO-2do al 50% Iguales-Reg-2-50-OFBebidas1 al 8.9",
+         "GeneralValues": {},
+         "Conditions": {
+          "MinimumQuantity": 2,
+          "Parameters": []
+         },
+         "Effects": {
+          "Parameters": []
+         }
+        }
+       ],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "441210",
+  "productName": "Gaseosa naranja Mirinda 500 ml",
+  "brand": "Mirinda",
+  "brandId": 2001481,
+  "linkText": "gaseosa-naranja-mirinda-500-ml-441210",
+  "productReference": "441210",
+  "productReferenceCode": "441210",
+  "categoryId": "279",
+  "productTitle": "",
+  "releaseDate": "2020-10-26T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "858": "Food y Nonfood  Completo",
+   "1724": "Gaseosas",
+   "2058": "Food Completo (Collaborative Ads)",
+   "5764": "Productos seleccionados",
+   "7873": "Maratón de series y películas",
+   "8037": "Gaseosas",
+   "8302": "Semana de la amistad",
+   "20026": "AS FD 29 AL 03 -Hasta 2do70 / Hasta 2do80 con Tarjeta mi carrefour credito o prepaga",
+   "20147": "2do50 en productos seleccionados de gaseosas, cervezas, aguas, yerba, fideos y más",
+   "21913": "2 do al 50 / 2 do al 70 con bsf en productos seleccionados de Galletitas, Gaseosas, Harinas, Pan ral",
+   "22070": "Hasta 2 do al 80 en productos seleccionados de  Leches, Gaseosas, Yerbas, Galletitas, Dulce de leche",
+   "22470": "3X2 EN VINOS, ESPUMANTES, GASESOSAS, CERVEZAS, JUGOS Y MÁS",
+   "22556": "Hasta 2 do al 80% en productos seleccionados de productos de supermercado",
+   "22689": "ANIVERSARIO - 2do al 50 en seleccionados de Supermercado",
+   "22759": "2 do 70 / hasta 2 do al 80 bsf en productos seleccionados de Galletitas dulces, Quesos untables, Dul",
+   "22817": "25% DE DESCUENTO EN LA UNIDAD DE PRODUCTOS SELECCIONADOS DE GASEOSAS, HARINAS, CAFÉ, EDULCORANTES Y",
+   "22837": "App Cupon Gaseosas 35%",
+   "22870": "2 do al 50% en productos seleccionados de Gaseosas, Yerbas, Fideos, Pan Rallado, Dulces de Leche, Sa",
+   "23327": "App Cupon Bebidas, Gaseosas y Aguas 2x1",
+   "23345": "3x2 en productos seleccionados de Leches, Cervezas, Aguas y más",
+   "23525": "3x2 en productos seleccionados de Gaseosas, Jugos en Polvo , Cerveza, postres lácteos, galletitas y",
+   "23607": "25% y 35% plus bsf en seleecionados de Gaseosas, Cervezas, Jugos, Arroz, Pan Rallado y más",
+   "23656": "2do al 50% en seleccionadas de Yerba, Gaseosas y Cervezas",
+   "23657": "Hasta 2 do al 80 // Hasta 2 x 1 en seleccionados de tu compra del super",
+   "23730": "50% de descuento en la segunda unidad en marcas seleccionadas de Arroz, Galletitas, Gaseosas y Yogur",
+   "23786": "Colección Campaña - Especial Verano",
+   "23868": "2do AL 50 % OFF EN SELECCIONADOS DE GASEOSAS, YERBAS, CERVEZAS, ARROZ, MANTECAS, PAPELES HIGIENICOS",
+   "24442": "50% OFF en la 2da unidad en seleccionados de Arroz, Yerba, Gaseosas, Yogures y más",
+   "24608": "50% de descuento en la segunda unidad en marcas seleccionadas de Fideos, Gaseosas y Dulce de Leche",
+   "24673": "4x3 en Cervezas y Gaseosas",
+   "24818": "2do al 50% en la unidad de marcas seleccionadas de Gaseosas, Fideos y Arroz",
+   "24880": "3x2 en seleccionados de Vinos, Cervezas y Gaseosas",
+   "24980": "App Cupon - Pepsi, Mirinda y Paso de los Toros 4x3",
+   "24982": "70% de descuento en la segunda unidad en marcas seleccionadas de Galletitas y Detergentes",
+   "24986": "2do al 70% seleccionado de Cervezas y Gaseosas",
+   "25009": "2do al 70% en seleccionados de Galletitas, Detergentes y Gaseosas",
+   "25096": "50% de descuento en la segunda unidad en marcas seleccionadas de Lácteos, Yerba y Papel Higiénico.",
+   "25153": "3x2 en marcas seleccionadas de Gaseosas y Cervezas",
+   "25219": "2do al 50% en la segunda unidad en marcas seleccionadas de Gaseosas, Cervezas y Snacks",
+   "25279": "La previa de cada partido",
+   "25431": "2do al 50% en seleccionados de Gaseosas y Cervezas",
+   "25474": "Gaseosas consumo personal",
+   "25564": "3X2 en todos los Vinos y Espumantes",
+   "25601": "App Pepsi, 7UP, Paso de los Toros y Mirinda",
+   "25662": "App Gaseosas linea Pepsi",
+   "26047": "App Gaseosas consumo personal",
+   "26224": "App Gaseosas consumo personal - categoria",
+   "26260": "as"
+  },
+  "searchableClusters": {
+   "5764": "Productos seleccionados",
+   "7873": "Maratón de series y películas",
+   "8302": "Semana de la amistad"
+  },
+  "categories": [
+   "/Bebidas/Gaseosas/Gaseosas naranja/",
+   "/Bebidas/Gaseosas/",
+   "/Bebidas/"
+  ],
+  "categoriesIds": [
+   "/255/277/279/",
+   "/255/277/",
+   "/255/"
+  ],
+  "link": "https://www.carrefour.com.ar/gaseosa-naranja-mirinda-500-ml-441210/p",
+  "Estado por Tienda": [
+   "0"
+  ],
+  "EC_Sección": [
+   "BEBIDAS"
+  ],
+  "EC_Familia": [
+   "NARANJA"
+  ],
+  "Código Marca": [
+   "P02378"
+  ],
+  "Cantidad máxima permitida para Compra Inmediata": [
+   "12"
+  ],
+  "Estado por Compañía": [
+   "S"
+  ],
+  "Precio Cuidado": [
+   "false"
+  ],
+  "Status 900": [
+   "SI"
+  ],
+  "EC_Código sumarizado": [
+   "1   0  00  02  00"
+  ],
+  "Fraccionable": [
+   "false"
+  ],
+  "Cantidad Maxima Permitida": [
+   "48"
+  ],
+  "EC_Categoría": [
+   "N"
+  ],
+  "Madre ó Relacionado": [
+   "S"
+  ],
+  "EC_Sector": [
+   "P.G.C."
+  ],
+  "Huella Natural": [
+   "false"
+  ],
+  "EC_Subfamilia": [
+   "NARANJA REG"
+  ],
+  "Fecha ultima novedad": [
+   "2026 Jul 16 01:19:16"
+  ],
+  "EC_Grupo": [
+   "GASEOSAS"
+  ],
+  "Unidad de Necesidad": [
+   "GASEOSA NARANJA REG PERSONAL"
+  ],
+  "Saludable": [
+   "false"
+  ],
+  "EAN": [
+   "7791813420156"
+  ],
+  "Envase Código": [
+   "25"
+  ],
+  "Envase Tipo": [
+   "PET"
+  ],
+  "Etiqueta por Balanza": [
+   "N"
+  ],
+  "Marca Gnx": [
+   "MIRINDA"
+  ],
+  "País código": [
+   "1"
+  ],
+  "Proveedor Razón Social": [
+   "CERV.Y MALTERIA QUILMES S.A.I.C.A.Y"
+  ],
+  "Proveedor Código última compra": [
+   "1397"
+  ],
+  "Cantidad Inicial de Compra": [
+   "1"
+  ],
+  "Fecha alta": [
+   "26092008"
+  ],
+  "País de origen": [
+   "Argentina"
+  ],
+  "Tipo de producto": [
+   "Gaseosa"
+  ],
+  "Precio x unidad": [
+   "($4,200.00 x 1 L.)"
+  ],
+  "Precio x Unidad": [
+   "Precio x unidad"
+  ],
+  "Gramaje leyenda Mostrar": [
+   "SI"
+  ],
+  "Gramaje leyenda de conversión": [
+   "1 L."
+  ],
+  "Gramaje descripción de medida": [
+   "CENT. CUB.- A 1 L."
+  ],
+  "Gramaje factor de conversión": [
+   "0.00100000"
+  ],
+  "Gramaje de unidad de consumo": [
+   "500.00"
+  ],
+  "Gramaje de unidad de medida": [
+   "CM3"
+  ],
+  "Genesix Vtex": [
+   "Gramaje leyenda de conversión",
+   "Gramaje descripción de medida",
+   "Gramaje factor de conversión",
+   "Gramaje de unidad de consumo",
+   "Gramaje de unidad de medida"
+  ],
+  "Surtido Modalidad Venta": [
+   "Seller"
+  ],
+  "Mostrar calculador de cuotas": [
+   "No"
+  ],
+  "Mostrar calculador de envios": [
+   "No"
+  ],
+  "Mostrar especificaciones tecnicas": [
+   "Si"
+  ],
+  "Condiciones Venta": [
+   "Surtido Modalidad Venta",
+   "Mostrar calculador de cuotas",
+   "Mostrar calculador de envios",
+   "Mostrar especificaciones tecnicas"
+  ],
+  "pricePerUnit": [
+   "4200.00"
+  ],
+  "leyDeGondolas": [
+   "pricePerUnit"
+  ],
+  "IVA": [
+   "21"
+  ],
+  "III": [
+   "0"
+  ],
+  "IIN": [
+   "Si"
+  ],
+  "Impuestos": [
+   "IVA",
+   "III",
+   "IIN"
+  ],
+  "allSpecifications": [
+   "Estado por Tienda",
+   "EC_Sección",
+   "EC_Familia",
+   "Código Marca",
+   "Cantidad máxima permitida para Compra Inmediata",
+   "Estado por Compañía",
+   "Precio Cuidado",
+   "Status 900",
+   "EC_Código sumarizado",
+   "Fraccionable",
+   "Cantidad Maxima Permitida",
+   "EC_Categoría",
+   "Madre ó Relacionado",
+   "EC_Sector",
+   "Huella Natural",
+   "EC_Subfamilia",
+   "Fecha ultima novedad",
+   "EC_Grupo",
+   "Unidad de Necesidad",
+   "Saludable",
+   "EAN",
+   "Envase Código",
+   "Envase Tipo",
+   "Etiqueta por Balanza",
+   "Marca Gnx",
+   "País código",
+   "Proveedor Razón Social",
+   "Proveedor Código última compra",
+   "Cantidad Inicial de Compra",
+   "Fecha alta",
+   "País de origen",
+   "Tipo de producto",
+   "Precio x unidad",
+   "Gramaje leyenda Mostrar",
+   "Gramaje leyenda de conversión",
+   "Gramaje descripción de medida",
+   "Gramaje factor de conversión",
+   "Gramaje de unidad de consumo",
+   "Gramaje de unidad de medida",
+   "Surtido Modalidad Venta",
+   "Mostrar calculador de cuotas",
+   "Mostrar calculador de envios",
+   "Mostrar especificaciones tecnicas",
+   "pricePerUnit",
+   "IVA",
+   "III",
+   "IIN"
+  ],
+  "items": [
+   {
+    "itemId": "20323",
+    "name": "Gaseosa naranja Mirinda 500 ml",
+    "ean": "7791813420156",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "7791813420156"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 2100,
+       "ListPrice": 2100,
+       "PriceWithoutDiscount": 2100,
+       "IsAvailable": true,
+       "AvailableQuantity": 10,
+       "Teasers": [
+        {
+         "<Name>k__BackingField": "Tarjeta Carrefour 15%",
+         "<GeneralValues>k__BackingField": {},
+         "<Conditions>k__BackingField": {
+          "<MinimumQuantity>k__BackingField": 0,
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "RestrictionsBins",
+            "<Value>k__BackingField": "507858,858110,858111,585274,538156,520225,539958,527061,898989"
+           }
+          ]
+         },
+         "<Effects>k__BackingField": {
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "PercentualDiscount",
+            "<Value>k__BackingField": "15"
+           }
+          ]
+         }
+        },
+        {
+         "<Name>k__BackingField": "Cuenta Digital Carrefour 15% Off Viernes",
+         "<GeneralValues>k__BackingField": {},
+         "<Conditions>k__BackingField": {
+          "<MinimumQuantity>k__BackingField": 0,
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "RestrictionsBins",
+            "<Value>k__BackingField": "223364"
+           },
+           {
+            "<Name>k__BackingField": "MinInstallmentCount",
+            "<Value>k__BackingField": "1"
+           },
+           {
+            "<Name>k__BackingField": "MaxInstallmentCount",
+            "<Value>k__BackingField": "1"
+           }
+          ]
+         },
+         "<Effects>k__BackingField": {
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "PercentualDiscount",
+            "<Value>k__BackingField": "15"
+           }
+          ]
+         }
+        },
+        {
+         "<Name>k__BackingField": "PROMO-3x2 Max 48 unidades Combinable MIRINDA-Reg-3-100-Gigante1 al 8.9",
+         "<GeneralValues>k__BackingField": {},
+         "<Conditions>k__BackingField": {
+          "<MinimumQuantity>k__BackingField": 3,
+          "<Parameters>k__BackingField": []
+         },
+         "<Effects>k__BackingField": {
+          "<Parameters>k__BackingField": []
+         }
+        }
+       ],
+       "PromotionTeasers": [
+        {
+         "Name": "Tarjeta Carrefour 15%",
+         "GeneralValues": {},
+         "Conditions": {
+          "MinimumQuantity": 0,
+          "Parameters": [
+           {
+            "Name": "RestrictionsBins",
+            "Value": "507858,858110,858111,585274,538156,520225,539958,527061,898989"
+           }
+          ]
+         },
+         "Effects": {
+          "Parameters": [
+           {
+            "Name": "PercentualDiscount",
+            "Value": "15"
+           }
+          ]
+         }
+        },
+        {
+         "Name": "Cuenta Digital Carrefour 15% Off Viernes",
+         "GeneralValues": {},
+         "Conditions": {
+          "MinimumQuantity": 0,
+          "Parameters": [
+           {
+            "Name": "RestrictionsBins",
+            "Value": "223364"
+           },
+           {
+            "Name": "MinInstallmentCount",
+            "Value": "1"
+           },
+           {
+            "Name": "MaxInstallmentCount",
+            "Value": "1"
+           }
+          ]
+         },
+         "Effects": {
+          "Parameters": [
+           {
+            "Name": "PercentualDiscount",
+            "Value": "15"
+           }
+          ]
+         }
+        },
+        {
+         "Name": "PROMO-3x2 Max 48 unidades Combinable MIRINDA-Reg-3-100-Gigante1 al 8.9",
+         "GeneralValues": {},
+         "Conditions": {
+          "MinimumQuantity": 3,
+          "Parameters": []
+         },
+         "Effects": {
+          "Parameters": []
+         }
+        }
+       ],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "740265",
+  "productName": "Gaseosa cola regular Pepsi 2 lts.",
+  "brand": "Pepsi",
+  "brandId": 2001729,
+  "linkText": "gaseosa-cola-regular-pepsi-2-lts-740265",
+  "productReference": "740265",
+  "productReferenceCode": "740265",
+  "categoryId": "278",
+  "productTitle": "",
+  "releaseDate": "2024-04-30T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "20026": "AS FD 29 AL 03 -Hasta 2do70 / Hasta 2do80 con Tarjeta mi carrefour credito o prepaga",
+   "20147": "2do50 en productos seleccionados de gaseosas, cervezas, aguas, yerba, fideos y más",
+   "20514": "AS FOOD -  2do al 50% en productos seleccionados de Gaseosas, Cervezas, Arroz , Galletitas",
+   "21913": "2 do al 50 / 2 do al 70 con bsf en productos seleccionados de Galletitas, Gaseosas, Harinas, Pan ral",
+   "21922": "Los más vendidos",
+   "21987": "GENERICO",
+   "22070": "Hasta 2 do al 80 en productos seleccionados de  Leches, Gaseosas, Yerbas, Galletitas, Dulce de leche",
+   "22071": "Hasta 35% off en productos seleccionados de Almacén",
+   "22556": "Hasta 2 do al 80% en productos seleccionados de productos de supermercado",
+   "22689": "ANIVERSARIO - 2do al 50 en seleccionados de Supermercado",
+   "22759": "2 do 70 / hasta 2 do al 80 bsf en productos seleccionados de Galletitas dulces, Quesos untables, Dul",
+   "22817": "25% DE DESCUENTO EN LA UNIDAD DE PRODUCTOS SELECCIONADOS DE GASEOSAS, HARINAS, CAFÉ, EDULCORANTES Y",
+   "22837": "App Cupon Gaseosas 35%",
+   "22870": "2 do al 50% en productos seleccionados de Gaseosas, Yerbas, Fideos, Pan Rallado, Dulces de Leche, Sa",
+   "22893": "Colección bombas cyber food - Exclusivo Online",
+   "22979": "Hasta 50%OFF",
+   "23001": "HASTA 2X1 EXCLUSIVO ONLINE",
+   "23247": "AS 26.11 - 2 do al 50% en productos seleccionados de Gaseosas, Yerbas, Yogures, Cervezas, Mantecas,",
+   "23258": "50% de descuento en la segunda unidad en marcas seleccionadas de Yerba, Gaseosas y Cervezas",
+   "23327": "App Cupon Bebidas, Gaseosas y Aguas 2x1",
+   "23345": "3x2 en productos seleccionados de Leches, Cervezas, Aguas y más",
+   "23401": "APP CUPÓN 2X1",
+   "23583": "FDS - 2x1 Pepsi + Galletitas",
+   "23607": "25% y 35% plus bsf en seleecionados de Gaseosas, Cervezas, Jugos, Arroz, Pan Rallado y más",
+   "23630": "App Cupón Pepsi y 7Up 2x1",
+   "23656": "2do al 50% en seleccionadas de Yerba, Gaseosas y Cervezas",
+   "23657": "Hasta 2 do al 80 // Hasta 2 x 1 en seleccionados de tu compra del super",
+   "23730": "50% de descuento en la segunda unidad en marcas seleccionadas de Arroz, Galletitas, Gaseosas y Yogur",
+   "23786": "Colección Campaña - Especial Verano",
+   "23868": "2do AL 50 % OFF EN SELECCIONADOS DE GASEOSAS, YERBAS, CERVEZAS, ARROZ, MANTECAS, PAPELES HIGIENICOS",
+   "24022": "Pepsi 2x1",
+   "24030": "2do 50% en seleccionados de arroz, yerba galletitas y más.",
+   "24082": "50% de descuento en la segunda unidad en marcas seleccionadas de Gaseosas, Cervezas y Helados",
+   "24220": "App Cupon - Bebidas 2x1",
+   "24442": "50% OFF en la 2da unidad en seleccionados de Arroz, Yerba, Gaseosas, Yogures y más",
+   "24608": "50% de descuento en la segunda unidad en marcas seleccionadas de Fideos, Gaseosas y Dulce de Leche",
+   "24673": "4x3 en Cervezas y Gaseosas",
+   "24818": "2do al 50% en la unidad de marcas seleccionadas de Gaseosas, Fideos y Arroz",
+   "24880": "3x2 en seleccionados de Vinos, Cervezas y Gaseosas",
+   "24929": "Exclusivos Online: Hasta 50% OFF",
+   "24942": "HOT SALE COMPLETO",
+   "24982": "70% de descuento en la segunda unidad en marcas seleccionadas de Galletitas y Detergentes",
+   "24986": "2do al 70% seleccionado de Cervezas y Gaseosas",
+   "25009": "2do al 70% en seleccionados de Galletitas, Detergentes y Gaseosas",
+   "25153": "3x2 en marcas seleccionadas de Gaseosas y Cervezas",
+   "25219": "2do al 50% en la segunda unidad en marcas seleccionadas de Gaseosas, Cervezas y Snacks",
+   "25279": "La previa de cada partido",
+   "25283": "Más Vendidos Entrega Inmediata",
+   "25431": "2do al 50% en seleccionados de Gaseosas y Cervezas",
+   "25488": "2do al 50% en marcas seleccionadas de Cervezas, Gaseosas y Papel Higiénico",
+   "25601": "App Pepsi, 7UP, Paso de los Toros y Mirinda",
+   "25614": "2do al 50% en marcas seleccionadas de Gaseosas, Cervezas y Snacks",
+   "25662": "App Gaseosas linea Pepsi",
+   "25741": "50% OFF en la 2da Unidad en marcas seleccionadas de Yerba, Galletitas y Gaseosas",
+   "25800": "2do al 50% gaseosas",
+   "26260": "as",
+   "26265": "2do al 50%",
+   "26322": "Más vendidos Entrega Inmediata",
+   "26323": "2do al 50% OFF Bebidas, Cervezas y más..."
+  },
+  "searchableClusters": {},
+  "categories": [
+   "/Bebidas/Gaseosas/Gaseosas cola/",
+   "/Bebidas/Gaseosas/",
+   "/Bebidas/"
+  ],
+  "categoriesIds": [
+   "/255/277/278/",
+   "/255/277/",
+   "/255/"
+  ],
+  "link": "https://www.carrefour.com.ar/gaseosa-cola-regular-pepsi-2-lts-740265/p",
+  "Estado por Tienda": [
+   "0"
+  ],
+  "EC_Sección": [
+   "BEBIDAS"
+  ],
+  "EC_Familia": [
+   "GASEOSAS COLAS"
+  ],
+  "Código Marca": [
+   "P02441"
+  ],
+  "Cantidad máxima permitida para Compra Inmediata": [
+   "2"
+  ],
+  "Estado por Compañía": [
+   "S"
+  ],
+  "Precio Cuidado": [
+   "false"
+  ],
+  "Status 900": [
+   "SI"
+  ],
+  "EC_Código sumarizado": [
+   "1   0  00  00  00"
+  ],
+  "Fraccionable": [
+   "false"
+  ],
+  "Cantidad Maxima Permitida": [
+   "24"
+  ],
+  "EC_Categoría": [
+   "N"
+  ],
+  "Madre ó Relacionado": [
+   "S"
+  ],
+  "EC_Sector": [
+   "P.G.C."
+  ],
+  "Huella Natural": [
+   "false"
+  ],
+  "EC_Subfamilia": [
+   "GASEOSA COLA REG FAMILIAR"
+  ],
+  "Fecha ultima novedad": [
+   "2026 Sep 1 03:32:08"
+  ],
+  "EC_Grupo": [
+   "GASEOSAS"
+  ],
+  "Unidad de Necesidad": [
+   "GASEOSA COLA REG FAMILIAR"
+  ],
+  "Saludable": [
+   "true"
+  ],
+  "EAN": [
+   "7791813888468"
+  ],
+  "Envase Código": [
+   "25"
+  ],
+  "Envase Tipo": [
+   "PET"
+  ],
+  "Etiqueta por Balanza": [
+   "N"
+  ],
+  "Marca Gnx": [
+   "PEPSI"
+  ],
+  "País código": [
+   "1"
+  ],
+  "Proveedor Razón Social": [
+   "CERV.Y MALTERIA QUILMES S.A.I.C.A.Y"
+  ],
+  "Proveedor Código última compra": [
+   "1397"
+  ],
+  "Cantidad Inicial de Compra": [
+   "1"
+  ],
+  "Fecha alta": [
+   "19042024"
+  ],
+  "País de origen": [
+   "Argentina"
+  ],
+  "Tipo de producto": [
+   "Gaseosa"
+  ],
+  "Precio x unidad": [
+   "($2,200.00 x 1 L.)"
+  ],
+  "Precio x Unidad": [
+   "Precio x unidad"
+  ],
+  "Gramaje leyenda Mostrar": [
+   "SI"
+  ],
+  "Gramaje leyenda de conversión": [
+   "1 L."
+  ],
+  "Gramaje descripción de medida": [
+   "CENT. CUB.- A 1 L."
+  ],
+  "Gramaje factor de conversión": [
+   "0.00100000"
+  ],
+  "Gramaje de unidad de consumo": [
+   "2000.00"
+  ],
+  "Gramaje de unidad de medida": [
+   "CM3"
+  ],
+  "Genesix Vtex": [
+   "Gramaje leyenda de conversión",
+   "Gramaje descripción de medida",
+   "Gramaje factor de conversión",
+   "Gramaje de unidad de consumo",
+   "Gramaje de unidad de medida"
+  ],
+  "Surtido Modalidad Venta": [
+   "Seller"
+  ],
+  "Mostrar especificaciones tecnicas": [
+   "Si"
+  ],
+  "Condiciones Venta": [
+   "Surtido Modalidad Venta",
+   "Mostrar especificaciones tecnicas"
+  ],
+  "pricePerUnit": [
+   "2200.00"
+  ],
+  "leyDeGondolas": [
+   "pricePerUnit"
+  ],
+  "IVA": [
+   "21"
+  ],
+  "III": [
+   "0"
+  ],
+  "IIN": [
+   "Si"
+  ],
+  "Impuestos": [
+   "IVA",
+   "III",
+   "IIN"
+  ],
+  "Activación Producto": [
+   "Inactivado"
+  ],
+  "Sector": [
+   "Catalogación"
+  ],
+  "Fecha": [
+   "31/07/26"
+  ],
+  "Motivo inactivación": [
+   "Solicitado por Promo por problemas de precios"
+  ],
+  "Inactivación productos": [
+   "Activación Producto",
+   "Sector",
+   "Fecha",
+   "Motivo inactivación"
+  ],
+  "allSpecifications": [
+   "Estado por Tienda",
+   "EC_Sección",
+   "EC_Familia",
+   "Código Marca",
+   "Cantidad máxima permitida para Compra Inmediata",
+   "Estado por Compañía",
+   "Precio Cuidado",
+   "Status 900",
+   "EC_Código sumarizado",
+   "Fraccionable",
+   "Cantidad Maxima Permitida",
+   "EC_Categoría",
+   "Madre ó Relacionado",
+   "EC_Sector",
+   "Huella Natural",
+   "EC_Subfamilia",
+   "Fecha ultima novedad",
+   "EC_Grupo",
+   "Unidad de Necesidad",
+   "Saludable",
+   "EAN",
+   "Envase Código",
+   "Envase Tipo",
+   "Etiqueta por Balanza",
+   "Marca Gnx",
+   "País código",
+   "Proveedor Razón Social",
+   "Proveedor Código última compra",
+   "Cantidad Inicial de Compra",
+   "Fecha alta",
+   "País de origen",
+   "Tipo de producto",
+   "Precio x unidad",
+   "Gramaje leyenda Mostrar",
+   "Gramaje leyenda de conversión",
+   "Gramaje descripción de medida",
+   "Gramaje factor de conversión",
+   "Gramaje de unidad de consumo",
+   "Gramaje de unidad de medida",
+   "Surtido Modalidad Venta",
+   "Mostrar especificaciones tecnicas",
+   "pricePerUnit",
+   "IVA",
+   "III",
+   "IIN",
+   "Activación Producto",
+   "Sector",
+   "Fecha",
+   "Motivo inactivación"
+  ],
+  "items": [
+   {
+    "itemId": "193003",
+    "name": "Gaseosa cola regular Pepsi 2 lts.",
+    "ean": "7791813888468",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "7791813888468"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 4398.67,
+       "ListPrice": 4398.67,
+       "PriceWithoutDiscount": 4398.67,
+       "IsAvailable": true,
+       "AvailableQuantity": 99999,
+       "Teasers": [
+        {
+         "<Name>k__BackingField": "Tarjeta Carrefour 15%",
+         "<GeneralValues>k__BackingField": {},
+         "<Conditions>k__BackingField": {
+          "<MinimumQuantity>k__BackingField": 0,
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "RestrictionsBins",
+            "<Value>k__BackingField": "507858,858110,858111,585274,538156,520225,539958,527061,898989"
+           }
+          ]
+         },
+         "<Effects>k__BackingField": {
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "PercentualDiscount",
+            "<Value>k__BackingField": "15"
+           }
+          ]
+         }
+        },
+        {
+         "<Name>k__BackingField": "Cuenta Digital Carrefour 15% Off Viernes",
+         "<GeneralValues>k__BackingField": {},
+         "<Conditions>k__BackingField": {
+          "<MinimumQuantity>k__BackingField": 0,
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "RestrictionsBins",
+            "<Value>k__BackingField": "223364"
+           },
+           {
+            "<Name>k__BackingField": "MinInstallmentCount",
+            "<Value>k__BackingField": "1"
+           },
+           {
+            "<Name>k__BackingField": "MaxInstallmentCount",
+            "<Value>k__BackingField": "1"
+           }
+          ]
+         },
+         "<Effects>k__BackingField": {
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "PercentualDiscount",
+            "<Value>k__BackingField": "15"
+           }
+          ]
+         }
+        },
+        {
+         "<Name>k__BackingField": "PROMO-2do al 50% Max 48 unidades Combinable PEPSI-Reg-2-50-Gigante1 al 8.9",
+         "<GeneralValues>k__BackingField": {},
+         "<Conditions>k__BackingField": {
+          "<MinimumQuantity>k__BackingField": 2,
+          "<Parameters>k__BackingField": []
+         },
+         "<Effects>k__BackingField": {
+          "<Parameters>k__BackingField": []
+         }
+        }
+       ],
+       "PromotionTeasers": [
+        {
+         "Name": "Tarjeta Carrefour 15%",
+         "GeneralValues": {},
+         "Conditions": {
+          "MinimumQuantity": 0,
+          "Parameters": [
+           {
+            "Name": "RestrictionsBins",
+            "Value": "507858,858110,858111,585274,538156,520225,539958,527061,898989"
+           }
+          ]
+         },
+         "Effects": {
+          "Parameters": [
+           {
+            "Name": "PercentualDiscount",
+            "Value": "15"
+           }
+          ]
+         }
+        },
+        {
+         "Name": "Cuenta Digital Carrefour 15% Off Viernes",
+         "GeneralValues": {},
+         "Conditions": {
+          "MinimumQuantity": 0,
+          "Parameters": [
+           {
+            "Name": "RestrictionsBins",
+            "Value": "223364"
+           },
+           {
+            "Name": "MinInstallmentCount",
+            "Value": "1"
+           },
+           {
+            "Name": "MaxInstallmentCount",
+            "Value": "1"
+           }
+          ]
+         },
+         "Effects": {
+          "Parameters": [
+           {
+            "Name": "PercentualDiscount",
+            "Value": "15"
+           }
+          ]
+         }
+        },
+        {
+         "Name": "PROMO-2do al 50% Max 48 unidades Combinable PEPSI-Reg-2-50-Gigante1 al 8.9",
+         "GeneralValues": {},
+         "Conditions": {
+          "MinimumQuantity": 2,
+          "Parameters": []
+         },
+         "Effects": {
+          "Parameters": []
+         }
+        }
+       ],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "630677",
+  "productName": "Gaseosa cola Coca Cola sabor original 1,75 lts",
+  "brand": "Coca Cola",
+  "brandId": 2000477,
+  "linkText": "gaseosa-cola-coca-cola-sabor-original-175-lts-630677",
+  "productReference": "630677",
+  "productReferenceCode": "630677",
+  "categoryId": "278",
+  "productTitle": "",
+  "releaseDate": "2021-08-27T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "2058": "Food Completo (Collaborative Ads)",
+   "7873": "Maratón de series y películas",
+   "8302": "Semana de la amistad",
+   "10242": "Los favoritos",
+   "23327": "App Cupon Bebidas, Gaseosas y Aguas 2x1",
+   "23786": "Colección Campaña - Especial Verano",
+   "25283": "Más Vendidos Entrega Inmediata",
+   "25366": "Lo más vendido Quick!",
+   "26322": "Más vendidos Entrega Inmediata"
+  },
+  "searchableClusters": {
+   "7873": "Maratón de series y películas",
+   "8302": "Semana de la amistad",
+   "10242": "Los favoritos"
+  },
+  "categories": [
+   "/Bebidas/Gaseosas/Gaseosas cola/",
+   "/Bebidas/Gaseosas/",
+   "/Bebidas/"
+  ],
+  "categoriesIds": [
+   "/255/277/278/",
+   "/255/277/",
+   "/255/"
+  ],
+  "link": "https://www.carrefour.com.ar/gaseosa-cola-coca-cola-sabor-original-175-lts-630677/p",
+  "Estado por Tienda": [
+   "0"
+  ],
+  "EC_Sección": [
+   "BEBIDAS"
+  ],
+  "EC_Familia": [
+   "GASEOSAS COLAS"
+  ],
+  "Código Marca": [
+   "P02094"
+  ],
+  "Cantidad máxima permitida para Compra Inmediata": [
+   "4"
+  ],
+  "Estado por Compañía": [
+   "S"
+  ],
+  "Precio Cuidado": [
+   "false"
+  ],
+  "Status 900": [
+   "SI"
+  ],
+  "EC_Código sumarizado": [
+   "1   0  00  00  00"
+  ],
+  "Fraccionable": [
+   "false"
+  ],
+  "Cantidad Maxima Permitida": [
+   "24"
+  ],
+  "EC_Categoría": [
+   "N"
+  ],
+  "Madre ó Relacionado": [
+   "S"
+  ],
+  "EC_Sector": [
+   "P.G.C."
+  ],
+  "Huella Natural": [
+   "false"
+  ],
+  "EC_Subfamilia": [
+   "GASEOSA COLA REG FAMILIAR"
+  ],
+  "Fecha ultima novedad": [
+   "2026 Sep 3 01:22:47"
+  ],
+  "EC_Grupo": [
+   "GASEOSAS"
+  ],
+  "Unidad de Necesidad": [
+   "GASEOSA COLA REG FAMILIAR"
+  ],
+  "Saludable": [
+   "false"
+  ],
+  "EAN": [
+   "7790895007217"
+  ],
+  "Envase Código": [
+   "25"
+  ],
+  "Envase Tipo": [
+   "PET"
+  ],
+  "Etiqueta por Balanza": [
+   "N"
+  ],
+  "Marca Gnx": [
+   "COCA COLA"
+  ],
+  "País código": [
+   "1"
+  ],
+  "Proveedor Razón Social": [
+   "COCA COLA FEMSA DE BS AS S.A."
+  ],
+  "Proveedor Código última compra": [
+   "856"
+  ],
+  "Cantidad Inicial de Compra": [
+   "1"
+  ],
+  "Fecha alta": [
+   "06042018"
+  ],
+  "País de origen": [
+   "Argentina"
+  ],
+  "Tipo de producto": [
+   "Gaseosa"
+  ],
+  "Precio x unidad": [
+   "($2,800.00 x 1 L.)"
+  ],
+  "Precio x Unidad": [
+   "Precio x unidad"
+  ],
+  "Gramaje leyenda Mostrar": [
+   "SI"
+  ],
+  "Gramaje leyenda de conversión": [
+   "1 L."
+  ],
+  "Gramaje descripción de medida": [
+   "CENT. CUB.- A 1 L."
+  ],
+  "Gramaje factor de conversión": [
+   "0.00100000"
+  ],
+  "Gramaje de unidad de consumo": [
+   "1750.00"
+  ],
+  "Gramaje de unidad de medida": [
+   "CM3"
+  ],
+  "Genesix Vtex": [
+   "Gramaje leyenda de conversión",
+   "Gramaje descripción de medida",
+   "Gramaje factor de conversión",
+   "Gramaje de unidad de consumo",
+   "Gramaje de unidad de medida"
+  ],
+  "Surtido Modalidad Venta": [
+   "Seller"
+  ],
+  "Mostrar calculador de cuotas": [
+   "No"
+  ],
+  "Mostrar calculador de envios": [
+   "No"
+  ],
+  "Mostrar especificaciones tecnicas": [
+   "Si"
+  ],
+  "Condiciones Venta": [
+   "Surtido Modalidad Venta",
+   "Mostrar calculador de cuotas",
+   "Mostrar calculador de envios",
+   "Mostrar especificaciones tecnicas"
+  ],
+  "pricePerUnit": [
+   "2800.00"
+  ],
+  "leyDeGondolas": [
+   "pricePerUnit"
+  ],
+  "IVA": [
+   "21"
+  ],
+  "III": [
+   "0"
+  ],
+  "IIN": [
+   "Si"
+  ],
+  "Impuestos": [
+   "IVA",
+   "III",
+   "IIN"
+  ],
+  "allSpecifications": [
+   "Estado por Tienda",
+   "EC_Sección",
+   "EC_Familia",
+   "Código Marca",
+   "Cantidad máxima permitida para Compra Inmediata",
+   "Estado por Compañía",
+   "Precio Cuidado",
+   "Status 900",
+   "EC_Código sumarizado",
+   "Fraccionable",
+   "Cantidad Maxima Permitida",
+   "EC_Categoría",
+   "Madre ó Relacionado",
+   "EC_Sector",
+   "Huella Natural",
+   "EC_Subfamilia",
+   "Fecha ultima novedad",
+   "EC_Grupo",
+   "Unidad de Necesidad",
+   "Saludable",
+   "EAN",
+   "Envase Código",
+   "Envase Tipo",
+   "Etiqueta por Balanza",
+   "Marca Gnx",
+   "País código",
+   "Proveedor Razón Social",
+   "Proveedor Código última compra",
+   "Cantidad Inicial de Compra",
+   "Fecha alta",
+   "País de origen",
+   "Tipo de producto",
+   "Precio x unidad",
+   "Gramaje leyenda Mostrar",
+   "Gramaje leyenda de conversión",
+   "Gramaje descripción de medida",
+   "Gramaje factor de conversión",
+   "Gramaje de unidad de consumo",
+   "Gramaje de unidad de medida",
+   "Surtido Modalidad Venta",
+   "Mostrar calculador de cuotas",
+   "Mostrar calculador de envios",
+   "Mostrar especificaciones tecnicas",
+   "pricePerUnit",
+   "IVA",
+   "III",
+   "IIN"
+  ],
+  "items": [
+   {
+    "itemId": "73254",
+    "name": "Gaseosa cola Coca Cola sabor original 1,75 lts",
+    "ean": "7790895007217",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "7790895007217"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 4900,
+       "ListPrice": 4900,
+       "PriceWithoutDiscount": 4900,
+       "IsAvailable": true,
+       "AvailableQuantity": 99999,
+       "Teasers": [
+        {
+         "<Name>k__BackingField": "Tarjeta Carrefour 15%",
+         "<GeneralValues>k__BackingField": {},
+         "<Conditions>k__BackingField": {
+          "<MinimumQuantity>k__BackingField": 0,
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "RestrictionsBins",
+            "<Value>k__BackingField": "507858,858110,858111,585274,538156,520225,539958,527061,898989"
+           }
+          ]
+         },
+         "<Effects>k__BackingField": {
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "PercentualDiscount",
+            "<Value>k__BackingField": "15"
+           }
+          ]
+         }
+        },
+        {
+         "<Name>k__BackingField": "Cuenta Digital Carrefour 15% Off Viernes",
+         "<GeneralValues>k__BackingField": {},
+         "<Conditions>k__BackingField": {
+          "<MinimumQuantity>k__BackingField": 0,
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "RestrictionsBins",
+            "<Value>k__BackingField": "223364"
+           },
+           {
+            "<Name>k__BackingField": "MinInstallmentCount",
+            "<Value>k__BackingField": "1"
+           },
+           {
+            "<Name>k__BackingField": "MaxInstallmentCount",
+            "<Value>k__BackingField": "1"
+           }
+          ]
+         },
+         "<Effects>k__BackingField": {
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "PercentualDiscount",
+            "<Value>k__BackingField": "15"
+           }
+          ]
+         }
+        }
+       ],
+       "PromotionTeasers": [
+        {
+         "Name": "Tarjeta Carrefour 15%",
+         "GeneralValues": {},
+         "Conditions": {
+          "MinimumQuantity": 0,
+          "Parameters": [
+           {
+            "Name": "RestrictionsBins",
+            "Value": "507858,858110,858111,585274,538156,520225,539958,527061,898989"
+           }
+          ]
+         },
+         "Effects": {
+          "Parameters": [
+           {
+            "Name": "PercentualDiscount",
+            "Value": "15"
+           }
+          ]
+         }
+        },
+        {
+         "Name": "Cuenta Digital Carrefour 15% Off Viernes",
+         "GeneralValues": {},
+         "Conditions": {
+          "MinimumQuantity": 0,
+          "Parameters": [
+           {
+            "Name": "RestrictionsBins",
+            "Value": "223364"
+           },
+           {
+            "Name": "MinInstallmentCount",
+            "Value": "1"
+           },
+           {
+            "Name": "MaxInstallmentCount",
+            "Value": "1"
+           }
+          ]
+         },
+         "Effects": {
+          "Parameters": [
+           {
+            "Name": "PercentualDiscount",
+            "Value": "15"
+           }
+          ]
+         }
+        }
+       ],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ }
+]

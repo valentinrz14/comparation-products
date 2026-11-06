@@ -1,0 +1,769 @@
+[
+ {
+  "productId": "648766",
+  "productName": "Ketchup Natura 500 cc.",
+  "brand": "Natura",
+  "brandId": 2001545,
+  "linkText": "ketchup-natura-500-cc",
+  "productReference": "648766",
+  "productReferenceCode": "648766",
+  "categoryId": "192",
+  "productTitle": "Ketchup Natura 500 cc",
+  "releaseDate": "2020-10-26T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "858": "Food y Nonfood  Completo",
+   "2058": "Food Completo (Collaborative Ads)",
+   "11481": "Felices fiestas- Para la Mesa de Fin de Año",
+   "19667": "HS - Coleccion Almacen - hasta 35%",
+   "19855": "AS 2 AL 70% - 14 AL 19 MAYO",
+   "20308": "AS FOOD - 10.6 AL 17.6 - 2DO AL 70%",
+   "25627": "Hasta 2do al 80%",
+   "26322": "Más vendidos Entrega Inmediata"
+  },
+  "searchableClusters": {
+   "11481": "Felices fiestas- Para la Mesa de Fin de Año"
+  },
+  "categories": [
+   "/Almacén/Sal, aderezos y saborizadores/Salsas y aderezos/",
+   "/Almacén/Sal, aderezos y saborizadores/",
+   "/Almacén/"
+  ],
+  "categoriesIds": [
+   "/161/190/192/",
+   "/161/190/",
+   "/161/"
+  ],
+  "link": "https://www.carrefour.com.ar/ketchup-natura-500-cc/p",
+  "Estado por Tienda": [
+   "0"
+  ],
+  "EC_Sección": [
+   "SECO"
+  ],
+  "EC_Familia": [
+   "KETCHUP"
+  ],
+  "Código Marca": [
+   "P01180"
+  ],
+  "Cantidad máxima permitida para Compra Inmediata": [
+   "9"
+  ],
+  "Estado por Compañía": [
+   "S"
+  ],
+  "Precio Cuidado": [
+   "false"
+  ],
+  "Status 900": [
+   "SI"
+  ],
+  "EC_Código sumarizado": [
+   "1   4  16  02  00"
+  ],
+  "Fraccionable": [
+   "false"
+  ],
+  "Cantidad Maxima Permitida": [
+   "6"
+  ],
+  "EC_Categoría": [
+   "N"
+  ],
+  "Madre ó Relacionado": [
+   "S"
+  ],
+  "EC_Sector": [
+   "P.G.C."
+  ],
+  "Huella Natural": [
+   "false"
+  ],
+  "EC_Subfamilia": [
+   "TRADICIONAL KETCHUP"
+  ],
+  "Fecha ultima novedad": [
+   "2026 Aug 28 01:11:07"
+  ],
+  "EC_Grupo": [
+   "SALSAS FRIAS"
+  ],
+  "Unidad de Necesidad": [
+   "KETCHUP TRADICIONAL"
+  ],
+  "Saludable": [
+   "false"
+  ],
+  "EAN": [
+   "7791866000664"
+  ],
+  "Envase Código": [
+   "14"
+  ],
+  "Envase Tipo": [
+   "DOY PACK"
+  ],
+  "Etiqueta por Balanza": [
+   "N"
+  ],
+  "Marca Gnx": [
+   "NATURA"
+  ],
+  "País código": [
+   "99"
+  ],
+  "Proveedor Razón Social": [
+   "NIZA S.A."
+  ],
+  "Proveedor Código última compra": [
+   "101802"
+  ],
+  "Cantidad Inicial de Compra": [
+   "1"
+  ],
+  "Fecha alta": [
+   "11072019"
+  ],
+  "País de origen": [
+   "PYME Argentina"
+  ],
+  "Tipo de producto": [
+   "Kétchup"
+  ],
+  "Precio x unidad": [
+   "($6,800.00 x 1 L.)"
+  ],
+  "Precio x Unidad": [
+   "Precio x unidad"
+  ],
+  "Gramaje leyenda Mostrar": [
+   "SI"
+  ],
+  "Gramaje leyenda de conversión": [
+   "1 L."
+  ],
+  "Gramaje descripción de medida": [
+   "CENT. CUB.- A 1 L."
+  ],
+  "Gramaje factor de conversión": [
+   "0.00100000"
+  ],
+  "Gramaje de unidad de consumo": [
+   "500.00"
+  ],
+  "Gramaje de unidad de medida": [
+   "CM3"
+  ],
+  "Genesix Vtex": [
+   "Gramaje leyenda de conversión",
+   "Gramaje descripción de medida",
+   "Gramaje factor de conversión",
+   "Gramaje de unidad de consumo",
+   "Gramaje de unidad de medida"
+  ],
+  "Surtido Modalidad Venta": [
+   "Seller"
+  ],
+  "Mostrar calculador de cuotas": [
+   "No"
+  ],
+  "Mostrar calculador de envios": [
+   "No"
+  ],
+  "Mostrar especificaciones tecnicas": [
+   "Si"
+  ],
+  "Condiciones Venta": [
+   "Surtido Modalidad Venta",
+   "Mostrar calculador de cuotas",
+   "Mostrar calculador de envios",
+   "Mostrar especificaciones tecnicas"
+  ],
+  "pricePerUnit": [
+   "6800.00"
+  ],
+  "leyDeGondolas": [
+   "pricePerUnit"
+  ],
+  "IVA": [
+   "21"
+  ],
+  "III": [
+   "0"
+  ],
+  "IIN": [
+   "No"
+  ],
+  "Impuestos": [
+   "IVA",
+   "III",
+   "IIN"
+  ],
+  "allSpecifications": [
+   "Estado por Tienda",
+   "EC_Sección",
+   "EC_Familia",
+   "Código Marca",
+   "Cantidad máxima permitida para Compra Inmediata",
+   "Estado por Compañía",
+   "Precio Cuidado",
+   "Status 900",
+   "EC_Código sumarizado",
+   "Fraccionable",
+   "Cantidad Maxima Permitida",
+   "EC_Categoría",
+   "Madre ó Relacionado",
+   "EC_Sector",
+   "Huella Natural",
+   "EC_Subfamilia",
+   "Fecha ultima novedad",
+   "EC_Grupo",
+   "Unidad de Necesidad",
+   "Saludable",
+   "EAN",
+   "Envase Código",
+   "Envase Tipo",
+   "Etiqueta por Balanza",
+   "Marca Gnx",
+   "País código",
+   "Proveedor Razón Social",
+   "Proveedor Código última compra",
+   "Cantidad Inicial de Compra",
+   "Fecha alta",
+   "País de origen",
+   "Tipo de producto",
+   "Precio x unidad",
+   "Gramaje leyenda Mostrar",
+   "Gramaje leyenda de conversión",
+   "Gramaje descripción de medida",
+   "Gramaje factor de conversión",
+   "Gramaje de unidad de consumo",
+   "Gramaje de unidad de medida",
+   "Surtido Modalidad Venta",
+   "Mostrar calculador de cuotas",
+   "Mostrar calculador de envios",
+   "Mostrar especificaciones tecnicas",
+   "pricePerUnit",
+   "IVA",
+   "III",
+   "IIN"
+  ],
+  "items": [
+   {
+    "itemId": "11270",
+    "name": "Ketchup Natura 500 cc.",
+    "ean": "7791866000664",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "7791866000664"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 3400,
+       "ListPrice": 3400,
+       "PriceWithoutDiscount": 3400,
+       "IsAvailable": true,
+       "AvailableQuantity": 99999,
+       "Teasers": [
+        {
+         "<Name>k__BackingField": "Tarjeta Carrefour 15%",
+         "<GeneralValues>k__BackingField": {},
+         "<Conditions>k__BackingField": {
+          "<MinimumQuantity>k__BackingField": 0,
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "RestrictionsBins",
+            "<Value>k__BackingField": "507858,858110,858111,585274,538156,520225,539958,527061,898989"
+           }
+          ]
+         },
+         "<Effects>k__BackingField": {
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "PercentualDiscount",
+            "<Value>k__BackingField": "15"
+           }
+          ]
+         }
+        },
+        {
+         "<Name>k__BackingField": "Cuenta Digital Carrefour 15% Off Viernes",
+         "<GeneralValues>k__BackingField": {},
+         "<Conditions>k__BackingField": {
+          "<MinimumQuantity>k__BackingField": 0,
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "RestrictionsBins",
+            "<Value>k__BackingField": "223364"
+           },
+           {
+            "<Name>k__BackingField": "MinInstallmentCount",
+            "<Value>k__BackingField": "1"
+           },
+           {
+            "<Name>k__BackingField": "MaxInstallmentCount",
+            "<Value>k__BackingField": "1"
+           }
+          ]
+         },
+         "<Effects>k__BackingField": {
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "PercentualDiscount",
+            "<Value>k__BackingField": "15"
+           }
+          ]
+         }
+        }
+       ],
+       "PromotionTeasers": [
+        {
+         "Name": "Tarjeta Carrefour 15%",
+         "GeneralValues": {},
+         "Conditions": {
+          "MinimumQuantity": 0,
+          "Parameters": [
+           {
+            "Name": "RestrictionsBins",
+            "Value": "507858,858110,858111,585274,538156,520225,539958,527061,898989"
+           }
+          ]
+         },
+         "Effects": {
+          "Parameters": [
+           {
+            "Name": "PercentualDiscount",
+            "Value": "15"
+           }
+          ]
+         }
+        },
+        {
+         "Name": "Cuenta Digital Carrefour 15% Off Viernes",
+         "GeneralValues": {},
+         "Conditions": {
+          "MinimumQuantity": 0,
+          "Parameters": [
+           {
+            "Name": "RestrictionsBins",
+            "Value": "223364"
+           },
+           {
+            "Name": "MinInstallmentCount",
+            "Value": "1"
+           },
+           {
+            "Name": "MaxInstallmentCount",
+            "Value": "1"
+           }
+          ]
+         },
+         "Effects": {
+          "Parameters": [
+           {
+            "Name": "PercentualDiscount",
+            "Value": "15"
+           }
+          ]
+         }
+        }
+       ],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "548315",
+  "productName": "Ketchup Natura 250 cc.",
+  "brand": "Natura",
+  "brandId": 2001545,
+  "linkText": "ketchup-natura-250-cc",
+  "productReference": "548315",
+  "productReferenceCode": "548315",
+  "categoryId": "192",
+  "productTitle": "Ketchup Natura 250 cc",
+  "releaseDate": "2020-10-26T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "858": "Food y Nonfood  Completo",
+   "1636": "Productos Destacados",
+   "2058": "Food Completo (Collaborative Ads)",
+   "2308": "Primer Pedido",
+   "10242": "Los favoritos",
+   "11481": "Felices fiestas- Para la Mesa de Fin de Año",
+   "19667": "HS - Coleccion Almacen - hasta 35%",
+   "19855": "AS 2 AL 70% - 14 AL 19 MAYO",
+   "20308": "AS FOOD - 10.6 AL 17.6 - 2DO AL 70%",
+   "25283": "Más Vendidos Entrega Inmediata",
+   "25627": "Hasta 2do al 80%",
+   "26322": "Más vendidos Entrega Inmediata"
+  },
+  "searchableClusters": {
+   "10242": "Los favoritos",
+   "11481": "Felices fiestas- Para la Mesa de Fin de Año"
+  },
+  "categories": [
+   "/Almacén/Sal, aderezos y saborizadores/Salsas y aderezos/",
+   "/Almacén/Sal, aderezos y saborizadores/",
+   "/Almacén/"
+  ],
+  "categoriesIds": [
+   "/161/190/192/",
+   "/161/190/",
+   "/161/"
+  ],
+  "link": "https://www.carrefour.com.ar/ketchup-natura-250-cc/p",
+  "Estado por Tienda": [
+   "0"
+  ],
+  "EC_Sección": [
+   "SECO"
+  ],
+  "EC_Familia": [
+   "KETCHUP"
+  ],
+  "Código Marca": [
+   "P01180"
+  ],
+  "Cantidad máxima permitida para Compra Inmediata": [
+   "9"
+  ],
+  "Estado por Compañía": [
+   "S"
+  ],
+  "Precio Cuidado": [
+   "false"
+  ],
+  "Status 900": [
+   "SI"
+  ],
+  "EC_Código sumarizado": [
+   "1   4  16  02  00"
+  ],
+  "Fraccionable": [
+   "false"
+  ],
+  "Cantidad Maxima Permitida": [
+   "6"
+  ],
+  "EC_Categoría": [
+   "N"
+  ],
+  "Madre ó Relacionado": [
+   "S"
+  ],
+  "EC_Sector": [
+   "P.G.C."
+  ],
+  "Huella Natural": [
+   "false"
+  ],
+  "EC_Subfamilia": [
+   "TRADICIONAL KETCHUP"
+  ],
+  "Fecha ultima novedad": [
+   "2026 Aug 22 01:14:14"
+  ],
+  "EC_Grupo": [
+   "SALSAS FRIAS"
+  ],
+  "Unidad de Necesidad": [
+   "KETCHUP TRADICIONAL"
+  ],
+  "Saludable": [
+   "false"
+  ],
+  "EAN": [
+   "7791866000381"
+  ],
+  "Envase Código": [
+   "0"
+  ],
+  "Etiqueta por Balanza": [
+   "N"
+  ],
+  "Marca Gnx": [
+   "NATURA"
+  ],
+  "País código": [
+   "99"
+  ],
+  "Proveedor Razón Social": [
+   "NIZA S.A."
+  ],
+  "Proveedor Código última compra": [
+   "101802"
+  ],
+  "Cantidad Inicial de Compra": [
+   "1"
+  ],
+  "Fecha alta": [
+   "30052013"
+  ],
+  "País de origen": [
+   "PYME Argentina"
+  ],
+  "Tipo de producto": [
+   "Kétchup"
+  ],
+  "Precio x unidad": [
+   "($6,956.00 x 1 L.)"
+  ],
+  "Precio x Unidad": [
+   "Precio x unidad"
+  ],
+  "Gramaje leyenda Mostrar": [
+   "SI"
+  ],
+  "Gramaje leyenda de conversión": [
+   "1 L."
+  ],
+  "Gramaje descripción de medida": [
+   "CENT. CUB.- A 1 L."
+  ],
+  "Gramaje factor de conversión": [
+   "0.00100000"
+  ],
+  "Gramaje de unidad de consumo": [
+   "250.00"
+  ],
+  "Gramaje de unidad de medida": [
+   "CM3"
+  ],
+  "Genesix Vtex": [
+   "Gramaje leyenda de conversión",
+   "Gramaje descripción de medida",
+   "Gramaje factor de conversión",
+   "Gramaje de unidad de consumo",
+   "Gramaje de unidad de medida"
+  ],
+  "Surtido Modalidad Venta": [
+   "Seller"
+  ],
+  "Mostrar calculador de cuotas": [
+   "No"
+  ],
+  "Mostrar calculador de envios": [
+   "No"
+  ],
+  "Mostrar especificaciones tecnicas": [
+   "Si"
+  ],
+  "Condiciones Venta": [
+   "Surtido Modalidad Venta",
+   "Mostrar calculador de cuotas",
+   "Mostrar calculador de envios",
+   "Mostrar especificaciones tecnicas"
+  ],
+  "pricePerUnit": [
+   "6956.00"
+  ],
+  "leyDeGondolas": [
+   "pricePerUnit"
+  ],
+  "IVA": [
+   "21"
+  ],
+  "III": [
+   "0"
+  ],
+  "IIN": [
+   "No"
+  ],
+  "Impuestos": [
+   "IVA",
+   "III",
+   "IIN"
+  ],
+  "allSpecifications": [
+   "Estado por Tienda",
+   "EC_Sección",
+   "EC_Familia",
+   "Código Marca",
+   "Cantidad máxima permitida para Compra Inmediata",
+   "Estado por Compañía",
+   "Precio Cuidado",
+   "Status 900",
+   "EC_Código sumarizado",
+   "Fraccionable",
+   "Cantidad Maxima Permitida",
+   "EC_Categoría",
+   "Madre ó Relacionado",
+   "EC_Sector",
+   "Huella Natural",
+   "EC_Subfamilia",
+   "Fecha ultima novedad",
+   "EC_Grupo",
+   "Unidad de Necesidad",
+   "Saludable",
+   "EAN",
+   "Envase Código",
+   "Etiqueta por Balanza",
+   "Marca Gnx",
+   "País código",
+   "Proveedor Razón Social",
+   "Proveedor Código última compra",
+   "Cantidad Inicial de Compra",
+   "Fecha alta",
+   "País de origen",
+   "Tipo de producto",
+   "Precio x unidad",
+   "Gramaje leyenda Mostrar",
+   "Gramaje leyenda de conversión",
+   "Gramaje descripción de medida",
+   "Gramaje factor de conversión",
+   "Gramaje de unidad de consumo",
+   "Gramaje de unidad de medida",
+   "Surtido Modalidad Venta",
+   "Mostrar calculador de cuotas",
+   "Mostrar calculador de envios",
+   "Mostrar especificaciones tecnicas",
+   "pricePerUnit",
+   "IVA",
+   "III",
+   "IIN"
+  ],
+  "items": [
+   {
+    "itemId": "4529",
+    "name": "Ketchup Natura 250 cc.",
+    "ean": "7791866000381",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "7791866000381"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 1739,
+       "ListPrice": 1739,
+       "PriceWithoutDiscount": 1739,
+       "IsAvailable": true,
+       "AvailableQuantity": 99999,
+       "Teasers": [
+        {
+         "<Name>k__BackingField": "Tarjeta Carrefour 15%",
+         "<GeneralValues>k__BackingField": {},
+         "<Conditions>k__BackingField": {
+          "<MinimumQuantity>k__BackingField": 0,
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "RestrictionsBins",
+            "<Value>k__BackingField": "507858,858110,858111,585274,538156,520225,539958,527061,898989"
+           }
+          ]
+         },
+         "<Effects>k__BackingField": {
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "PercentualDiscount",
+            "<Value>k__BackingField": "15"
+           }
+          ]
+         }
+        },
+        {
+         "<Name>k__BackingField": "Cuenta Digital Carrefour 15% Off Viernes",
+         "<GeneralValues>k__BackingField": {},
+         "<Conditions>k__BackingField": {
+          "<MinimumQuantity>k__BackingField": 0,
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "RestrictionsBins",
+            "<Value>k__BackingField": "223364"
+           },
+           {
+            "<Name>k__BackingField": "MinInstallmentCount",
+            "<Value>k__BackingField": "1"
+           },
+           {
+            "<Name>k__BackingField": "MaxInstallmentCount",
+            "<Value>k__BackingField": "1"
+           }
+          ]
+         },
+         "<Effects>k__BackingField": {
+          "<Parameters>k__BackingField": [
+           {
+            "<Name>k__BackingField": "PercentualDiscount",
+            "<Value>k__BackingField": "15"
+           }
+          ]
+         }
+        }
+       ],
+       "PromotionTeasers": [
+        {
+         "Name": "Tarjeta Carrefour 15%",
+         "GeneralValues": {},
+         "Conditions": {
+          "MinimumQuantity": 0,
+          "Parameters": [
+           {
+            "Name": "RestrictionsBins",
+            "Value": "507858,858110,858111,585274,538156,520225,539958,527061,898989"
+           }
+          ]
+         },
+         "Effects": {
+          "Parameters": [
+           {
+            "Name": "PercentualDiscount",
+            "Value": "15"
+           }
+          ]
+         }
+        },
+        {
+         "Name": "Cuenta Digital Carrefour 15% Off Viernes",
+         "GeneralValues": {},
+         "Conditions": {
+          "MinimumQuantity": 0,
+          "Parameters": [
+           {
+            "Name": "RestrictionsBins",
+            "Value": "223364"
+           },
+           {
+            "Name": "MinInstallmentCount",
+            "Value": "1"
+           },
+           {
+            "Name": "MaxInstallmentCount",
+            "Value": "1"
+           }
+          ]
+         },
+         "Effects": {
+          "Parameters": [
+           {
+            "Name": "PercentualDiscount",
+            "Value": "15"
+           }
+          ]
+         }
+        }
+       ],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ }
+]

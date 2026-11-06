@@ -25,6 +25,7 @@
       --disco:     #F58642;
       --coto:      #B76EE8;
       --nini:      #F5CC42;
+      --promo:     #FF7EB6;
 
       --green:     #34D399;
       --green-bg:  rgba(52,211,153,0.07);
@@ -206,14 +207,14 @@
     /* ── CARD HEADER ── */
     .card-header {
       padding: 9px 13px;
-      display: flex; align-items: center;
-      justify-content: space-between; gap: 8px;
+      display: flex; align-items: center; flex-wrap: wrap;
+      justify-content: space-between; gap: 6px 8px;
       border-bottom: 1px solid var(--border);
       background: var(--surf-2);
     }
     .card-product-name {
       font-size: 13px; font-weight: 600; color: var(--text);
-      text-transform: capitalize; flex: 1;
+      text-transform: capitalize; flex: 1 1 140px; min-width: 0;
       overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
     }
     .badge {
@@ -281,11 +282,43 @@
 
     /* nombre del producto */
     .pr-name { font-size: 11px; color: var(--text-sub); display: flex; align-items: center; gap: 4px; overflow: hidden; }
-    .pr-name-text { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; flex: 1 1 0; min-width: 0; }
+    .pr-name-text { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; flex: 1 1 0; min-width: 70px; }
     .pr-size-warn { color: var(--disco); font-size: 10px; font-weight: 700; flex-shrink: 0; white-space: nowrap; }
     .pr-per100 { color: var(--text-dim); font-size: 10px; flex-shrink: 0; white-space: nowrap; }
     .price-row.cheapest .pr-name-text { color: rgba(52,211,153,0.6); }
     .price-row.cheapest .pr-per100 { color: rgba(52,211,153,0.5); }
+
+    /* ── MATCH / PROMOS ── */
+    .badge-amber  { background: rgba(245,204,66,.12); color: var(--nini); }
+    .badge-gray   { background: rgba(122,143,168,.12); color: var(--text-sub); }
+    .badge-promo  { background: rgba(255,126,182,.12); color: var(--promo); }
+    .card-badges  { display: flex; gap: 5px; flex-wrap: wrap; justify-content: flex-end; }
+    .pr-tag {
+      font-size: 9px; font-weight: 700; letter-spacing: .4px; text-transform: uppercase;
+      padding: 1px 5px; border-radius: 4px; flex-shrink: 0; white-space: nowrap;
+    }
+    .pr-tag.aprox { background: rgba(245,204,66,.12); color: var(--nini); }
+    .pr-tag.libre { background: rgba(122,143,168,.12); color: var(--text-sub); }
+    .promo-chip {
+      font-size: 10px; font-weight: 700; padding: 1px 6px; border-radius: 10px;
+      background: rgba(255,126,182,.14); color: var(--promo); flex-shrink: 0; white-space: nowrap;
+    }
+    .promo-chip.pay  { background: rgba(122,143,168,.10); color: var(--text-sub); font-weight: 500; display: inline-flex; align-items: center; gap: 2px; cursor: help; }
+    .promo-chip.pay .material-icons-round { font-size: 11px; }
+    .promo-chip.camp { background: rgba(122,143,168,.10); color: var(--text-sub); font-weight: 500; font-style: italic; max-width: 120px; overflow: hidden; text-overflow: ellipsis; cursor: help; }
+    .pr-eff { font-size: 10px; color: var(--promo); font-weight: 600; flex-shrink: 0; white-space: nowrap; }
+    .price-row.distinto { opacity: .45; }
+    .price-row.distinto:hover { opacity: .7; }
+    .price-row.distinto .pr-price { color: var(--text-sub); font-weight: 500; text-decoration: line-through; text-decoration-color: rgba(122,143,168,.5); }
+    .toggle-btn {
+      display: flex; align-items: center; gap: 5px;
+      background: var(--surf-2); border: 1px solid var(--border-m); color: var(--text-sub);
+      border-radius: 8px; padding: 0 12px; height: 38px; font-family: inherit; font-size: 13px; cursor: pointer;
+      white-space: nowrap;
+    }
+    .toggle-btn .material-icons-round { font-size: 16px; }
+    .toggle-btn.active { border-color: var(--promo); color: var(--promo); background: rgba(255,126,182,.10); }
+    .best-buys-item-promo { font-size: 9px; color: var(--promo); font-weight: 700; margin-left: 4px; }
 
     /* ── NO RESULTS ── */
     .no-results-msg {
@@ -390,7 +423,7 @@
     </div>
     <div class="stat-card">
       <div class="stat-value" id="stat-found">—</div>
-      <div class="stat-label">Con resultados</div>
+      <div class="stat-label">Mismo producto (EAN)</div>
     </div>
     <div class="stat-card">
       <div class="stat-value" id="stat-cheapest-super">—</div>
@@ -398,7 +431,7 @@
     </div>
     <div class="stat-card">
       <div class="stat-value" id="stat-groups">—</div>
-      <div class="stat-label">Variantes encontradas</div>
+      <div class="stat-label">Con promo</div>
     </div>
   </div>
   <div class="super-legend">
@@ -421,7 +454,11 @@
       <option value="default">Orden original</option>
       <option value="alpha">A → Z</option>
       <option value="cheapest">Más baratos primero</option>
+      <option value="promo">Mejor precio con promo</option>
     </select>
+    <button class="toggle-btn" id="promo-toggle" onclick="togglePromo()" title="Mostrar solo productos con 2x1, 2do al X% o descuento directo">
+      <span class="material-icons-round">local_offer</span> Solo promos
+    </button>
   </div>
   <div class="cat-tabs" id="cat-tabs"></div>
 </div>
@@ -476,6 +513,7 @@ const SUPER_CSS = { DIA:'dia', CARREFOUR:'carrefour', JUMBO:'jumbo', DISCO:'disc
 
 let globalData = null;
 let currentCat = 'all';
+let onlyPromo  = false;
 
 // ── HELPERS ────────────────────────────────────────────────────
 function norm(s) {
@@ -506,35 +544,78 @@ function dominantSize(items) {
   return Number(Object.entries(freq).sort((a,b) => b[1]-a[1])[0][0]);
 }
 
-// ── RENDER CARD ────────────────────────────────────────────────
-// Una fila por supermercado: sin grupos duplicados, máximo 5 filas.
-// Las filas sin precio son ultrafinas y desvanecidas.
-function renderCard(producto, precios) {
-  const rows = SUPERS.map(s => ({
-    s,
-    item:       (precios[s] ?? [])[0] ?? null,
-    extraCount: Math.max(0, (precios[s] ?? []).length - 1),
-  }));
+// ── COMPARABLES ────────────────────────────────────────────────
+// Para cada tienda devuelve el ítem que se puede comparar de verdad:
+//  - match 'ean' / 'aprox': solo el ítem alineado (mismo envase); si la tienda
+//    no lo tiene, no se compara nada (se muestra el candidato apagado).
+//  - match 'ninguno': el primer resultado de cada tienda (comparación libre).
+//  - NINI: precios manuales, siempre se muestran.
+function matchDe(precios) {
+  return precios._match ?? { tipo: 'ninguno', porTienda: {}, cobertura: 0, faltantes: [] };
+}
+function filaTienda(precios, s) {
+  const m     = matchDe(precios);
+  const lista = precios[s] ?? [];
+  const top   = lista[0] ?? null;
+  if (s === 'NINI')        return { item: top, tag: top ? 'manual' : null, distinto: null };
+  if (m.tipo === 'ninguno') return { item: top, tag: top ? 'libre' : null, distinto: null };
+  const tag = m.porTienda?.[s] ?? null;
+  return tag ? { item: top, tag, distinto: null } : { item: null, tag: null, distinto: top };
+}
+function comparables(precios) {
+  const out = {};
+  for (const s of SUPERS) out[s] = filaTienda(precios, s).item;
+  return out;
+}
+function promosAbiertas(item) {
+  return (item?.promos ?? []).filter(p => p.tipo !== 'medio_pago' && p.tipo !== 'campania');
+}
+function tienePromo(precios) {
+  return Object.values(comparables(precios)).some(i => i && promosAbiertas(i).length > 0);
+}
+function precioConPromo(item) {
+  return item.precioEfectivo != null && item.precioEfectivo < item.precio ? item.precioEfectivo : item.precio;
+}
+function promoChips(item) {
+  const promos = item.promos ?? [];
+  const abiertas = promos.filter(p => p.tipo !== 'medio_pago' && p.tipo !== 'campania');
+  const camp     = promos.filter(p => p.tipo === 'campania');
+  const pago     = promos.filter(p => p.tipo === 'medio_pago');
+  let html = abiertas.map(p => `<span class="promo-chip" title="${esc(p.etiqueta)}">${esc(p.etiqueta)}</span>`).join('');
+  html += camp.slice(0, 1).map(p => `<span class="promo-chip camp" title="${esc(camp.map(c => c.etiqueta).join(' · '))}">${esc(p.etiqueta)}</span>`).join('');
+  if (pago.length) {
+    // Descuentos por tarjeta / cuenta / membresía: no aplican a todos, se muestran compactos
+    html += `<span class="promo-chip pay" title="${esc(pago.map(p => p.etiqueta).join(' · '))}"><span class="material-icons-round">credit_card</span>${pago.length > 1 ? pago.length : ''}</span>`;
+  }
+  return html;
+}
 
+// ── RENDER CARD ────────────────────────────────────────────────
+// Una fila por supermercado: sin grupos duplicados, máximo 6 filas.
+function renderCard(producto, precios) {
+  const m    = matchDe(precios);
+  const rows = SUPERS.map(s => ({ s, ...filaTienda(precios, s), extraCount: Math.max(0, (precios[s] ?? []).length - 1) }));
   const withPrice = rows.filter(r => r.item !== null);
 
   if (withPrice.length === 0) {
+    const sugeridos = rows.filter(r => r.distinto).length;
     return `<div class="product-card">
       <div class="card-header">
-        <span class="card-product-name">${producto}</span>
+        <span class="card-product-name">${esc(producto)}</span>
         <span class="badge badge-orange">
           <span class="material-icons-round">search_off</span> Sin resultados
         </span>
       </div>
       <div class="no-results-msg">
         <span class="material-icons-round">info_outline</span>
-        No encontrado en ningún supermercado
+        ${sugeridos ? 'Hay resultados parecidos pero ninguno es el mismo envase' : 'No encontrado en ningún supermercado'}
       </div>
     </div>`;
   }
 
-  const refSize    = dominantSize(withPrice.map(r => r.item));
-  const sizesVary  = refSize != null && withPrice.some(r => {
+  const libre      = m.tipo === 'ninguno';
+  const refSize    = libre ? dominantSize(withPrice.map(r => r.item)) : null;
+  const sizesVary  = libre && refSize != null && withPrice.some(r => {
     const sz = extractSize(r.item.nombre);
     return sz && (sz / refSize > 1.3 || sz / refSize < 0.77);
   });
@@ -547,14 +628,39 @@ function renderCard(producto, precios) {
   const globalMin      = Math.min(...withPrice.map(r => comparePrice(r.item)));
   const globalMinSuper = withPrice.find(r => comparePrice(r.item) === globalMin)?.s ?? '';
 
-  const badgeHtml = `<span class="badge badge-green">
+  // Mejor precio aprovechando promos (2x1, 2do al X%, etc.)
+  const promoMin      = Math.min(...withPrice.map(r => precioConPromo(r.item)));
+  const promoMinRow   = withPrice.find(r => precioConPromo(r.item) === promoMin);
+  const promoCambia   = !sizesVary && promoMinRow && promoMin < globalMin && promosAbiertas(promoMinRow.item).length > 0;
+
+  const nSupers = SUPERS.filter(s => s !== 'NINI').length;
+  const matchBadge = m.tipo === 'ean'
+    ? `<span class="badge badge-green" title="Mismo código de barras (EAN ${esc(m.ean ?? '')}) en ${m.cobertura} tiendas"><span class="material-icons-round">verified</span> Mismo producto · ${m.cobertura}/${nSupers}</span>`
+    : m.tipo === 'aprox'
+    ? `<span class="badge badge-amber" title="Misma marca, mismo contenido y misma variante, sin código de barras común"><span class="material-icons-round">join_inner</span> Aproximado · ${m.cobertura}/${nSupers}</span>`
+    : `<span class="badge badge-gray" title="No se encontró el mismo envase en dos tiendas: se compara lo más parecido de cada una"><span class="material-icons-round">compare_arrows</span> Comparación libre</span>`;
+
+  const priceBadge = `<span class="badge badge-green">
     <span class="material-icons-round">check_circle</span>
     ${sizesVary
       ? `${fmtPrice(Math.round(globalMin))}/100g · ${globalMinSuper}`
       : `${fmtPrice(globalMin)} · ${globalMinSuper}`}
   </span>`;
+  const promoBadge = promoCambia
+    ? `<span class="badge badge-promo" title="${esc(promosAbiertas(promoMinRow.item)[0].etiqueta)}"><span class="material-icons-round">local_offer</span> Con promo ${fmtPrice(Math.round(promoMin))} · ${promoMinRow.s}</span>`
+    : '';
 
-  const rowsHtml = rows.map(({ s, item, extraCount }) => {
+  const rowsHtml = rows.map(({ s, item, tag, distinto, extraCount }) => {
+    if (!item && distinto) {
+      return `<div class="price-row distinto" title="Encontrado, pero no es el mismo envase / variante. No se compara.">
+        <span class="pr-super ${SUPER_CSS[s]}">${s}</span>
+        <span class="pr-price">${fmtPrice(distinto.precio)}</span>
+        <span class="pr-name">
+          <span class="pr-tag libre">≠ envase</span>
+          <span class="pr-name-text">${esc(distinto.nombre ?? '')}</span>
+        </span>
+      </div>`;
+    }
     if (!item) {
       return `<div class="price-row unavailable">
         <span class="pr-super ${SUPER_CSS[s]}">${s}</span>
@@ -563,17 +669,16 @@ function renderCard(producto, precios) {
     }
 
     const isCheapest = comparePrice(item) === globalMin;
-
     const extras = extraCount > 0
       ? ` <span style="color:var(--text-dim);font-size:10px;font-style:italic">+${extraCount}</span>`
       : '';
 
-    const itemSize    = extractSize(item.nombre);
-    const sizeMismatch = refSize && itemSize && (itemSize / refSize > 1.3 || itemSize / refSize < 0.77);
-    const sizeLabel   = sizeMismatch ? (itemSize >= 1000 ? (itemSize/1000)+'kg' : itemSize+'g') : null;
-    const per100      = sizesVary && itemSize
-      ? `${fmtPrice(Math.round(item.precio / itemSize * 100))}/100g`
-      : null;
+    const itemSize     = libre ? extractSize(item.nombre) : null;
+    const sizeMismatch = libre && refSize && itemSize && (itemSize / refSize > 1.3 || itemSize / refSize < 0.77);
+    const sizeLabel    = sizeMismatch ? (itemSize >= 1000 ? (itemSize/1000)+'kg' : itemSize+'g') : null;
+    const per100       = sizesVary && itemSize ? `${fmtPrice(Math.round(item.precio / itemSize * 100))}/100g` : null;
+    const eff          = precioConPromo(item) < item.precio ? `<span class="pr-eff" title="Precio por unidad aprovechando la promo">≈ ${fmtPrice(Math.round(precioConPromo(item)))} c/u</span>` : '';
+    const tagHtml      = tag === 'aprox' ? `<span class="pr-tag aprox" title="Misma marca, contenido y variante; sin código de barras común">~ aprox</span>` : '';
 
     return `<div class="price-row ${isCheapest ? 'cheapest' : ''}">
       <span class="pr-super ${SUPER_CSS[s]}">${s}</span>
@@ -582,17 +687,20 @@ function renderCard(producto, precios) {
         ${isCheapest ? '<span class="material-icons-round">check</span>' : ''}
       </span>
       <span class="pr-name">
-        <span class="pr-name-text">${item.nombre ?? ''}${extras}</span>
+        ${tagHtml}
+        <span class="pr-name-text" title="${esc(item.nombre ?? '')}">${esc(item.nombre ?? '')}${extras}</span>
         ${sizeLabel ? `<span class="pr-size-warn">⚠ ${sizeLabel}</span>` : ''}
         ${per100 ? `<span class="pr-per100">${per100}</span>` : ''}
+        ${promoChips(item)}
+        ${eff}
       </span>
     </div>`;
   }).join('');
 
   return `<div class="product-card">
     <div class="card-header">
-      <span class="card-product-name">${producto}</span>
-      ${badgeHtml}
+      <span class="card-product-name">${esc(producto)}</span>
+      <div class="card-badges">${matchBadge}${priceBadge}${promoBadge}</div>
     </div>
     ${rowsHtml}
   </div>`;
@@ -606,6 +714,7 @@ function renderView(data, catFilter, searchStr, sortMode) {
   const grouped = {};
   for (const prod of originalOrder) {
     if (search && !norm(prod).includes(search)) continue;
+    if (onlyPromo && !tienePromo(data[prod])) continue;
     const cat = categorize(prod);
     if (!grouped[cat.name]) grouped[cat.name] = { emoji: cat.emoji, items: [] };
     grouped[cat.name].items.push(prod);
@@ -629,11 +738,12 @@ function renderView(data, catFilter, searchStr, sortMode) {
     if (sortMode === 'alpha') {
       items.sort();
     } else if (sortMode === 'cheapest') {
-      items.sort((a, b) => {
-        const pa = Math.min(...SUPERS.map(s => data[a][s]?.[0]?.precio ?? Infinity));
-        const pb = Math.min(...SUPERS.map(s => data[b][s]?.[0]?.precio ?? Infinity));
-        return pa - pb;
-      });
+      const minDe = (p) => Math.min(...Object.values(comparables(data[p])).map(i => i?.precio ?? Infinity));
+      items.sort((a, b) => minDe(a) - minDe(b));
+    } else if (sortMode === 'promo') {
+      // Primero los que tienen promo, ordenados por cuánto ahorra la promo
+      const ahorro = (p) => Math.max(0, ...Object.values(comparables(data[p])).filter(Boolean).map(i => i.precio - precioConPromo(i)));
+      items.sort((a, b) => ahorro(b) - ahorro(a));
     } else {
       items.sort((a, b) => originalOrder.indexOf(a) - originalOrder.indexOf(b));
     }
@@ -673,22 +783,23 @@ function buildTabs(data) {
 // ── STATS ──────────────────────────────────────────────────────
 function computeStats(data) {
   const products = Object.keys(data).length;
-  let found = 0, totalVariants = 0;
+  let exactos = 0, conPromo = 0;
   const wins = {};
   SUPERS.forEach(s => wins[s] = 0);
 
   for (const precios of Object.values(data)) {
-    const tops = SUPERS.map(s => precios[s]?.[0]?.precio ?? null).filter(v => v !== null);
+    if (matchDe(precios).tipo === 'ean') exactos++;
+    if (tienePromo(precios)) conPromo++;
+    const comp = comparables(precios);
+    const tops = SUPERS.map(s => comp[s]?.precio ?? null).filter(v => v !== null);
     if (tops.length > 0) {
-      found++;
       const min = Math.min(...tops);
-      SUPERS.forEach(s => { if (precios[s]?.[0]?.precio === min) wins[s]++; });
+      SUPERS.forEach(s => { if (comp[s]?.precio === min) wins[s]++; });
     }
-    SUPERS.forEach(s => { totalVariants += (precios[s] ?? []).length; });
   }
 
   const cheapestSuper = SUPERS.reduce((a, b) => wins[a] >= wins[b] ? a : b);
-  return { products, found, cheapestSuper, totalVariants };
+  return { products, exactos, cheapestSuper, conPromo };
 }
 
 // ── BEST BUYS ──────────────────────────────────────────────────
@@ -697,15 +808,19 @@ function computeBestBuysBySuper(data) {
   SUPERS.forEach(s => result[s] = []);
 
   for (const [prod, precios] of Object.entries(data)) {
-    let globalMin = Infinity, globalMinSuper = '';
+    const comp = comparables(precios);
+    let globalMin = Infinity, globalMinSuper = '', promo = null;
     for (const s of SUPERS) {
-      const price = precios[s]?.[0]?.precio;
-      if (price != null && price > 0 && price < globalMin) {
+      const item = comp[s];
+      if (!item) continue;
+      const price = precioConPromo(item);
+      if (price > 0 && price < globalMin) {
         globalMin = price;
         globalMinSuper = s;
+        promo = promosAbiertas(item)[0]?.etiqueta ?? null;
       }
     }
-    if (globalMinSuper) result[globalMinSuper].push({ product: prod, precio: globalMin });
+    if (globalMinSuper) result[globalMinSuper].push({ product: prod, precio: globalMin, promo });
   }
   return result;
 }
@@ -724,8 +839,8 @@ function renderBestBuys(data) {
     const itemsHtml = items.length === 0
       ? `<div style="font-size:11px;color:var(--text-dim);padding:3px 0">\u2014</div>`
       : items.map(i => `<div class="best-buys-item">
-          <span class="best-buys-item-name">${esc(i.product)}</span>
-          <span class="best-buys-item-price">${esc(fmtPrice(i.precio))}</span>
+          <span class="best-buys-item-name">${esc(i.product)}${i.promo ? `<span class="best-buys-item-promo" title="${esc(i.promo)}">${esc(i.promo)}</span>` : ''}</span>
+          <span class="best-buys-item-price">${esc(fmtPrice(Math.round(i.precio)))}</span>
         </div>`).join('');
     return `<div class="best-buys-col">
       <div class="best-buys-col-title" style="color:${color}">
@@ -753,6 +868,12 @@ function applyFilters() {
   document.getElementById('main-content').innerHTML = renderView(globalData, currentCat, search, sort);
 }
 
+function togglePromo() {
+  onlyPromo = !onlyPromo;
+  document.getElementById('promo-toggle').classList.toggle('active', onlyPromo);
+  applyFilters();
+}
+
 function filterCat(cat, btn) {
   currentCat = cat;
   document.querySelectorAll('.cat-tab').forEach(t => t.classList.remove('active'));
@@ -773,9 +894,9 @@ async function loadData() {
 
     const stats = computeStats(data);
     document.getElementById('stat-products').textContent       = stats.products;
-    document.getElementById('stat-found').textContent          = stats.found;
+    document.getElementById('stat-found').textContent          = stats.exactos;
     document.getElementById('stat-cheapest-super').textContent = stats.cheapestSuper;
-    document.getElementById('stat-groups').textContent         = stats.totalVariants;
+    document.getElementById('stat-groups').textContent         = stats.conPromo;
 
     document.getElementById('meta-date').textContent =
       'Actualizado: ' + new Date().toLocaleString('es-AR', { dateStyle: 'short', timeStyle: 'short' });

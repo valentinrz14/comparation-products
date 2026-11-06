@@ -1,0 +1,264 @@
+[
+ {
+  "productId": "308237",
+  "productName": "Ketchup Natura 500 Gr.",
+  "brand": "NATURA",
+  "brandId": 282,
+  "linkText": "ketchup-natura-500-gr-308237",
+  "productReference": "7791866000664",
+  "productReferenceCode": null,
+  "categoryId": "9",
+  "productTitle": "",
+  "releaseDate": "2025-07-24T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "567": "Todas las Ofertas",
+   "889": "Ofertas Almacen",
+   "1531": "rein",
+   "8676": "Alimentos y Bebidas s32",
+   "8702": "Hasta 2x1 s32",
+   "8711": "2do al 70% s32",
+   "8712": "Almacen DP8",
+   "8719": "Aderezos DP8",
+   "8899": "Alimentos y Bebidas s36",
+   "8903": "Hasta 2x1 s36",
+   "8922": "Destacado Hasta 2x1 s36",
+   "9110": "Especial Stockeate s41",
+   "9121": "Aderezos s41",
+   "9129": "Alimentos y Bebidas s41",
+   "9132": "Mas Destacados s41",
+   "9711": "Especial Verano 2026",
+   "9721": "Alimentos y Bebidas s01",
+   "9733": "Almacen y bebidas s1",
+   "10196": "Especial San Patricio s11",
+   "10210": "Aderezos s11",
+   "10215": "Alimentos y Bebidas s11",
+   "10526": "Campeones de la Previa",
+   "10545": "Alimentos y Bebidas s19",
+   "10764": "Especial Stockeate s23",
+   "10773": "Almacén s23",
+   "10782": "35 off semana promo s23",
+   "10788": "Alimentos y Bebidas s23",
+   "10800": "Hasta 45% s23",
+   "10964": "Almacen s27",
+   "10983": "Partido 3 de Julio Argentina",
+   "10986": "Alimentos y bebidas s27",
+   "11263": "Almacen s35",
+   "11276": "35% S35"
+  },
+  "searchableClusters": {
+   "10526": "Campeones de la Previa"
+  },
+  "categories": [
+   "/Almacén/Aceites y Aderezos/Ketchup/",
+   "/Almacén/Aceites y Aderezos/",
+   "/Almacén/"
+  ],
+  "categoriesIds": [
+   "/1/2/9/",
+   "/1/2/",
+   "/1/"
+  ],
+  "link": "https://diaonline.supermercadosdia.com.ar/ketchup-natura-500-gr-308237/p",
+  "PrecioPorUnd": [
+   "6840.00"
+  ],
+  "UnidaddeMedida": [
+   "1 Kg"
+  ],
+  "FOOD": [
+   "PrecioPorUnd",
+   "UnidaddeMedida"
+  ],
+  "allSpecifications": [
+   "PrecioPorUnd",
+   "UnidaddeMedida"
+  ],
+  "items": [
+   {
+    "itemId": "308237",
+    "name": "Ketchup Natura 500 Gr.",
+    "ean": "7791866000664",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "308237"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 3420,
+       "ListPrice": 3420,
+       "PriceWithoutDiscount": 3420,
+       "IsAvailable": true,
+       "AvailableQuantity": 24,
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "161513",
+  "productName": "Ketchup Natura 250 Gr.",
+  "brand": "NATURA",
+  "brandId": 282,
+  "linkText": "ketchup-natura-250-gr-161513",
+  "productReference": "7791866000381",
+  "productReferenceCode": null,
+  "categoryId": "9",
+  "productTitle": "",
+  "releaseDate": "2021-05-07T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "567": "Todas las Ofertas",
+   "889": "Ofertas Almacen",
+   "1531": "rein",
+   "7152": "Alimentos y Bebidas s01",
+   "7188": "Llena tu alacena s01",
+   "7370": "Alimentos y Bebidas s05",
+   "7385": "Ofertas de la semana s05",
+   "7594": "Alimentos y Bebidas s11",
+   "7691": "Alimentos y Bebidas s14",
+   "7849": "Alimentos y Bebidas s18",
+   "7866": "Ver mas mas vendidos s18",
+   "8176": "Aderezos s24",
+   "8193": "Aderezos s24",
+   "8196": "Especial Cervezas y Picadas s24",
+   "8205": "Alimentos y Bebidas s24",
+   "8220": "Mas Destacados s24",
+   "8239": "Almacen DP6",
+   "8491": "Especial Juntada con Amigos s29",
+   "8506": "Alimentos y Bebidas s29",
+   "8509": "Mas Destacados s29",
+   "8510": "Hasta 2x1 s29",
+   "8514": "Destacado Juntada con Amigos s29",
+   "8519": "Destacado Mas Destacados s29",
+   "8520": "Destacado Hasta 2x1 s29",
+   "8522": "2do al 70% s29",
+   "8533": "Aderezos s29",
+   "8676": "Alimentos y Bebidas s32",
+   "8690": "Mas Destacados s32",
+   "8694": "Destacado Alimentos y Bebidas s32",
+   "8702": "Hasta 2x1 s32",
+   "8711": "2do al 70% s32",
+   "8712": "Almacen DP8",
+   "8899": "Alimentos y Bebidas s36",
+   "8903": "Hasta 2x1 s36",
+   "8907": "Mas Destacados s36",
+   "9110": "Especial Stockeate s41",
+   "9121": "Aderezos s41",
+   "9129": "Alimentos y Bebidas s41",
+   "9132": "Mas Destacados s41",
+   "9661": "Mas Destacados s51",
+   "9664": "Alimentos y bebidas S51",
+   "9669": "Alimentos y bebidas Destacados S51",
+   "9748": "Picada s02",
+   "9755": "Almacen s02",
+   "9763": "Mas destacados s02",
+   "9764": "Alimentos y bebidas s02",
+   "9766": "Especial Arma Tu Picada s02",
+   "9770": "Aderezos s02",
+   "9971": "Especial Srockeate s06",
+   "9978": "Alimentos y bebidas s06",
+   "9980": "Mas destacados s06",
+   "10147": "Vuelta al cole",
+   "10154": "Mas Destacados s10",
+   "10155": "Alimentos y Bebidas s10",
+   "10370": "Mas Destacados s15",
+   "10371": "Alimentos y Bebidas s15",
+   "10387": "Almacen",
+   "10476": "Especial Alacena s18",
+   "10478": "Mas Destacados s18",
+   "10480": "Alimentos y Bebidas s18",
+   "10481": "Destacado Alimentos y Bebidas s18",
+   "10509": "Almacen s18",
+   "10516": "Alimentos y Bebidas s18 SD",
+   "10526": "Campeones de la Previa",
+   "10764": "Especial Stockeate s23",
+   "10773": "Almacén s23",
+   "10782": "35 off semana promo s23",
+   "10788": "Alimentos y Bebidas s23",
+   "10800": "Hasta 45% s23",
+   "10803": "Destacado Stockeate s23",
+   "10940": "Especial de la semana",
+   "10964": "Almacen s27",
+   "10983": "Partido 3 de Julio Argentina",
+   "10986": "Alimentos y bebidas s27",
+   "11136": "Llená tu Alacena s31",
+   "11156": "Alimentos y Bebidas s31",
+   "11263": "Almacen s35",
+   "11276": "35% S35"
+  },
+  "searchableClusters": {
+   "10526": "Campeones de la Previa"
+  },
+  "categories": [
+   "/Almacén/Aceites y Aderezos/Ketchup/",
+   "/Almacén/Aceites y Aderezos/",
+   "/Almacén/"
+  ],
+  "categoriesIds": [
+   "/1/2/9/",
+   "/1/2/",
+   "/1/"
+  ],
+  "link": "https://diaonline.supermercadosdia.com.ar/ketchup-natura-250-gr-161513/p",
+  "PrecioPorUnd": [
+   "6960.00"
+  ],
+  "UnidaddeMedida": [
+   "1 Kg"
+  ],
+  "IVA": [
+   "21"
+  ],
+  "FOOD": [
+   "PrecioPorUnd",
+   "UnidaddeMedida",
+   "IVA"
+  ],
+  "allSpecifications": [
+   "PrecioPorUnd",
+   "UnidaddeMedida",
+   "IVA"
+  ],
+  "items": [
+   {
+    "itemId": "161513",
+    "name": "Ketchup Natura 250 Gr.",
+    "ean": "7791866000381",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "161513"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 1740,
+       "ListPrice": 1740,
+       "PriceWithoutDiscount": 1740,
+       "IsAvailable": true,
+       "AvailableQuantity": 102,
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,554 @@
+[
+ {
+  "productId": "8824",
+  "productName": "Gaseosa Tónica 1.5 Lts Schweppes",
+  "brand": "SCHWEPPES",
+  "brandId": 942,
+  "linkText": "gaseosa-schweppes-tonica-1-5-l",
+  "productReference": "12111302006",
+  "productReferenceCode": "12111302006",
+  "categoryId": "209",
+  "productTitle": "Gaseosa Tónica 1.5 Lts Schweppes",
+  "releaseDate": "2026-04-13T00:00:00Z",
+  "clusterHighlights": {
+   "30928": "Coca Cola",
+   "33820": "Coca Cola",
+   "39134": "Coca Cola",
+   "41257": "Zona de ahorro",
+   "46166": "Sprite",
+   "48440": "Juntos en todas",
+   "49472": "Juntos en todas",
+   "51108": "Hasta 2do al 70% en Almacén y Bebidas",
+   "63760": "JUMBO_rpatmpcheck100-jchecksar"
+  },
+  "productClusters": {
+   "12965": "ALL",
+   "24078": "Almacén y Bebidas",
+   "24311": "Campaña Vea | Bebidas",
+   "25966": "Pascuas | Elegí tu bebida",
+   "29666": "Hasta 30% en bebidas, desayuno, almacén, frescos, perfumería y limpieza",
+   "30928": "Coca Cola",
+   "33669": "Verano | Asado veraniego y más",
+   "33670": "Verano | Juntada con amigos",
+   "33671": "Verano | Juntada con amigos",
+   "33820": "Coca Cola",
+   "33856": "Verano Veautiful",
+   "39134": "Coca Cola",
+   "41257": "Zona de ahorro",
+   "41635": "Hasta 50% de descuento en la segunda unidad de gas",
+   "41907": "Hasta 50% de descuento en la segunda unidad",
+   "43297": "coca cola",
+   "44551": "Juntada | Gen Z",
+   "44928": "Gen Z",
+   "46166": "Sprite",
+   "46848": "Im-Precio-Nante",
+   "48440": "Juntos en todas",
+   "49472": "Juntos en todas",
+   "51108": "Hasta 2do al 70% en Almacén y Bebidas",
+   "51759": "Festival Sabores",
+   "51949": "Destacados de la Semana",
+   "53919": "Cencopay",
+   "55566": "Llegó el CARRITO ONLINE",
+   "60528": "Destacados de la semana",
+   "62822": "Precios sin letra chica",
+   "63687": "Hasta Jumbo al 100",
+   "63695": "Hasta J100 en Bebidas",
+   "63715": "Jumbo al 100 | Almacén, Bebidas, Frescos y más",
+   "63717": "Jumbo al 100",
+   "63723": "Hasta J100 en Gaseosas",
+   "63760": "JUMBO_rpatmpcheck100-jchecksar"
+  },
+  "searchableClusters": {
+   "24078": "Almacén y Bebidas",
+   "24311": "Campaña Vea | Bebidas",
+   "25966": "Pascuas | Elegí tu bebida",
+   "29666": "Hasta 30% en bebidas, desayuno, almacén, frescos, perfumería y limpieza",
+   "30928": "Coca Cola",
+   "33669": "Verano | Asado veraniego y más",
+   "33670": "Verano | Juntada con amigos",
+   "33671": "Verano | Juntada con amigos",
+   "33820": "Coca Cola",
+   "33856": "Verano Veautiful",
+   "39134": "Coca Cola",
+   "41257": "Zona de ahorro",
+   "44551": "Juntada | Gen Z",
+   "44928": "Gen Z",
+   "46166": "Sprite",
+   "46848": "Im-Precio-Nante",
+   "48440": "Juntos en todas",
+   "49472": "Juntos en todas",
+   "51108": "Hasta 2do al 70% en Almacén y Bebidas",
+   "51759": "Festival Sabores",
+   "51949": "Destacados de la Semana",
+   "53919": "Cencopay",
+   "55566": "Llegó el CARRITO ONLINE",
+   "60528": "Destacados de la semana",
+   "62822": "Precios sin letra chica",
+   "63687": "Hasta Jumbo al 100",
+   "63695": "Hasta J100 en Bebidas",
+   "63715": "Jumbo al 100 | Almacén, Bebidas, Frescos y más",
+   "63717": "Jumbo al 100",
+   "63723": "Hasta J100 en Gaseosas",
+   "63760": "JUMBO_rpatmpcheck100-jchecksar"
+  },
+  "categories": [
+   "/Bebidas/Gaseosas/Tónica/",
+   "/Bebidas/Gaseosas/",
+   "/Bebidas/"
+  ],
+  "categoriesIds": [
+   "/2/33/209/",
+   "/2/33/",
+   "/2/"
+  ],
+  "link": "https://www.jumbo.com.ar/gaseosa-schweppes-tonica-1-5-l/p",
+  "ProductData": [
+   "{\"allow_notes\":true,\"allow_substitute\":true,\"cart_limit\":\"100\",\"brandName\":\"SCHWEPPES\",\"brandEcomId\":\"942\",\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"measurement_unit_un\":\"ml.\",\"unit_multiplier_un\":1500,\"measurement_unit_selector\":false,\"url_canonical\":null,\"provider_code\":\"1095\"}"
+  ],
+  "SkuData": [
+   "{\"244242\":{\"ref_id\":\"12111302006\",\"cart_limit\":0,\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[\"9296178\"],\"url_canonical\":null,\"measurement_unit_un\":\"ml.\",\"unit_multiplier_un\":1500,\"measurement_unit_selector\":false,\"release_data\":{\"is_new\":false},\"cart_type\":\"1\"}}"
+  ],
+  "Configuraciones": [
+   "ProductData",
+   "SkuData"
+  ],
+  "Tipo de Producto": [
+   "Aguas Tónicas"
+  ],
+  "País de Origen": [
+   "Argentina"
+  ],
+  "Contenido": [
+   "1,5 Lts"
+  ],
+  "Envase": [
+   "Botella"
+  ],
+  "Origen": [
+   "Nacional"
+  ],
+  "Pack-Unitario": [
+   "Unitario"
+  ],
+  "Sabor": [
+   "Tónica"
+  ],
+  "Características Destacadas": [
+   "Tipo de Producto",
+   "País de Origen",
+   "Contenido",
+   "Envase",
+   "Origen",
+   "Pack-Unitario",
+   "Sabor"
+  ],
+  "Filtros": [
+   "Envase",
+   "Sabor",
+   "Pack-Unitario",
+   "Contenido"
+  ],
+  "allSpecifications": [
+   "ProductData",
+   "SkuData",
+   "Tipo de Producto",
+   "País de Origen",
+   "Contenido",
+   "Envase",
+   "Origen",
+   "Pack-Unitario",
+   "Sabor"
+  ],
+  "items": [
+   {
+    "itemId": "244242",
+    "name": "Gaseosa Tónica 1.5 Lts Schweppes",
+    "ean": "7790895006715",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "12111302006"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 4950,
+       "ListPrice": 409091,
+       "PriceWithoutDiscount": 4950,
+       "IsAvailable": true,
+       "AvailableQuantity": 99999,
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "296971",
+  "productName": "Gaseosa Sabor Naranja 1.75 Lts Fanta",
+  "brand": "FANTA",
+  "brandId": 362,
+  "linkText": "gaseosa-fanta-naranja-1-75lt",
+  "productReference": "12110901051",
+  "productReferenceCode": "12110901051",
+  "categoryId": "207",
+  "productTitle": "Gaseosa Sabor Naranja 1.75 Lts Fanta",
+  "releaseDate": "2026-05-29T00:00:00Z",
+  "clusterHighlights": {
+   "30928": "Coca Cola",
+   "33820": "Coca Cola",
+   "39134": "Coca Cola",
+   "41257": "Zona de ahorro",
+   "44796": "Gaseosas",
+   "46166": "Sprite",
+   "48440": "Juntos en todas",
+   "49472": "Juntos en todas",
+   "49856": "Fanta",
+   "51108": "Hasta 2do al 70% en Almacén y Bebidas",
+   "63760": "JUMBO_rpatmpcheck100-jchecksar"
+  },
+  "productClusters": {
+   "24078": "Almacén y Bebidas",
+   "24311": "Campaña Vea | Bebidas",
+   "25966": "Pascuas | Elegí tu bebida",
+   "29666": "Hasta 30% en bebidas, desayuno, almacén, frescos, perfumería y limpieza",
+   "30928": "Coca Cola",
+   "33820": "Coca Cola",
+   "39134": "Coca Cola",
+   "41257": "Zona de ahorro",
+   "41635": "Hasta 50% de descuento en la segunda unidad de gas",
+   "41907": "Hasta 50% de descuento en la segunda unidad",
+   "42465": "Fanta pomelo",
+   "43297": "coca cola",
+   "44796": "Gaseosas",
+   "46166": "Sprite",
+   "48440": "Juntos en todas",
+   "49472": "Juntos en todas",
+   "49856": "Fanta",
+   "51108": "Hasta 2do al 70% en Almacén y Bebidas",
+   "51759": "Festival Sabores",
+   "51949": "Destacados de la Semana",
+   "53919": "Cencopay",
+   "60528": "Destacados de la semana",
+   "63695": "Hasta J100 en Bebidas",
+   "63717": "Jumbo al 100",
+   "63723": "Hasta J100 en Gaseosas",
+   "63760": "JUMBO_rpatmpcheck100-jchecksar",
+   "63796": "Hasta 3x2 en bebidas",
+   "63809": "Hasta 3x2 en Almacén y Bebidas"
+  },
+  "searchableClusters": {
+   "24078": "Almacén y Bebidas",
+   "24311": "Campaña Vea | Bebidas",
+   "25966": "Pascuas | Elegí tu bebida",
+   "29666": "Hasta 30% en bebidas, desayuno, almacén, frescos, perfumería y limpieza",
+   "30928": "Coca Cola",
+   "33820": "Coca Cola",
+   "39134": "Coca Cola",
+   "41257": "Zona de ahorro",
+   "44796": "Gaseosas",
+   "46166": "Sprite",
+   "48440": "Juntos en todas",
+   "49472": "Juntos en todas",
+   "49856": "Fanta",
+   "51108": "Hasta 2do al 70% en Almacén y Bebidas",
+   "51759": "Festival Sabores",
+   "51949": "Destacados de la Semana",
+   "53919": "Cencopay",
+   "60528": "Destacados de la semana",
+   "63695": "Hasta J100 en Bebidas",
+   "63717": "Jumbo al 100",
+   "63723": "Hasta J100 en Gaseosas",
+   "63760": "JUMBO_rpatmpcheck100-jchecksar",
+   "63796": "Hasta 3x2 en bebidas",
+   "63809": "Hasta 3x2 en Almacén y Bebidas"
+  },
+  "categories": [
+   "/Bebidas/Gaseosas/Naranja/",
+   "/Bebidas/Gaseosas/",
+   "/Bebidas/"
+  ],
+  "categoriesIds": [
+   "/2/33/207/",
+   "/2/33/",
+   "/2/"
+  ],
+  "link": "https://www.jumbo.com.ar/gaseosa-fanta-naranja-1-75lt/p",
+  "ProductData": [
+   "{\"allow_notes\":true,\"allow_substitute\":true,\"cart_limit\":\"100\",\"brandName\":\"FANTA\",\"brandEcomId\":\"362\",\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"measurement_unit_un\":\"ml.\",\"unit_multiplier_un\":1750,\"measurement_unit_selector\":false,\"url_canonical\":null,\"provider_code\":\"1095\"}"
+  ],
+  "SkuData": [
+   "{\"296200\":{\"ref_id\":\"12110901051\",\"cart_limit\":0,\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[],\"url_canonical\":null,\"measurement_unit_un\":\"ml.\",\"unit_multiplier_un\":1750,\"measurement_unit_selector\":false,\"release_data\":{\"is_new\":false},\"cart_type\":\"1\"}}"
+  ],
+  "Configuraciones": [
+   "ProductData",
+   "SkuData"
+  ],
+  "Tipo de Producto": [
+   "Gaseosas"
+  ],
+  "País de Origen": [
+   "Argentina"
+  ],
+  "Origen": [
+   "Nacional"
+  ],
+  "Características Destacadas": [
+   "Tipo de Producto",
+   "País de Origen",
+   "Origen"
+  ],
+  "allSpecifications": [
+   "ProductData",
+   "SkuData",
+   "Tipo de Producto",
+   "País de Origen",
+   "Origen"
+  ],
+  "items": [
+   {
+    "itemId": "296200",
+    "name": "Gaseosa Sabor Naranja 1.75 Lts Fanta",
+    "ean": "7790895007255",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "12110901051"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 5150,
+       "ListPrice": 425620,
+       "PriceWithoutDiscount": 5150,
+       "IsAvailable": true,
+       "AvailableQuantity": 99999,
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "5537",
+  "productName": "Gaseosa Sabor Naranja 2,25 Lts Fanta",
+  "brand": "FANTA",
+  "brandId": 362,
+  "linkText": "gaseosa-naranja-2-25-lts-fanta",
+  "productReference": "12110901004",
+  "productReferenceCode": "12110901004",
+  "categoryId": "207",
+  "productTitle": "Gaseosa Sabor Naranja 2,25 Lts Fanta",
+  "releaseDate": "2026-05-29T00:00:00Z",
+  "clusterHighlights": {
+   "30928": "Coca Cola",
+   "33820": "Coca Cola",
+   "39134": "Coca Cola",
+   "44721": "Gaseosas",
+   "44796": "Gaseosas",
+   "45134": "Gaseosas",
+   "47714": "Juntos en todas | Coca-Cola",
+   "48007": "Juntos en todas | Coca-Cola",
+   "49856": "Fanta",
+   "51108": "Hasta 2do al 70% en Almacén y Bebidas",
+   "63760": "JUMBO_rpatmpcheck100-jchecksar"
+  },
+  "productClusters": {
+   "12965": "ALL",
+   "24078": "Almacén y Bebidas",
+   "24311": "Campaña Vea | Bebidas",
+   "25966": "Pascuas | Elegí tu bebida",
+   "27031": "Oferta de fin de semana",
+   "27044": "Días OFF | ofertas de fin de semana",
+   "27058": "Sale Todo | ofertas de fin de semana",
+   "27230": "Ahorrala como quieras del 12 al 14 de mayo",
+   "29666": "Hasta 30% en bebidas, desayuno, almacén, frescos, perfumería y limpieza",
+   "30928": "Coca Cola",
+   "33669": "Verano | Asado veraniego y más",
+   "33670": "Verano | Juntada con amigos",
+   "33671": "Verano | Juntada con amigos",
+   "33820": "Coca Cola",
+   "33856": "Verano Veautiful",
+   "39134": "Coca Cola",
+   "42405": "¡Aprovechá!",
+   "44721": "Gaseosas",
+   "44796": "Gaseosas",
+   "45134": "Gaseosas",
+   "45167": "Coca Cola",
+   "47610": "Favs de la semana | Gen Z",
+   "47714": "Juntos en todas | Coca-Cola",
+   "48007": "Juntos en todas | Coca-Cola",
+   "48228": "Juntos en todas | Coca-Cola",
+   "49856": "Fanta",
+   "50814": "Destacados de la Semana",
+   "51108": "Hasta 2do al 70% en Almacén y Bebidas",
+   "51708": "Destacados de la Semana",
+   "51759": "Festival Sabores",
+   "53919": "Cencopay",
+   "55705": "Superofertas",
+   "55821": "Bebidas festivas",
+   "62496": "Hasta 35% de Descuento en Combos",
+   "62965": "Aprovechá Hasta 50% de Descuento en la segunda unidad Coca Cola",
+   "63681": "Hasta 40% en Agua, Gaseosas y Jugos",
+   "63687": "Hasta Jumbo al 100",
+   "63695": "Hasta J100 en Bebidas",
+   "63715": "Jumbo al 100 | Almacén, Bebidas, Frescos y más",
+   "63717": "Jumbo al 100",
+   "63723": "Hasta J100 en Gaseosas",
+   "63760": "JUMBO_rpatmpcheck100-jchecksar",
+   "63771": "GENERAL",
+   "63776": "Hasta 3x2 en bebidas",
+   "63811": "Hasta 3x2 en Almacén y Bebidas"
+  },
+  "searchableClusters": {
+   "24078": "Almacén y Bebidas",
+   "24311": "Campaña Vea | Bebidas",
+   "25966": "Pascuas | Elegí tu bebida",
+   "29666": "Hasta 30% en bebidas, desayuno, almacén, frescos, perfumería y limpieza",
+   "30928": "Coca Cola",
+   "33669": "Verano | Asado veraniego y más",
+   "33670": "Verano | Juntada con amigos",
+   "33671": "Verano | Juntada con amigos",
+   "33820": "Coca Cola",
+   "33856": "Verano Veautiful",
+   "39134": "Coca Cola",
+   "42405": "¡Aprovechá!",
+   "44721": "Gaseosas",
+   "44796": "Gaseosas",
+   "45134": "Gaseosas",
+   "47610": "Favs de la semana | Gen Z",
+   "47714": "Juntos en todas | Coca-Cola",
+   "48007": "Juntos en todas | Coca-Cola",
+   "49856": "Fanta",
+   "50814": "Destacados de la Semana",
+   "51108": "Hasta 2do al 70% en Almacén y Bebidas",
+   "51708": "Destacados de la Semana",
+   "51759": "Festival Sabores",
+   "53919": "Cencopay",
+   "55705": "Superofertas",
+   "55821": "Bebidas festivas",
+   "63681": "Hasta 40% en Agua, Gaseosas y Jugos",
+   "63687": "Hasta Jumbo al 100",
+   "63695": "Hasta J100 en Bebidas",
+   "63715": "Jumbo al 100 | Almacén, Bebidas, Frescos y más",
+   "63717": "Jumbo al 100",
+   "63723": "Hasta J100 en Gaseosas",
+   "63760": "JUMBO_rpatmpcheck100-jchecksar",
+   "63771": "GENERAL",
+   "63776": "Hasta 3x2 en bebidas",
+   "63811": "Hasta 3x2 en Almacén y Bebidas"
+  },
+  "categories": [
+   "/Bebidas/Gaseosas/Naranja/",
+   "/Bebidas/Gaseosas/",
+   "/Bebidas/"
+  ],
+  "categoriesIds": [
+   "/2/33/207/",
+   "/2/33/",
+   "/2/"
+  ],
+  "link": "https://www.jumbo.com.ar/gaseosa-naranja-2-25-lts-fanta/p",
+  "ProductData": [
+   "{\"allow_notes\":true,\"allow_substitute\":true,\"cart_limit\":\"100\",\"brandName\":\"FANTA\",\"brandEcomId\":\"362\",\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"measurement_unit_un\":\"ml.\",\"unit_multiplier_un\":2250,\"measurement_unit_selector\":false,\"url_canonical\":\"\",\"provider_code\":\"1095\"}"
+  ],
+  "SkuData": [
+   "{\"247632\":{\"ref_id\":\"12110901004\",\"cart_limit\":0,\"allow_notes\":true,\"allow_substitute\":true,\"measurement_unit\":\"un\",\"unit_multiplier\":1,\"promotions\":[\"9296178\"],\"url_canonical\":\"\",\"measurement_unit_un\":\"ml.\",\"unit_multiplier_un\":2250,\"measurement_unit_selector\":false,\"release_data\":{\"is_new\":false},\"cart_type\":\"1\"}}"
+  ],
+  "Configuraciones": [
+   "ProductData",
+   "SkuData"
+  ],
+  "Tipo de Producto": [
+   "Gaseosas"
+  ],
+  "País de Origen": [
+   "Argentina"
+  ],
+  "Contenido": [
+   "2,2 Lts"
+  ],
+  "Envase": [
+   "Botella"
+  ],
+  "Origen": [
+   "Nacional"
+  ],
+  "Pack-Unitario": [
+   "Unitario"
+  ],
+  "Sabor": [
+   "Naranja"
+  ],
+  "Características Destacadas": [
+   "Tipo de Producto",
+   "País de Origen",
+   "Contenido",
+   "Envase",
+   "Origen",
+   "Pack-Unitario",
+   "Sabor"
+  ],
+  "Filtros": [
+   "Envase",
+   "Sabor",
+   "Pack-Unitario",
+   "Contenido"
+  ],
+  "allSpecifications": [
+   "ProductData",
+   "SkuData",
+   "Tipo de Producto",
+   "País de Origen",
+   "Contenido",
+   "Envase",
+   "Origen",
+   "Pack-Unitario",
+   "Sabor"
+  ],
+  "items": [
+   {
+    "itemId": "247632",
+    "name": "Gaseosa Sabor Naranja 2,25 Lts Fanta",
+    "ean": "7790895001017",
+    "measurementUnit": "un",
+    "unitMultiplier": 1,
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "12110901004"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "commertialOffer": {
+       "Price": 5900,
+       "ListPrice": 487603,
+       "PriceWithoutDiscount": 5900,
+       "IsAvailable": true,
+       "AvailableQuantity": 99999,
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "DiscountHighLight": []
+      }
+     }
+    ]
+   }
+  ]
+ }
+]

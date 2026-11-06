@@ -1,0 +1,367 @@
+{
+ "response": {
+  "results": [
+   {
+    "value": "Ketchup NATURA Pouch 500 Gr",
+    "data": {
+     "id": "prod00299498",
+     "url": "_/R-00299498-00299498-200",
+     "price": [
+      {
+       "id": "pl090_00299498",
+       "store": "090",
+       "listPrice": 3422,
+       "priceList": "priceList090",
+       "saleImage1": null,
+       "saleImage2": null,
+       "saleImage3": null,
+       "formatPrice": 6844,
+       "priceWithoutTax": 2828.1
+      }
+     ],
+     "sku_id": "sku00299498",
+     "sku_plu": 299498,
+     "discounts": [],
+     "sale_type": [],
+     "product_brand": "NATURA",
+     "product_format": "Kilo",
+     "product_is_noa": 0,
+     "sku_description": "Ketchup NATURA Pouch 500 Gr",
+     "sku_display_name": "Ketchup NATURA Pouch 500 Gr",
+     "product_main_ean": 7791866000664,
+     "product_weighable": 0,
+     "store_availability": [
+      "056",
+      "063"
+     ],
+     "product_list_price": 3422,
+     "product_quantity_step": 0,
+     "product_large_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/large/00299400/00299498.jpg",
+     "product_format_quantity": 1,
+     "product_unit_of_measure": "UNI",
+     "product_medium_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/medium/00299400/00299498.jpg",
+     "product_minimum_quantity": 0,
+     "discounts_payment_methods": [],
+     "groups": [
+      {
+       "group_id": "catv00002211",
+       "display_name": "Aderezos y Salsas",
+       "path": "/categoria/catv00001254",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001254",
+         "display_name": "Almacén"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00001254",
+       "display_name": "Almacén",
+       "path": "/categoria",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00002214",
+       "display_name": "Ketchup",
+       "path": "/categoria/catv00001254/catv00002211",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001254",
+         "display_name": "Almacén"
+        },
+        {
+         "id": "catv00002211",
+         "display_name": "Aderezos y Salsas"
+        }
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "value": "Ketchup NATURA Pouch 250 Gr",
+    "data": {
+     "id": "prod00244551",
+     "url": "_/R-00244551-00244551-200",
+     "price": [
+      {
+       "id": "pl200_00244551",
+       "store": "200",
+       "listPrice": 1742,
+       "priceList": "priceList200",
+       "saleImage1": null,
+       "saleImage2": null,
+       "saleImage3": null,
+       "formatPrice": 6968,
+       "priceWithoutTax": 1439.67
+      }
+     ],
+     "sku_id": "sku00244551",
+     "sku_plu": 244551,
+     "discounts": [],
+     "sale_type": [],
+     "product_brand": "NATURA",
+     "product_is_noa": 0,
+     "product_format": "Kilo",
+     "sku_description": "Ketchup NATURA Pouch 250 Gr",
+     "sku_display_name": "Ketchup NATURA Pouch 250 Gr",
+     "product_main_ean": 7791866000381,
+     "product_weighable": 0,
+     "product_list_price": 1742,
+     "store_availability": [
+      "056",
+      "063"
+     ],
+     "product_quantity_step": 0,
+     "product_large_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/large/00244500/00244551.jpg",
+     "product_unit_of_measure": "UNI",
+     "product_format_quantity": 1,
+     "product_medium_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/medium/00244500/00244551.jpg",
+     "product_minimum_quantity": 0,
+     "discounts_payment_methods": [],
+     "groups": [
+      {
+       "group_id": "catv00002211",
+       "display_name": "Aderezos y Salsas",
+       "path": "/categoria/catv00001254",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001254",
+         "display_name": "Almacén"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00001254",
+       "display_name": "Almacén",
+       "path": "/categoria",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00002214",
+       "display_name": "Ketchup",
+       "path": "/categoria/catv00001254/catv00002211",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001254",
+         "display_name": "Almacén"
+        },
+        {
+         "id": "catv00002211",
+         "display_name": "Aderezos y Salsas"
+        }
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "value": "Mayonesa NATURA Pouch 475 Gr",
+    "data": {
+     "id": "prod00075721",
+     "url": "_/R-00075721-00075721-200",
+     "price": [
+      {
+       "id": "pl129_00075721",
+       "store": "129",
+       "listPrice": 3042,
+       "priceList": "priceList129",
+       "saleImage1": null,
+       "saleImage2": null,
+       "saleImage3": null,
+       "formatPrice": 6404.21,
+       "priceWithoutTax": 2514.05
+      }
+     ],
+     "sku_id": "sku00075721",
+     "sku_plu": 75721,
+     "sale_type": [],
+     "discounts": [],
+     "product_brand": "NATURA",
+     "product_format": "Kilo",
+     "product_is_noa": 0,
+     "sku_description": "Mayonesa NATURA Pouch 475 Gr",
+     "sku_display_name": "Mayonesa NATURA Pouch 475 Gr",
+     "product_main_ean": 7791866001364,
+     "product_weighable": 0,
+     "product_list_price": 3042,
+     "store_availability": [
+      "056",
+      "063"
+     ],
+     "product_quantity_step": 0,
+     "product_format_quantity": 1,
+     "product_unit_of_measure": "UNI",
+     "product_large_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/large/00075700/00075721.jpg",
+     "product_minimum_quantity": 0,
+     "product_medium_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/medium/00075700/00075721.jpg",
+     "discounts_payment_methods": [],
+     "groups": [
+      {
+       "group_id": "catv00001254",
+       "display_name": "Almacén",
+       "path": "/categoria",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00002211",
+       "display_name": "Aderezos y Salsas",
+       "path": "/categoria/catv00001254",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001254",
+         "display_name": "Almacén"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00002212",
+       "display_name": "Mayonesas",
+       "path": "/categoria/catv00001254/catv00002211",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001254",
+         "display_name": "Almacén"
+        },
+        {
+         "id": "catv00002211",
+         "display_name": "Aderezos y Salsas"
+        }
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "value": "Mayonesa NATURA Pouch 950 Gr",
+    "data": {
+     "id": "prod00050543",
+     "url": "_/R-00050543-00050543-200",
+     "price": [
+      {
+       "id": "pl092_00050543",
+       "store": "092",
+       "listPrice": 5963,
+       "priceList": "priceList092",
+       "saleImage1": null,
+       "saleImage2": null,
+       "saleImage3": null,
+       "formatPrice": 6276.84,
+       "priceWithoutTax": 4928.1
+      }
+     ],
+     "sku_id": "sku00050543",
+     "sku_plu": 50543,
+     "discounts": [],
+     "sale_type": [],
+     "product_brand": "NATURA",
+     "product_is_noa": 0,
+     "product_format": "Kilo",
+     "sku_description": "Mayonesa NATURA Pouch 950 Gr",
+     "sku_display_name": "Mayonesa NATURA Pouch 950 Gr",
+     "product_main_ean": 7791866001357,
+     "product_weighable": 0,
+     "product_list_price": 5963,
+     "store_availability": [
+      "056",
+      "063"
+     ],
+     "product_quantity_step": 0,
+     "product_large_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/large/00050500/00050543.jpg",
+     "product_unit_of_measure": "UNI",
+     "product_format_quantity": 1,
+     "product_medium_image_url": "https://static.cotodigital3.com.ar/sitios/fotos/medium/00050500/00050543.jpg",
+     "product_minimum_quantity": 0,
+     "discounts_payment_methods": [],
+     "groups": [
+      {
+       "group_id": "catv00002211",
+       "display_name": "Aderezos y Salsas",
+       "path": "/categoria/catv00001254",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001254",
+         "display_name": "Almacén"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00001254",
+       "display_name": "Almacén",
+       "path": "/categoria",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        }
+       ]
+      },
+      {
+       "group_id": "catv00002212",
+       "display_name": "Mayonesas",
+       "path": "/categoria/catv00001254/catv00002211",
+       "path_list": [
+        {
+         "id": "categoria",
+         "display_name": "Categorias"
+        },
+        {
+         "id": "catv00001254",
+         "display_name": "Almacén"
+        },
+        {
+         "id": "catv00002211",
+         "display_name": "Aderezos y Salsas"
+        }
+       ]
+      }
+     ]
+    }
+   }
+  ],
+  "total_num_results": 20
+ }
+}
